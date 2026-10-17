@@ -1,0 +1,3013 @@
+[
+  {
+    "id": "com.buunyan.road_station",
+    "title": "道の駅ナビ - ドライブ・旅行の検索＆チェックイン",
+    "summary": "",
+    "description": "🚗 **道の駅ナビ - あなたの日本一周・ドライブの最高のパートナー！** 🚗\n\n日本全国1,200箇所以上の道の駅と、車中泊に最適な「RVパーク」情報を網羅した「道の駅ナビ」で、新しい発見と最高の旅を体験しましょう！\n地元の美味しいグルメ、特産品、癒やしの温泉、そしてキャンピングカー旅行に欠かせない電源やゴミ処理などの車中泊設備情報まで、道の駅とRVパークの魅力を最大限に引き出します。\n\n✨ **主な機能**\n📍 **都道府県から検索**\n行きたい地域の道の駅やRVパークをスムーズに検索。旅行の計画もこれ一つでOK！\n🔍 **こだわり条件・施設から検索**\nレストラン、温泉、特産品ショップ、ドッグラン、キャンプ場に加え、RVパークの電源設備やゴミ処理、水道の有無など、目的に合わせて絞り込みが可能。\n🕒 **現在地から検索**\n今いる場所から最も近い道の駅やRVパークを瞬時に表示。長距離ドライブの休憩スポットや今夜の宿泊場所探しに最適！\n🗺️ **道の駅＆RVパークの統合マップ**\n地図上で「道の駅」と「RVパーク」をフィルター切り替え表示。RVパーク専用ピン（ロゴ）や吹き出し差別化で、車中泊スポットが直感的に見つかります。\n✅ **チェックイン機能**\n訪れた道の駅やRVパークにチェックイン！旅の記録をクラウドに保存して、スタンプラリー感覚で楽しめます。自動チェックイン機能も搭載！\n📸 **思い出を共有（画像投稿）**\n撮影した写真を道の駅アプリ内で投稿。おすすめの景色やグルメをみんなで共有。\n💬 **口コミ・リアルな感想**\n他のユーザーの感想を見て、車中泊のしやすさやおすすめのグルメ、特産品を事前にチェック。\n\n🌟 **こんな方にぴったり！**\n・週末のドライブや家族旅行を計画中の方\n・日本全国の特産品や「道の駅グルメ」を堪能したい方\n・キャンピングカーや車中泊で快適な旅を楽しみたいドライバー\n・RVパークや電源設備、入浴施設のある車中泊スポットを探している方\n・温泉巡りや、地域のスタンプラリーが好きな旅人\n・旅行の思い出を写真と一緒に記録したい方\n\nあなたの旅をもっと楽しく、もっと快適に。\n「道の駅ナビ」を今すぐダウンロードして、新しい旅の物語を始めましょう！全国の道の駅＆RVパークを網羅！現在地検索や温泉・グルメ、電源等の車中泊情報、チェックイン機能であなたのドライブや車中泊の旅をもっと楽しく便利に！最終更新日2026/10/04",
+    "icon": "https://play-lh.googleusercontent.com/mvMrSdl5O2AWYB9HBFTACbnUG9xSqRo53qycbR4Kdo2p32-NAhSUKZrESoA-Y6un6zS4T5tN6q01bsDi_Afm-g=s256",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/wm_4BT6xNsWHXvQlXveTjOcYfbRXGi47WBu22ZSEXtjbHpjkHNe_6Gp8c7b-1dU6RECavEE78jc5Nw3gGcOt8g=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/4TIc3Iw5EqcMKJZPE6zxiYTGNSdnR3UzkAVTN-VoRk7FL_gEgpEMt9kivfr_aFC8VB71EBfPnjFjSAkIRsxq=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/YPa-9HlsGoYxniJSEfMFF7vsaisVOo3jK1Va4DMMz9_to33VSda41ZBijKoRTKD5u-_lKKSChQXUokw8cFz9eQ=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/A-uOYc3A22Gw-IsEwBH1TjpMC6JsNX_CdLYSNaHQFoshcXQXk8hNd_byV85by4jC_ouaal8ffPEJoPSci4dzZw=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/x9UO5a-4jBUHB82iOnShek_jSnKpkSXVH7kA2bOObKc9eO9rl-zJj0YMo6RUTYPv1EUvZhAICRnyQZElKKVN7g=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/zqemrK6gPgX10fPipfAkDSkGLsEkiv4y3G-MO1TK5mIT0bEOSgQHBvSXuIW5FeAohJADtT241ylx_VD00HkqLQ=w1080-h1920-rw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=com.buunyan.road_station&hl=ja",
+    "category": "travel",
+    "category_label": "旅・ドライブ",
+    "catchphrase": "日本全国1,200箇所以上の道の駅＆RVパークを完全網羅！車中泊・ドライブ旅の決定版パートナー",
+    "tags": [
+      "道の駅",
+      "RVパーク",
+      "車中泊",
+      "温泉検索",
+      "スタンプラリー"
+    ],
+    "highlights": [
+      "全国1,200超の道の駅とRVパークの最新情報を網羅",
+      "温泉・グルメ・電源・ゴミ処理など車中泊設備を一発検索",
+      "ワンタップで訪問チェックイン＆都道府県別達成率を記録",
+      "現在地から一番近いスポットを即座にリストアップ"
+    ],
+    "badge": "人気No.1",
+    "url": "https://play.google.com/store/apps/details?id=com.buunyan.road_station&hl=ja"
+  },
+  {
+    "id": "com.buunyan.dam_navi",
+    "title": "ダムカードナビ - 全国のダム巡り＆スタンプ帳",
+    "summary": "",
+    "description": "全国のダム巡りやダムカード収集を、もっと楽しく、もっと便利に！\n「ダムカードナビ」は、日本全国のダム情報、マップ、ダムカードの配布場所・ルールを網羅した、ダムファンやドライブ・旅行好きのためのスタンプラリー＆訪問記録アプリです。\n\n黒部ダムなどの有名観光ダムから、知る人ぞ知る山奥 of 山奥のダムまで幅広くカバー！\nマップ機能や位置情報を使って、現在地から近いダムや配布場所をひと目で探すことができます。\n\n【ダムカードナビの主な機能と特徴】\n\n■ 1. 全国対応のダムマップ＆ナビゲーション\n・日本全国のダムの位置をわかりやすいピンで地図上に表示。\n・GPS（位置情報）を利用して、あなたの現在地から近いダムをすばやく発見できます。\n・外部のナビアプリと連携し、ルート検索もスムーズです。\n\n■ 2. 詳細なダムスペック＆ダムカード配布情報\n・ダムの高さ、堤頂長、総貯水量、型式（アーチダム、重力式コンクリートダム等）、目的（治水、発電等）などの詳細なスペックを掲載。\n・ダムカードの配布場所や配布ルール（「現地を訪れた証明が必要」など）の最新情報を確認できます。\n\n■ 3. デジタルスタンプ＆写真付き訪問記録\n・ダムを訪れたら、スタンプを押して訪問記録を残しましょう！\n・自分で撮影したダムやダムカードの写真をアプリ内に保存し、あなただけのオリジナル「ダム図鑑」を作ることができます。\n\n■ 4. 地域別の達成率（スタンプラリー進捗）\n・北海道から沖縄まで、地域ごとにどれだけのダムを制覇したかをパーセンテージとグラフで視覚化。\n・コンプリートを目指すモチベーションを高めます！\n\n■ 5. ダークモード対応\n・夜間のドライブや旅行の計画時にも目に優しいダークテーマに対応しています。\n\n【こんな方におすすめです】\n・ダムカードを収集しているコレクターの方\n・週末のドライブ、ツーリング、旅行の目的地を探している方\n・スタンプラリーやコンプリート要素があるアプリが好きな方\n・巨大建造物やインフラ観光、土木技術に興味がある方\n・日本全国を旅して記録を残したい方\n\nダムカードナビと一緒に、全国の美しいダムを巡る冒険に出かけましょう！\n\n※ダムカードの配布状況やルールは変更される場合があります。お出かけの際は、事前に公式情報も合わせてご確認ください。全国のダムカード配布場所をマップで確認！訪問記録や写真、スペック情報が満載のダム巡りアプリ最終更新日2026/10/11",
+    "icon": "https://play-lh.googleusercontent.com/sujIvj88LC0cwhUJR7XfNrFx7kAfkWXCI2ANomUg4sZB2a1n8yQJ5pV4z5a0_LMF7udfHtGpLhVx8qS0mwuTFA=s256",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/CAkr9NyjymRR4wax9YmLoV8l2c15E9fubHtEYhYV7vw3uKjjdpIdLjC-Elhxou93bvscwBRCHPNMPUOYRKPn=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/MgTHFeF9q3gvvmSupZQ2_nKbhKMr0WF8d0agdR0H-csIoBaIs9n6nWsAczu0veqEOtIdA9wsMmKRyyZ2RjXj5g=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/l3fUg38luXI49EypisdOijiflYPiW8PMqfxFBDzbVu6Gjx-0q8O0lRU1DaJVeQ3o3QERUWBG5knXwmz3BJwZpQ=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/j56guaM-a98K6HrxLgEyijf-LIbYoZo7OP1Ri7d4OfN5_gbrXUgwTN8xr_3UppF6F0Pw6__an06Snjxxf0NxrQ=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/RI2qzPcC4ojUVjHGsHn5xmKmei1eSirfaiKFQNazaRur4PT5Zubu9mkZ45UGsfDfmSajo6LVoh8EDbVo51L5cg=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/SDBkTEKXQQ0RvuQu-gGDnAaSjvk35tDrsvQ6gdrR_uQ7BbyA65aPN-KriW2ttLBHoLfs0VdrVHge-bT4X_TR0g=w1080-h1920-rw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=com.buunyan.dam_navi&hl=ja",
+    "category": "travel",
+    "category_label": "旅・ダム巡り",
+    "catchphrase": "全国のダム＆ダムカード配布情報を集約！ダム愛好家・ツーリング旅のためのスタンプ帳",
+    "tags": [
+      "ダム巡り",
+      "ダムカード",
+      "スタンプラリー",
+      "現在地案内",
+      "訪問記録"
+    ],
+    "highlights": [
+      "日本全国の観光ダムから山奥の隠れた名堤まで網羅",
+      "ダムカードの配布場所・受付時間・配布ルールを明記",
+      "訪問済みダムを色分け表示できる全国マップ機能",
+      "現在地からのルート案内や訪問写真・メモの記録に対応"
+    ],
+    "badge": "100+ DL",
+    "url": "https://play.google.com/store/apps/details?id=com.buunyan.dam_navi&hl=ja"
+  },
+  {
+    "id": "com.buunyan.ichinomiya",
+    "title": "全国一ノ宮ナビ -一の宮巡拝スタンプ帳-",
+    "summary": "",
+    "description": "全国108社の「一ノ宮（一の宮）」を巡拝するための公式スタンプ帳アプリです。\n参拝した神社を記録し、いつでも達成状況を確認できます。\n\n■ こんな方におすすめ\n・全国の一ノ宮を制覇したい方\n・御朱印巡り・神社巡礼をされている方\n・訪れた神社を記録・管理したい方\n・旅行の計画を立てるのが好きな方\n\n■ 主な機能\n\n【巡拝スタンプ帳】\n全国108社（令制国一宮＋新一の宮）の参拝記録を管理できます。\n参拝した日時が自動的に保存され、達成状況を一目で確認できます。\n\n【神社一覧・検索】\n神社名・御祭神・住所などでキーワード検索が可能。\n参拝済み・未参拝・メモあり・神社の種別など、多彩なフィルターで絞り込めます。\n\n【神社詳細情報】\n各神社の御由緒・御祭神・主な祭礼・参拝時間・初穂料など詳細な情報を掲載。\n神社の位置にある1週間の天気予報も確認できます。\n\n【地図で探す】\n全108社を地図上に表示。GPSで現在地周辺の神社を検索し、\nカルーセルで一覧表示します。そのまま Google マップと連携してルート案内も可能。\n\n【参拝メモ・写真】\n神社ごとに参拝時の感想や御朱印の情報などをメモとして記録できます。\n実際に撮影した写真を登録すれば、あなただけのオリジナルスタンプ帳に。\n\n【ライト・ダークテーマ】\nライトモード／ダークモード／システム設定に連動した3種類のテーマに対応。\n\n一ノ宮巡拝の旅をより楽しく、記録する喜びをお届けします。\n\n※ 神社情報は編集部が調査・作成したものです。正確な参拝時間や初穂料は各神社へご確認ください。全国108社の一ノ宮を巡拝記録・地図で管理。御朱印巡りのお供に。最終更新日2026/10/12",
+    "icon": "https://play-lh.googleusercontent.com/g4hSbZlQ6gp9j7B-HIPHMAR0GEnzZ1MrrE9XCXczDKHry3-zGoAH_vYKC2IXH-2-srDXQ_Re0hVRhOfX9ykDGg=s256",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/MNpqjOSoVrmTRWjMjxFgdfJFPFIrmJHakQnHTYyNDub8dgnJi-JfJtcvXA-NjiUuF1qE26IZELRSJXFtoiju=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/WGDj_ODs9273P2BM8xOg2WVBy6VI-ZH8ajkvnqEvcpxYK81DfXbPaWx55uaHITKbo46pRTfk6my4cYYAsVk0Bg=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/5RqGQq8g_b4hzZpJIe0IZfZWlr4KFWrVJgXLA0S5AMxL2AAyl6K5ZjWUgvD_zEIxVxiJcz71eX-QBCgcrhvKCg=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/Mfn6L-GtRxiBUth6E9Vsd0cOc45kgL06-cF8cfOboeeQl2X_7a2dRIr_s9v0dHqSorqXyrokUeJE4UDFiFHOvQU=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/8EfG59RKHfOdyMbjb1OUbMFZzgykpBIGp88Tx0KvXJ9itYk1kw3MnqPLPBsDvTBhu9DFtT-EzDYXeTWMd2AuhA=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/iFstqoxDElUVv4T3KxkxP3OTcuFvWF5ZQQjT7aIxy4n2uaVigCCykxeG6EZV9FQ10X1itPj1oORm=w1080-h1920-rw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=com.buunyan.ichinomiya&hl=ja",
+    "category": "travel",
+    "category_label": "巡拝・神社",
+    "catchphrase": "全国108社の「一の宮」を完全制覇！由緒ある神社巡拝・御朱印集めをサポートする公式スタンプ帳",
+    "tags": [
+      "一の宮巡拝",
+      "神社",
+      "御朱印",
+      "パワースポット",
+      "スタンプ帳"
+    ],
+    "highlights": [
+      "旧令制国ごとに定められた全国108社の一の宮をすべて収録",
+      "御祭神・旧社格・鎮座地・由緒などの詳細な神社データ",
+      "参拝日時の記録と全国巡拝達成度ダッシュボード",
+      "現在地からの距離順表示＆マップナビゲーション"
+    ],
+    "badge": "巡拝必携",
+    "url": "https://play.google.com/store/apps/details?id=com.buunyan.ichinomiya&hl=ja"
+  },
+  {
+    "id": "com.buunyan.water100",
+    "title": "名水百選ナビ",
+    "summary": "",
+    "description": "環境省が選定した「名水百選」および「平成の名水百選」の合計200箇所を巡る旅をサポートするナビゲーション＆記録アプリです。\n\n【主な機能】\n- **訪問達成状況のダッシュボード**: 地方ごとの訪問進捗率を直感的に把握できます。\n- **名水マップ＆現在地周辺検索**: 地図上で名水の位置（訪問済は緑、未訪問は青）を確認し、現在地からのルート案内もスムーズに行えます。\n- **3D名水百選カード**: 立体的に反転する美しいカードUIで、名水の歴史や由来を楽しく学べます。\n- **訪問チェックイン＆マイフォト登録**: 訪問日やメモの記録に加え、自分で撮影した写真をカードの背景として登録可能！\n- **天気予報連携**: 各名水スポットの週間天気をその場でチェックできます。\n\n日本が誇る美しい水源を訪ねる旅に出かけましょう！全国の名水百選を巡る旅へ！地図と天気予報でナビゲートする訪問記録アプリ。最終更新日2026/07/12",
+    "icon": "https://play-lh.googleusercontent.com/WwpjD_1xXoblLmW7K6L99pqS4-RIy2T8vWbqirywnSFhltz99k7ZXCOdjx6qQ3n-JzHBrUdZbk_wpu6v-aVE=s256",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/auZeNkbfpMr_UP1gtJLan4dQnqHO2QESS79IJvXFqbOMpjLwrzJzBWLf7Q1vmbbKj7JMGu73EvQ1dUY_hQXuFQ=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/ZWDxkMp5kW3CEe_06CK55Dl8MhakPkgo8kCWDl_NBxKj0w-_f6HxWNIuncREhHgikFwU02HmFm8N59_lgmdDCg=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/6-Dh4A3oyZIbcLkqcVmla_ANHggkOpBRptZYa80f8OIZRNrgPwboS6cnkcvOPoPddMz_HTewzqGXOISJFHtn=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/qV1kOmQ3sGQ62D87oyYgGDtKeMGyLmIq8T6jPN8abJ5HQLlUHi_hJMxZ-5_3EAKCcrew273AbDX6en8IX9JH=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/hirPW9ON-F7hPHdMJDSgX-q8FMOgqnjSLYLetv3Z2dwulsbDDSzikTXg22JrdTbUXBmCaawRa05YBDWM81yCQK4=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/6nbeiL7x_9965XKukypipMc0kJK90hEzaLdb4VSmAVpZp9v-8e7saFqMeYVVXPUTTTGugxmkbWK-KTx2l1AF=w1080-h1920-rw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=com.buunyan.water100&hl=ja",
+    "category": "travel",
+    "category_label": "旅・自然探訪",
+    "catchphrase": "環境省認定「名水百選」＆「平成の名水百選」計200箇所！日本の清らかな湧水をめぐる旅",
+    "tags": [
+      "名水百選",
+      "湧水",
+      "自然",
+      "ドライブ",
+      "訪問達成率"
+    ],
+    "highlights": [
+      "「昭和の名水百選」「平成の名水百選」合計200箇所を完全収録",
+      "訪問済み（緑）と未訪問（青）が一目でわかる日本地図",
+      "地方ごとの訪問進捗率ダッシュボードで達成感を実感",
+      "名水の特徴や保全活動などの詳細情報を手軽にチェック"
+    ],
+    "badge": "名水めぐり",
+    "url": "https://play.google.com/store/apps/details?id=com.buunyan.water100&hl=ja"
+  },
+  {
+    "id": "com.buunyan.art_mosaic_quiz_game",
+    "title": "モザイク博物館〜日本美術の国宝・重要文化財当て歴史クイズ〜",
+    "summary": "",
+    "description": "【ゲーム概要】\n「モザイク博物館」へようこそ！\n本作は、日本の国宝や重要文化財に指定されている絵画・彫刻・工芸品などの美しい美術品画像をテーマにした、新感覚 of 歴史・知育クイズゲームです。\n国立国会図書館の「ジャパンサーチAPI」から公式連携されたパブリックドメイン・商用利用可能な高精細アートを使用。歴史ファンから知育目的のファミリーまで、どなたでも楽しく日本美術の奥深さに触れることができます。\n【ゲームシステム】\n◆ ドキドキのモザイク解除演出\n出題開始時は画像に濃いモザイクがかかっています。時間の経過とともにドットが滑らかに細かくなり、美術品が徐々にその全貌を現します！早く正解するほど高得点！\n◆ 3段階の歴史ヒント機能\nどうしても分からないときはヒントを活用しましょう。\n第1段階：時代・年代情報\n第2段階：指定区分（国宝 / 重要文化財）\n第3段階：作者名・所蔵館情報\n知的好奇心を刺激する情報が徐々にアンロックされます。\n◆ 豊富なゲームモード\n「国宝縛り」「重文縛り」「時代別タイムトラベル」「ランダムチャレンジ」など、あなたの知識レベルに合わせたクイズに挑戦可能。\n◆ コレクションを埋める「美術品図鑑」\nクイズで出会った・正解した美術品はあなた専用の「図鑑（ギャラリー）」に記録されます。\n正解した作品はいつでもカラーで高画質ズーム鑑賞でき、提供元の詳細データベース（ジャパンサーチ）へのアクセスも可能。解説を読んで日本美術コレクターを目指しましょう！徐々に晴れるモザイクから日本美術の国宝・重文を当てる歴史知育クイズゲーム！最終更新日2026/07/10",
+    "icon": "https://play-lh.googleusercontent.com/ttM9AwFSOLNIcukAFMHzI7sj-qPi0NmPFu1JE8lE4M_57cbDMHhEf9T4FE_-9SPbBVhU-kz-cAXLzrYM5iKFDto=s256",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/4KiL40r5LzqEdTmYG0ry4xRwtAJo4KP32fCl9WpztWoEIITsDUjJqDcrx3ada2bjYvv2GsIVkVjkVsZn_8oqLQ=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/f2pXZsltAHfxjGt5yXsqya-xyw-fbS_b7kqUGK0-6PIq8VMhIJjpKrP2wYRbmUUhDRzCxtc4ViKVR5aEgG59WA=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/uol1K2t8fWRDEt2F4fSHVSpCtrlV502-YE3qQUulzr-2MjTWI8DrBm_MttM9-Nz7-RByqPpwCl1l3OkaSTfhQC8=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/hOWxkdRR098nQ0eEmILYgFoSjGe8ojeTuSYCXHwTAgfT4E2_Mk7x-U1CaE7Cg2BKIQYQNlM6QbSvl4pcnn6aOQ=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/EtqIoNc6qF-GrnQbdc1RykGdbszkVnuIW1gXjAfgsPk7q81b69wTefRT63RkB7ICq3E_MpBEsuYjC7JZnmYWbA=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/CE8xLR_cjnSBFZnYZlaj2Q9c89rmnaMi22lo1O33w2ZucO3ztIlACsNT1rn6CFjBqtbTQrJ2UYByeGE98Am6=w1080-h1920-rw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=com.buunyan.art_mosaic_quiz_game&hl=ja",
+    "category": "education",
+    "category_label": "学習・クイズ",
+    "catchphrase": "国立国会図書館ジャパンサーチ公式連携！モザイクに隠れた日本の国宝・重要文化財を当てる新感覚アートクイズ",
+    "tags": [
+      "日本美術",
+      "国宝",
+      "重要文化財",
+      "知育・歴史",
+      "図鑑コレクション"
+    ],
+    "highlights": [
+      "ジャパンサーチ公式連携のパブリックドメイン高精細画像を使用",
+      "徐々にモザイクが晴れていくドキドキの推測クイズシステム",
+      "正解した美術品は高画質ズーム鑑賞＆詳細解説付き図鑑にコレクション",
+      "「国宝縛り」「時代別」など多彩なゲームモードを搭載"
+    ],
+    "badge": "公式連携",
+    "url": "https://play.google.com/store/apps/details?id=com.buunyan.art_mosaic_quiz_game&hl=ja"
+  },
+  {
+    "id": "com.buunyan.doremi_voice",
+    "title": "ドレミボイス",
+    "summary": "",
+    "description": "楽譜を読むのが苦手な方、もっとスムーズに音符を読めるようになりたいすべての方へ。\n「ドレミボイス」は、画面に表示された音符を見て、マイクに向かって「ド」「レ」「ミ」と声で答える新感覚の読譜学習アプリです。\n\n### 🚫 広告は一切なし！100%学習に集中できる\n- アプリ内に広告は一切表示されません。\n- お子様の一人学習や、日々の短い練習時間でも、バナーや動画広告に集中力を途切れさせられることなく、ノンストレスで効率的に読譜力を高められます。\n\n### 🎤 声で答える！リアルタイム音声判定\n- 画面に表示される音符を見て、マイクに「ド」「レ」「ミ」と発声するだけ！\n- 高精度な音声認識技術により、あなたの声をリアルタイムに判定します。歌うような感覚で、楽しく学習を進められます。\n\n### 🤫 声を出せない場所でも安心！ボタン入力モード\n- 電車の中や静かな場所では、「ボタンタップ回答」にワンタップで切り替え可能。\n- いつでもどこでも、隙間時間に進められます。\n\n### 𝄞 ト音記号・ヘ音記号に完全対応\n- ピアノの右手・左手、合唱や吹奏楽など、あらゆる楽器学習のニーズに対応。\n- 設定からワンタップで「ト音記号（𝄞）」と「ヘ音記号（𝄢）」を切り替えられます。\n\n### 📅 カレンダー機能で毎日の成長を記録\n- 学習履歴がカレンダー形式で自動で記録されます。\n- その日のノルマ（目標問数）を達成すると、カレンダーに「はなまる」マークがつきます！モチベーションを維持しながら、毎日コツコツ続けられます。\n\n### ⚙️ 自分好みにカスタマイズできるトレーニング設定\n- 1回のトレーニング問数（ノルマ）を自分のペースに合わせて変更可能。\n- 音声ガイド（お手本の音）の再生間隔などを細かく調整し、自分に最適な学習環境を作れます。\n\n---\n\n## こんな人におすすめ！\n- 広告に邪魔されず、静かに集中して楽譜の練習を行いたい方\n- お子様に安心して使わせられる、広告なしの音楽教育アプリを探している方\n- ピアノやその他の楽器、歌を習い始めたばかりの初心者の方\n- 楽譜を読む（読譜）スピードをアップさせたい方\n- 部活やサークルでのソルフェージュ、基礎練習として\n- 「楽譜アレルギー」を克服して、もっと音楽を楽しみたい方「声」で答える、新感覚の読譜トレーニング！広告なしだからゲーム感覚で楽しく集中して楽譜が読めるようになる♪最終更新日2026/09/10",
+    "icon": "https://play-lh.googleusercontent.com/KMXtGqHzOFjF4Eh-hJrp7jNpI0x_fCZ8Im0cieXlBSMDEEAmR54WYJgps1CyHMxlz_mN9GjW0y15a5jLMN9x=s256",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/L_oLxPCBcBjLYYWoW5Mtc5YUCNfEjaOtPDX8p4huLGKFgitHPspg2gaV2iKmeXz0lj0MS_lq_WWeZnSNJL4dUg=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/PQPei-lT7Ye7LoJwl-1_gQH9PGEpZBGyf3jxYNb-M5N8g4CeN-M8JF4M_Er0sHSKFlr97-Jm1JqXCZvZqVpfIzw=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/zfwLxrNpGwZGteqLIn7Y_JQlY4p1eLTFJcrqjGQLit9fDQAYyckcoBAGsemRWVkKRX7DgJOzIVcUJ27YgMGdvA=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/CAvoPaHqd1mlC0ImI32IvGqw03DUg3ixHuoC4xxk93ue0id4BCDeNahZ6tCtUeaeyhIbocywHmB_kW8MxMbmwLA=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/iFstqoxDElUVv4T3KxkxP3OTcuFvWF5ZQQjT7aIxy4n2uaVigCCykxeG6EZV9FQ10X1itPj1oORm=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/12USW7aflgz466ifDehKTnMoAep_VHxDmKJ6jEBoDZWCSefOC-ThRX14Mqe0r8KF9XCzrpMqJts=w1080-h1920-rw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=com.buunyan.doremi_voice&hl=ja",
+    "category": "education",
+    "category_label": "学習・音楽",
+    "catchphrase": "楽譜を見て声で答える新感覚読譜トレーニング！広告なしで誰でもスラスラ音符が読めるように",
+    "tags": [
+      "読譜学習",
+      "音符トレーニング",
+      "音声認識",
+      "広告なし",
+      "ピアノ・音楽"
+    ],
+    "highlights": [
+      "画面の音符を見てマイクに「ド」「レ」「ミ」と発声する直感UI",
+      "学習を妨げる広告は一切なし！完全集中できるクリーン設計",
+      "ト音記号・ヘ音記号、初心者から上級者まで選べる難易度",
+      "正確な音程判定とテンポ感で音符読みが自然とスピードアップ"
+    ],
+    "badge": "完全広告なし",
+    "url": "https://play.google.com/store/apps/details?id=com.buunyan.doremi_voice&hl=ja"
+  },
+  {
+    "id": "com.buunyan.bingo_card",
+    "title": "スマートビンゴ",
+    "summary": "",
+    "description": "忘年会、新年会、結婚式の二次会、パーティー、各種イベントに最適！ スマートフォンの画面上で、いつでも手軽にビンゴゲームに参加できるペーパーレスなビンゴカードアプリ「スマートビンゴ」です。\n\n面倒な紙のカードの準備や配布は一切不要。アプリを起動するだけで、すぐにゲームを始められます。\n\n【スマートビンゴの魅力的な機能】\n\nデジタルならではの爽快なビンゴ演出 見事にラインが揃うと、マスが波打つように順次輝くシーケンシャルアニメーションが発動！その後、お祝いポップアップが表示されゲームを大きく盛り上げます。\n心地よい触覚フィードバック（バイブレーション） マスをタップした瞬間やビンゴ達成時のアニメーションに連動して、心地よい振動が指先に伝わります（設定でON/OFFの切り替えが可能です）。\nスタイルに合わせて選べる4つのデザインテーマ アプリの雰囲気をガラリと変えられるデザインプレビュー付きテーマ選択機能を搭載。\n「クラシックレッド」：温かみのある王道デザイン\n「スポーティブルー」：爽やかでクールなデザイン\n「エレガントゴールド」：高級感あふれるシックなデザイン\n「サイバーネオン」：近未来風の鮮やかなネオンデザイン\n途中でアプリを閉じても安心の自動セーブ アプリを途中で閉じたり、端末を再起動したりしても、カードの数値やマスのオープン状態は自動保存されます。安心して最後までゲームを楽しめます。\n世界中で使える11ヶ国語の多言語対応 日本語、英語をはじめ、中国語、ヒンディー語、韓国語、欧州主要言語など計11言語に対応。初回起動時に端末の言語を自動で検知して最適な言語を設定します。グローバルな集まりにも最適です。\n紙のゴミを出さず、エコでスタイリッシュにビンゴゲームを楽しみましょう！紙不要！カラフルなテーマと爽快な演出でイベントを盛り上げる多言語ビンゴカード最終更新日2026/08/14",
+    "icon": "https://play-lh.googleusercontent.com/oIcJ4BtN55KTAWXOP79fs5yiNZaU1hkMeCozeQitYQZ6sdpniUfs_JMt8DLjxuxpJiAHlKMpNjB6QG_iSUQV4JQ=s256",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/GRx2Fz7xWuFpu1dkkkyo4P3bCBQzYwVgMEoOQvXM4212HJ9D73LWgQvjAM_7wR3NVGb4Hp71PFDQhwql7i8v=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/cILeZHwnWVv2YyY0suLqw6rD2Lnei3cMU3EjMaDKx5taob8xBy8N8yYod8C8epW6w9kuNTSuy9qrjUouH0PpKQ=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/T7jC6QVn4sa6Td_z1eTOULN_OROsb54y51SLUREcwj4NcGZ8sr6Chv6hBVsA8b5V_Flz3X98YQdocS-kJWuMrQ=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/CopfOPrpoJDAGlpe321aU3R4F_IHkOjJuoiKmkhpW8iUnapi2R_uacKJaPf_ROHVNA08gEmfwnUfJP4IkG_NY0o=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/iFstqoxDElUVv4T3KxkxP3OTcuFvWF5ZQQjT7aIxy4n2uaVigCCykxeG6EZV9FQ10X1itPj1oORm=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/12USW7aflgz466ifDehKTnMoAep_VHxDmKJ6jEBoDZWCSefOC-ThRX14Mqe0r8KF9XCzrpMqJts=w1080-h1920-rw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=com.buunyan.bingo_card&hl=ja",
+    "category": "tool",
+    "category_label": "イベント・ツール",
+    "catchphrase": "もう紙のカードは要らない！宴会・結婚式・パーティーを最高に盛り上げるペーパーレスビンゴ",
+    "tags": [
+      "ビンゴカード",
+      "ペーパーレス",
+      "パーティー・忘年会",
+      "触覚振動",
+      "多言語対応"
+    ],
+    "highlights": [
+      "アプリを開くだけで即スタート！面倒な紙の配布やゴミはゼロ",
+      "見事揃うと光り輝く爽快なシーケンシャルアニメーション演出",
+      "タップやビンゴ時の心地よいバイブレーション触覚フィードバック",
+      "4種の洗練テーマ＆11ヶ国語対応でグローバルな集まりにも最適"
+    ],
+    "badge": "エコ＆便利",
+    "url": "https://play.google.com/store/apps/details?id=com.buunyan.bingo_card&hl=ja"
+  },
+  {
+    "id": "com.tool.live_camera_map",
+    "title": "ライブカメラマップ - リアルタイム映像で天候・交通状況確認",
+    "summary": "",
+    "description": "日本全国のライブカメラを地図から直感的に探せる！\n\n「ライブカメラマップ」は、全国各地に設置されているライブカメラの位置を地図上にマッピングし、リアルタイム映像や最新の静止画をすばやく確認できるアプリです。\n\nお出かけ前の天候チェックや、台風・大雨時の河川の状況、通勤・ドライブ時の道路の混雑状況、観光地の現在の様子などを、このアプリひとつで手軽に把握できます。\n\n◆ 主な特徴と機能\n1. 地図から直感的に探せる 地図上のピンをタップするだけで、その場所に設置されたライブカメラの映像をすぐに再生できます。近くのカメラ同士は自動でグループ化（クラスター化）されるため、地図が見やすく操作も快適です。\n\n2. 多彩なカメラタイプに対応 YouTubeのライブストリーミング配信や、一定時間ごとに更新される高画質な静止画カメラ、公式サイトの映像など、さまざまな種類のライブ映像に対応しています。\n\n3. 暗所でも見やすいダークモード対応 システム設定や好みに応じて、ライトテーマとダークテーマをいつでも切り替えることができます。夜間の情報収集時も目が疲れにくく快適です。\n\n4. 面倒な登録は一切不要 アプリを起動すれば、すぐに全国のライブカメラマップを利用できます。\n\n◆ こんな時におすすめ！\nお出かけや旅行の前に: 現地の天気や服装の参考に。\n台風やゲリラ豪雨時に: 近くの河川の増水状況や、道路の冠水状況の安全確認に（※ご自身の安全な場所から確認してください）。\n通勤・ドライブに: 高速道路や主要地方道の渋滞・積雪状況のチェックに。\n観光気分を味わいたい時に: 有名な観光地や海の様子をリアルタイムで眺めてリフレッシュ。\n※動画の配信状況や機材のメンテナンス等により、一部のカメラ映像が再生できない場合があります。あらかじめご了承ください。全国の河川、道路、観光地のライブカメラを地図から一目で確認！天候や交通状況のチェックに最適なリアルタイム映像マップアプリ。最終更新日2026/08/21",
+    "icon": "https://play-lh.googleusercontent.com/hsOH21J37-sqcpR4JRbjGdJxFxCVRYQjDrgY3syKzHj9HKzkLizGtHt7PKAzk7-qVIWFD3TyF8x15nkJEk48Qtg=s256",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/dNHXjF-jha3ui4JFMyPqzghE7D0--qdQ8PsH1nlTWXE56ni2dH7EM9leN-1vNp9_G7JEUjAeNfiz5aNkwNz4=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/W2kzgeRTr9ZgiupU-gO2IOqfZS5g1PN_SgAYFY9NmT_y4LkI3-r6vRLb9X_B_g0-Bo75uJJ7cPmjejiUDb5jwg=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/3jotyWthW66vGr5cvnJKYijWgeelb_ER13Vc7kTyRhao__3v05nSHeYkDKVxM0rPEuf73mR8BcnZiJ0aTvirKQ=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/Rqu2YDerbZiBt83HCw0SI-c98XbPJV2Sr8FB-X_QUQYJQ2zox6_hbh85vIWPc_YeSpcZnsniCEFviQF5127j=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/eJ6jq7oCEsjt5PVE3pPuKoi-sQHb7vOU8ocTGx0IUJxspdX_LShrLQid4-qmRaUsSQOzk2UDYsN5UhNHy5hNqw=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/e4H0ag_4BzQKvfebK8rkWc47HBrQgy2lSoLdhvyOkaPGej4xQY_zECjPV3GZoanuKWMUZ_wpz0zShDf2Rziqeg=w1080-h1920-rw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=com.tool.live_camera_map&hl=ja",
+    "category": "travel",
+    "category_label": "旅・ドライブ",
+    "catchphrase": "全国各地のライブカメラ映像を地図上で一発確認！道路の積雪・路面凍結・台風や天候のリアルタイムチェックに",
+    "tags": [
+      "ライブカメラ",
+      "リアルタイム",
+      "交通情報",
+      "天気・路面",
+      "ドライブ"
+    ],
+    "highlights": [
+      "全国の国道・高速道路・河川・沿岸・観光地のライブカメラを地図上に網羅",
+      "冬の雪道・積雪状況や降雨・冠水状況を写真＆映像で即座に目視確認",
+      "現在地周辺のカメラやよく見るお気に入りカメラを登録して素早くアクセス",
+      "ドライブ前や台風・大雪の防災情報収集に大活躍"
+    ],
+    "badge": "人気ドライブ",
+    "url": "https://play.google.com/store/apps/details?id=com.tool.live_camera_map&hl=ja"
+  },
+  {
+    "id": "com.game.syanhai",
+    "title": "上海 - 縦画面で遊ぶ麻雀牌パズルゲーム",
+    "summary": "",
+    "description": "スマホで手軽に遊べる定番麻雀牌パズル「上海（マージャン ソリティア）」が登場！\n同じ柄の麻雀牌を2枚見つけて消していき、すべての牌を消せばクリア！\n\n初心者から上級者まで、いつでもどこでも快適に楽しめる充実の機能を搭載しています。\n\n#### 🌟 主な特徴・魅力\n\n- **📱 スマホ縦画面に完全最適化！**\n  片手でラクにタップ操作できる縦画面専用レイアウト（64牌パズルなど）を標準搭載。スクロール不要でサクサク遊べます！\n\n- **💡 新感覚！「4牌ストック」システム**\n  盤面で浮いているフリー牌を一時的に「ストック枠」へ退避可能！\n  ストックされた牌の中から同じペアが揃うと自動で消去されるため、戦略の幅が広がり、手詰まりしにくく快適に楽しめます。\n\n- **📅 毎日更新！「デイリーパズル」＆「ミッション」**\n  日替わりの限定パズルに挑戦！カレンダーへの記録や連続クリア（ストリーク）の達成で達成感を味わえます。日替わりミッションをクリアしてポイントを獲得しましょう！\n\n- **🥋 やり込み抜群！「段位システム」**\n  パズルをクリアして通算経験値（EXP）をゲット！「初心者」から「初段」、最高位の「上海名人」「龍王」を目指して段位を上げよう！\n\n- **🔄 充実のサポート機能**\n  - **待った（Undo）**: 1手前の状態に復元\n  - **ヒント（Hint）**: 消せるペアを一時的にハイライト\n  - **シャッフル（Shuffle）**: 詰み状態でも解ける配置へ再構成\n  - **やり直し（Restart）**: 同じ配置で最初から挑戦\n\n- **🎨 カスタマイズ＆多言語対応**\n  - ライト／ダーク／システムテーマの即時切り替え\n  - 心地よい消去バイブレーション機能\n  - 日本語、英語をはじめ全10ヶ国語に完全対応！\n\n通勤・通学の隙間時間や、毎日の脳トレ・気分転換に最適です。\n今すぐダウンロードして、奥深い上海パズルの世界を楽しもう！麻雀牌を揃えて消す定番パズル「上海」！縦画面対応＆4牌ストック機能、デイリーパズルや段位システムで毎日楽しく脳トレ！最終更新日2026/09/23",
+    "icon": "https://play-lh.googleusercontent.com/VAfWgRvGzAO9qqjpb0NGnB9BtvQAuXB3lxEhLu8VtRnetlq6dQQPoWTUJfQV7g2xxmmP9PJrkSBx9ve4kYttmA=s256",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/SYenNKBxPTEaAn1HmQIX3aHRtNUvKLqX9Z1YI7OVphW2g0RbxjIuN3h7a48_bqldhJynGIKhntFFnUxIY8jDhw=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/d5wyG9hz9pEXas0XgmGzWz-nwLsnpkeLvZUaZQIn-BX6pqsYmZSARX81Yev2Vjh1g0-5kPwhUpDJuWzaL50w3A=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/TzmkkxjAR-Snjxz1mUgDwVbdXPkrW4a3IeO5uxbxlNWaElnw4gxlF7iZDagR6gUNEeJlA_-v_I0hjhglq9y5ZuI=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/EBrtGCALvqdV8P1Ufg5G_Hc7IjQZgsY1bOxCtVD84Hys1KRKFoyopD8moyRbfdeCJFyqjgLQionuyxPetDszwQ=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/vD81I0W0E5SGfGEXU1j9A93tqR_6_Fs87BstqA03cEROr7VJgtTX-c6nvw1Asiq6YM1Z5ym3gVWqYxpuTerwpg=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/iFstqoxDElUVv4T3KxkxP3OTcuFvWF5ZQQjT7aIxy4n2uaVigCCykxeG6EZV9FQ10X1itPj1oORm=w1080-h1920-rw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=com.game.syanhai&hl=ja",
+    "category": "game",
+    "category_label": "パズル・ゲーム",
+    "catchphrase": "片手操作＆縦画面でサクッと遊べる定番麻雀牌パズル！美しい牌グラフィックと快適操作の上海ソリティア",
+    "tags": [
+      "上海",
+      "麻雀ソリティア",
+      "パズル",
+      "脳トレ",
+      "縦画面対応"
+    ],
+    "highlights": [
+      "スマートフォンで最も遊びやすい「完全縦画面対応」設計",
+      "ヒント機能・一手戻す（Undo）・シャッフルなど初心者安心のサポート",
+      "多彩な積み方配列ステージとクリアタイム記録でやり込み抜群",
+      "目に優しい牌デザインとタップしやすい直感的なUI"
+    ],
+    "badge": "定番パズル",
+    "url": "https://play.google.com/store/apps/details?id=com.game.syanhai&hl=ja"
+  },
+  {
+    "id": "com.game.concentration",
+    "title": "写真で神経衰弱 - 自分の写真で遊ぶカードめくり＆脳トレ",
+    "summary": "",
+    "description": "スマホにあるお気に入りの写真を使って、世界にひとつだけの神経衰弱が遊べる！\n「写真で神経衰弱」は、誰でもかんたんに楽しめる定番カードめくり脳トレゲームです。\n\n思い出の写真やペットの写真、旅行の写真を選んでカードに設定可能！\nもちろん、標準のトランプデザイン（ジョーカー含む全53種類）でも遊べます。\n\n【アプリの主な特徴】\n◆ 自分の写真で神経衰弱！\nアルバムから好きな写真を6枚〜27枚選んでプレイ。思い出の写真で楽しく神経衰弱が楽しめます。\n\n◆ 定番のトランプモード\nリアルなトランプ柄とジョーカー付きの53種類からランダムでペアを生成。本格的なカードめくりを楽しめます。\n\n◆ 1人プレイ＆2人対戦モード対応\n・1人プレイ: クリアタイムとターン数を計測！自己ベストを目指してタイムアタック。\n・2人対戦: 1台のスマホで家族や友達と対戦！揃えたペア数を競う白熱バトル。\n\n◆ 難易度・枚数調整が自由自在\n6ペア（12枚）のサクッとプレイから、27ペア（54枚）の本格脳トレまで自由に変更できます。\n\n◆ 快適なデザイン＆ダークモード対応\nスムーズな3Dカードめくりアニメーションと、目の疲れにくいダークモードに対応。\n\n思い出の写真と一緒に、楽しく記憶力を鍛えましょう！自分の好きな写真やトランプで遊べる神経衰弱ゲーム！1人プレイでタイムアタック、2人対戦にも対応。家族や友達と楽しく脳トレ！最終更新日2026/09/27",
+    "icon": "https://play-lh.googleusercontent.com/zEZLHORssg6wOUgQH6Gg42OaqkNv758o0DyJ_uhoHcJjBthCm9qqUsFOSahEvJbB3DtvSZ2ZCjlQ3z1_a7c8e-M=s256",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/P9weSciEp0gGL8Aj9OwxvtM0WzlYETs26Nx0DtSwdiN8tBJP9ZFfTQS9FKpbW84kRr8Rr0ySVPPO6uGUD43EZSo=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/kEmaeXFwC9rgAWsQH-nHPFR_j_AH4seXJ4epssaIZklMFNwDz287PY9aptA-dEVx0WLKennJ2owfEXcNcdsBMg=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/Jc60A_8WoeWg2yvCio7ogHu5lLZayBQRlCPEnVP6jA7v4KyL6gi8rdztYVgjOiHct8CLAXR88SunyMzQm_umXy4=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/mnEEeCB1PHHcDKgRqaSYFOmwO3VryQa0gfXZ4suUblefG6m-tYTGF21yBt6LVMkvrWTpE2XFUofgPDdXPVe57w=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/iFstqoxDElUVv4T3KxkxP3OTcuFvWF5ZQQjT7aIxy4n2uaVigCCykxeG6EZV9FQ10X1itPj1oORm=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/12USW7aflgz466ifDehKTnMoAep_VHxDmKJ6jEBoDZWCSefOC-ThRX14Mqe0r8KF9XCzrpMqJts=w1080-h1920-rw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=com.game.concentration&hl=ja",
+    "category": "game",
+    "category_label": "知育・ゲーム",
+    "catchphrase": "スマホのお気に入り写真がトランプに大変身！ペットや旅の思い出の写真で遊ぶ世界にひとつだけの神経衰弱",
+    "tags": [
+      "神経衰弱",
+      "オリジナル写真",
+      "メモリーマッチ",
+      "知育",
+      "家族・シニア"
+    ],
+    "highlights": [
+      "スマホの写真フォルダから好きな画像を選んで自分だけのカードを作成",
+      "ペット・家族・子ども・旅行の思い出写真で楽しく記憶力トレーニング",
+      "カード枚数や難易度設定が可能で小さな子どもから高齢者まで楽しめる",
+      "シンプルでわかりやすいルール＆オフラインでも快適プレイ"
+    ],
+    "badge": "オリジナル脳トレ",
+    "url": "https://play.google.com/store/apps/details?id=com.game.concentration&hl=ja"
+  },
+  {
+    "id": "buunyan.tool.midikeyboard",
+    "title": "NoteStream (ノートストリーム)",
+    "summary": "",
+    "description": "「NoteStream」は、お持ちのMIDIファイルを読み込んで、美しく視覚化されたピアノロールで演奏・練習ができる本格的なMIDIキーボード＆ビジュアライザアプリです。\n\n画面上部から降ってくる音符に合わせて鍵盤を叩くだけで、ピアノ初心者から上級者まで、誰でも直感的に演奏を楽しむことができます。\n\n【主な特徴】\n■ 美しいピアノロール・ビジュアライザ（Synthesiaスタイル）\n\nローカルストレージからお好みのMIDIファイル（.mid / .midi）を簡単にインポートして再生。\nテンポ連動アニメーション、鍵盤グリッド線、小節線などのガイド表示で視覚的にサポート。\n練習に最適な「10%〜400%の再生スピード調整」や「3秒巻き戻し/早送りシーク機能」を搭載。\n■ 表現力豊かな88鍵盤フルスケール・ピアノ\n\n低遅延でマルチタッチに対応した88鍵盤をリアルタイム描画。\nタッチした鍵盤や、MIDI再生でアクティブになったキーを美しくハイライト。\nオクターブ表記（C1, C2...）の表示・非表示切り替え機能付き。\n■ 多彩な音源とカスタマイズ機能\n\nアセット内蔵のピアノ音色に加え、ネットワーク経由でSoundfont（.sf2）ファイルを自動ダウンロード。\n128種類のMIDI標準楽器プログラムから、その場で好みの音色へ切り替え可能。\nスライダー操作でリバーブ（残響）の深さを自在に調整。\n■ 快適な演奏環境と多言語対応\n\n画面横向き（ランドスケープ固定）および、システムバーを隠す没入モードでゲーム感覚で演奏に没頭。\n日本語や英語をはじめ、世界11ヶ国語に対応。お気に入りのMIDIで弾ける！降ってくる音符で楽しく学ぶピアノビジュアライザ最終更新日2026/08/16",
+    "icon": "https://play-lh.googleusercontent.com/NLZfUlCcT8pie_4m7nKPaNa9G4dZ41-0xl4V-4Jx8MYuiNaIEj60UaadXT9NEO9wZw0S3qlKwcYo-vX98QaL=s256",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/OyHQ1-ra_TG-tg_ztb4Md5rhMGZfO0OV44gNBgrvvLIsnJr665trxeoplFVpEN9vEwYzTczQpx9uvwcH14Wv=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/yBfxiQOd4DtbgT2goA0SKg8Sq-Hgxqt3mgc3M8lBo292Y-SsmdhjqtuRRzn4YGR4TRG8H8fXXspnHPpHNY5I=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/cUMJSif4z-lvBJ6f4qcDI1ARZ5uqoTIEXcBK-1_wQptyR1Bxmd9PKqFlSQoheLqbuK2o0B0bnCXXgL64mqCCmw=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/wl3aJwuqt0qJos4IeShgI8zGqOKtc-i-DEaOb1-3gCvID2G0ppkXTXGPRHfxfRds5_tckx1-i648nLJBjbN_gw=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/L1TSFgU9JuSz-Jy-u5yhND0q2MxJq3CaZMYM4CZ-rAXMDsEcdmtYiEVz9ASovzT-jGXWWZb2LCyc4fyIslz_Zg=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/TnUOEPSfqZiUZu9Bu8TyUSyyofvP0gCqpNzEOdCLTlWTPyWr_5m75KSe7QzRgYmR3p1pERS-jzbEX1Qv830CvtI=w1080-h1920-rw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.midikeyboard&hl=ja",
+    "category": "education",
+    "category_label": "学習・音楽",
+    "catchphrase": "降ってくる音符で楽しくピアノ練習！手持ちのMIDIファイルを読み込んで演奏できる本格MIDIビジュアライザ",
+    "tags": [
+      "MIDI",
+      "ピアノ練習",
+      "シンセシア風",
+      "ビジュアライザ",
+      "音楽制作"
+    ],
+    "highlights": [
+      "美しいピアノロールで上から降ってくる音符に合わせて視覚的に練習可能",
+      "お好みのMIDIファイルを直接読み込んで自由な曲をロード",
+      "USB-MIDIキーボード等の外部機器接続にも対応し本格演奏が可能",
+      "再生速度変更や右手・左手のパート別練習など充実の学習機能"
+    ],
+    "badge": "本格MIDI",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.midikeyboard&hl=ja"
+  },
+  {
+    "id": "com.buunyan.topkeep",
+    "title": "TopKeep（通知欄常駐メモ・写真・動画アプリ）向け",
+    "summary": "",
+    "description": "【TopKeep】は、忘れがちなメモや大切な写真、すぐに確認したい動画のサムネイルを、Androidの通知欄の最上部に常に固定（常駐）しておける便利なユーティリティアプリです。\n\n◆ 主な特徴と機能：\n\n通知欄の最上部に常時固定\nスワイプしても消えない常駐通知で、いつでもワンタップで情報を確認できます。\n3種類のコンテンツに対応\nメモ: 買い物リストやToDoなどをすばやく入力。\n画像: お気に入りの写真やメモのスクリーンショットを表示。\n動画: 動画のサムネイルを固定し、再生ボタンタップで即座にアプリ内でループ再生。\nスマートなバックグラウンド動作\nフォアグラウンドサービスに対応しており、OSによる自動終了を防ぎ、常に通知を維持します。\n日常のタスク管理、リマインダー、クイックアクセスにぜひご活用ください！メモや写真、動画サムネイルを通知欄の最上部に常時固定できる超便利ユーティリティ！最終更新日2026/07/08",
+    "icon": "https://play-lh.googleusercontent.com/8BSEgQmct7VMPaBAS_XE23Bd3IuTQ-xk_pxk5sbf-5AaMTdmkMPeM2_VqvloFa1cO7uXTAmIsYdMBRTIruuC1w=s256",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/FThAykYDpzicts3KbVeHmmPkw3L1UUhTbnxGUVWQ6NQSjuLhl4Ptki0PQ5g2NfczyIZUibyqcKDkUQBI6nRtIA=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/qsjeNGpvg5Pk1G6qLYsKa3R6cBCbIoBmRPu_xDPlL3tX1KSrt0mtGwew1lydBSvqeBiHiaBhNqK-JcIa3rOH1g=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/rckmOjdabldOiAwEd62IMyEe5sn8I9d_reN7TamFp3z3DG67p4IKG8UwNKqOcyoI0Yst9ByLmwFoV8_gygUPpig=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/UtHC7yYd4adk4T8b_f0B6MDLclKWxj1ZnY0mrjiMIqH9GmieCVZ_aO8d0pe2wJ6jEpmQ5V0ashhgQGg6kJV9nQ=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/iFstqoxDElUVv4T3KxkxP3OTcuFvWF5ZQQjT7aIxy4n2uaVigCCykxeG6EZV9FQ10X1itPj1oORm=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/12USW7aflgz466ifDehKTnMoAep_VHxDmKJ6jEBoDZWCSefOC-ThRX14Mqe0r8KF9XCzrpMqJts=w1080-h1920-rw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=com.buunyan.topkeep&hl=ja",
+    "category": "tool",
+    "category_label": "便利ツール",
+    "catchphrase": "忘れ物・買い出し・大事な写真を通知バーに常に固定！スマホを見るたびに視界に入る常駐メモ・メディアビューア",
+    "tags": [
+      "通知常駐",
+      "ToDoメモ",
+      "写真固定",
+      "リマインダー",
+      "便利ツール"
+    ],
+    "highlights": [
+      "ロック画面や通知ドロワーの最上部に大切なメモやToDoを常時キープ",
+      "テキストメモだけでなく、写真やスクリーンショット・動画サムネイルも固定可能",
+      "端末を再起動しても通知が自動復元される安心の常駐設計",
+      "ワンタップで内容のコピーや詳細確認ができる軽快な操作感"
+    ],
+    "badge": "便利ツール",
+    "url": "https://play.google.com/store/apps/details?id=com.buunyan.topkeep&hl=ja"
+  },
+  {
+    "id": "buunyan.tool.castle100",
+    "title": "100名城ナビ-日本百名城スタンプ帳-",
+    "description": "城巡りがもっと楽しくなる！日本100名城・続100名城ファン必携の公式・非公式を問わず使い勝手を追求したスタンプ帳アプリです。\n\n「日本100名城」と「続日本100名城」の全200城に対応。 全国の城を巡るあなたの旅を、豊富な機能で強力にサポートします。\n\n【主な機能】\nデジタルスタンプ帳: 登城した日時を記録できます。全200城の達成状況がひと目でわかり、モチベーションアップに繋がります。\n詳細な城情報: 別名、築城者、築城年代、主要城主など、歴史ファンも納得のデータを網羅。公式サイトへのリンクも完備しています。\n思い出を刻む詳細メモ: 各城ごとに自分だけのメモを残せます。駐車場情報や周辺のグルメ、御城印の入手場所など、旅の記録に最適です。\nワンタップ・ナビゲーション: Googleマップと連携し、現在地からお城までのルートをスムーズに表示。迷わず現地へ向かえます。\n多彩な絞り込み機能: 地域別、100名城/続100名城別、メモの有無などでリストをフィルタリング。次に巡るお城の計画も立てやすくなります。\n一目でわかるステータス: 国宝、世界遺産、重要文化財、現存12天守などのバッジ表示で、各城の見どころを一瞬で把握。\n【こんな方におすすめ】\n日本100名城・続日本100名城のスタンプラリーを楽しんでいる方\n城巡りの記録（登城記録）をスマートフォンで手軽に管理したい方\n歴史が好きで、お城の歴史的背景をその場で確認したい方\n御朱印・御城印集めとともに旅の思い出を残したい方\n週末の旅行や観光プランを充実させたい方\n【掲載データについて】\n公益財団法人日本城郭協会が選定した「日本100名城」「続日本100名城」のリストに基づいています。\n\nこのアプリを片手に、日本の歴史を巡る素晴らしい旅に出かけましょう！日本100名城・続100名城巡りに最適！スタンプ管理、メモ、MAPナビの決定版。最終更新日2026/10/11",
+    "icon": "https://play-lh.googleusercontent.com/YhQrZn2ryxUYK0n6pzNa1WgVXDz6eRZRqvsbdDC8cXWqOidGQY03mdQf2_aUMFdPNwBlIQAzzCTu5BB5grLl=s256",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/USjSM00Nv1yPc31eAaqQku0ZvWGPCeXrC2CRdYpewW10V7FuG8G0e-J098Mzk1pSSEr1XWyEGcDekwgWgxGOAw=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/zYUFBYGUv_h3rtzVx0SpX4wDxN4cUrRT12dbheNe91lMALHIz-FP2coHR9H4k1r5MvtsSif0wdYvHD9PqY1-dR8=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/E9r5mxkk4LpuDERXx0TtkVdzOgieU0wNyETjTlhLqjeuUgxvAF4a2d0W_L4RwHPzfY858DtwpBeStGqxSmmFWR0=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/6kBdaJk606yoPeEMBaRRYXlDgLlVZkvkkssLCDiWqHhQYO-VZT7_j0yAHQzRvtGPyKdqWuPimpj9ido5wbLxenY=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/xOkshsh1JdmdMN4_KOW4lSW53eKiGeopXBLh7K2oEn_j0TQZZEW1Mbryc_6ZPgruGoROAFZ84JhzDvbJ4PiLQQ=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/iFstqoxDElUVv4T3KxkxP3OTcuFvWF5ZQQjT7aIxy4n2uaVigCCykxeG6EZV9FQ10X1itPj1oORm=w1080-h1920-rw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.castle100&hl=ja",
+    "category": "travel",
+    "category_label": "城巡り・歴史",
+    "catchphrase": "日本100名城＆続日本100名城の計200城を完全収録！全国の城巡りを快適にする城郭スタンプ帳",
+    "tags": [
+      "日本100名城",
+      "続日本100名城",
+      "城郭",
+      "歴史探訪",
+      "スタンプ帳"
+    ],
+    "highlights": [
+      "「日本100名城」と「続日本100名城」全200城の所在地・スタンプ設置場所を網羅",
+      "ワンタップで登城スタンプ捺印＆都道府県・地方別の制覇率ダッシュボード",
+      "天守・遺構・築城年・城主などの詳細解説や現地へのルート案内",
+      "自分で撮影した城郭の写真やメモを残せる訪問日記機能"
+    ],
+    "badge": "名城ファン必携",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.castle100&hl=ja"
+  },
+  {
+    "id": "buunyan.tool.mountaion100",
+    "title": "日本百名山スタンプ帳",
+    "description": "登山の感動を記録に残そう！「日本百名山スタンプ帳」は、すべての登山愛好家のための登頂管理アプリです。\n\n日本を代表する「日本百名山」および「日本二百名山」の全200座を網羅。 登頂した山にスタンプを押し、あなただけの登山日記を作成しましょう。\n\n【主な機能】\n\n🏔️ 百名山・二百名山を網羅 深田久弥氏による「日本百名山」100座、および「日本二百名山」100座、計200座のデータを収録。標高や所在地、タグ付けなどの情報も一目で分かります。\n📍 スタンプ＆メモ機能 登頂した山にはスタンプを記録！日付やメモを残せるので、その時の感動や天候、登山の思い出を大切に保管できます。\n📷 あなただけの山岳写真 カメラで撮影した自慢の写真を、各山のメイン画像として設定可能。デフォルトの画像から、自分だけの風景にカスタマイズできます。\n⛅ 登山に欠かせない週間天気 各山の山頂ピンポイントで「7日間の天気予報」を表示。気温も確認できるので、パッキングや登山の計画に役立ちます。\n🗺️ マップ＆登山ルート（GPX） 地図上で山々の位置を確認できるのはもちろん、主要な登山ルートを表示。自分がどこを歩くのか、どの山を目指すのかを視覚的にサポートします。\n🔍 充実の検索・並べ替え 都道府県別、標高順、百名山/二百名山別の表示など、次に行きたい山を見つけるためのフィルター機能が充実しています。\n【こんな方におすすめ】\n\n日本百名山・二百名山の完登を目指している方\n登山の記録をシンプルかつ美しく残したい方\n山の天気やルートを素早く確認したい方\n自分の撮った写真で山名鑑を作りたい方\n大自然の魅力を、このアプリと共に。 さあ、次の山頂を目指して、「日本百名山スタンプ帳」をダウンロードしましょう！日本百名山・二百名山の登頂記録を管理！スタンプ、天気、地図、ルートをこれ一つに。最終更新日2026/10/12",
+    "icon": "https://play-lh.googleusercontent.com/WqAsIcfLRuAfDJeGp_JMXxC55yoqglZX6T-KZTWXVrP4xPUy31Yu8wrPyoNdd9UD0UVKTCptvp9Xasiu3sd9qg=s256",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/LCu1mHuQDqT2lnyM4UEZ7upxLANLaOXAE2CVljKS7WHJ1LRJ7yK4NAXyNEFgK_UZ-1RrGbE3TzRI88ssBObF774=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/pmwHHaUNo1qz4zn-k-2XymXYwZij_yyhH_qwMssgqJRarn5zuIbPb9D8nr2SGvG08AWWKWBWENbcPfKhvf5aLQ=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/Zc_mQNTrFBjYt7BmgPeg2xUwh8-p-HN7BURVMY2yxnTVlfQvQA1HAgVw19wzBTFBjy64l-QPPx_IbVBABufX6w=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/vmL4EO6QiWcQKmj05z9rBr7r9Vqrezo1gXmwgpKCT7j8UlJPDh9-ycvDi5aCNm84gJ7znwTm6LAN5695bJ-L=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/HMRW-FsEjnD92V2HcVYyyEINVDhZK4c6wXhf38ISZYMoHag6_NCQ0dtUprqs3ktvvjve_y-ox5SvysCICMr1=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/iFstqoxDElUVv4T3KxkxP3OTcuFvWF5ZQQjT7aIxy4n2uaVigCCykxeG6EZV9FQ10X1itPj1oORm=w1080-h1920-rw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.mountaion100&hl=ja",
+    "category": "travel",
+    "category_label": "登山・自然",
+    "catchphrase": "深田久弥の「日本百名山」＆「日本二百名山」計200座を網羅！登山愛好家のための登頂管理＆スタンプ帳",
+    "tags": [
+      "日本百名山",
+      "日本二百名山",
+      "登山記録",
+      "登頂スタンプ",
+      "山岳マップ"
+    ],
+    "highlights": [
+      "日本を代表する百名山・二百名山の全200座の標高・山系・詳細データを網羅",
+      "登頂日や山頂での写真を記録できるデジタル登頂スタンプ機能",
+      "地方別・標高別の制覇状況がひと目でわかるビジュアルダッシュボード",
+      "現在地から近い山や全国の山岳マップをスムーズに探索"
+    ],
+    "badge": "登山愛好家必携",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.mountaion100&hl=ja"
+  },
+  {
+    "id": "buunyan.tool.ohenro88",
+    "title": "お遍路ナビ - 四国八十八箇所巡り・スタンプ帳・マップ",
+    "description": "「お遍路ナビ」は、四国八十八箇所霊場を巡るお遍路さんを強力にサポートする、究極の巡礼ガイドアプリです。 初めてのお遍路から、何度も巡拝されるベテランの方まで、すべての巡礼者が快適に旅を続けられるような機能を詰め込みました。\n\n【お遍路ナビの主な機能】\n■ 1. 分かりやすいマップ機能 すべての札所（1番〜88番）を地図上に分かりやすく表示。現在地から次の札所までの位置関係が直感的に把握できます。 さらにGoogleマップと連携し、徒歩や車でのルート案内もスムーズに行えます。\n\n■ 2. デジタルスタンプ帳（参拝記録） 各寺院に参拝した際、タップするだけでスタンプを押せます。 巡礼した日時が自動で記録されるため、あなただけの達成感を味わいながら88箇所の結願を目指せます。\n\n■ 3. 充実の寺院詳細データ 各札所の本尊、宗派、山号、所在地といった基本情報を網羅。 寺院の歴史や見どころなどの紹介文も掲載しており、参拝前の予習や現地での理解を深めるのに役立ちます。\n\n■ 4. 便利な検索・絞り込み 寺名、場所、宗派などから札所を素早く検索可能。 「巡礼済み」「未巡礼」「メモあり」などの条件でリストを絞り込むこともでき、計画的な巡礼をサポートします。\n\n■ 5. メモ・日記機能 参拝時に感じたことや、周辺の宿情報、次回の注意点などを札所ごとにメモとして残せます。 お遍路の旅の思い出を自分だけの日記として保存しましょう。\n\n【こんな方におすすめ】\n・四国八十八箇所（お遍路）を計画している、あるいは移動中の方 ・紙の納経帳に加えて、デジタルでも手軽に記録を残したい方 ・各札所（お寺）の場所や周辺情報を効率よく把握したい方 ・結願（けちがん）までの進捗を一目で確認したい方\n\n【収録札所エリア】\n・阿波（徳島県）：発心の道場（1番〜23番） ・土佐（高知県）：修行の道場（24番〜39番） ・伊予（愛媛県）：菩提の道場（40番〜65番） ・讃岐（香川県）：涅槃の道場（66番〜88番）\n\n「お遍路ナビ」と共に、心洗われる四国巡礼の旅へ出かけましょう。 あなたの結願を心より応援しています。四国八十八箇所巡りを完全サポート！マップ、スタンプ帳、メモ機能であなたのお遍路を記録。最終更新日2026/10/15",
+    "icon": "https://play-lh.googleusercontent.com/2DxXlTNpKP3Y-lWqzzGkch5jqfeRgVZRjmVXdcBOoLsrcsQn_qX9kWxS6CMRXz1JsEcpjX_PD9X1a3E4_trnZg=s256",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/IH7M5mKQOflmo2nMbXkL2kH4G_HkymnZxRVE5N8OtBvXuwLbt2qrYwr-zWwh9mLdQ1x6HqkhvRSBmRNOqtAp=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/JpGt2QAryybK-gAFueqExZu3KBdt3TIPoj336Rs_tviTz_NJeFUK5p8ZD_NROx5jMkFdL64igPVp6FcmPv1c=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/UEeuxYPrgmS1ZhsyWAW9yEhiPz5YOwZ_jiEI8ukwcrML3lkocXcby3pflaRSkZvkP4Se37Vs6xIoNX7MCjSM=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/OmdIWEcZoUWY_B3_g9LQT8YDl4UMGxgzbx4jySiIPKuzMhX4mbnDCiMKpH-uUQJZmdlC_fsdxQCHHQol74E=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/iFstqoxDElUVv4T3KxkxP3OTcuFvWF5ZQQjT7aIxy4n2uaVigCCykxeG6EZV9FQ10X1itPj1oORm=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/12USW7aflgz466ifDehKTnMoAep_VHxDmKJ6jEBoDZWCSefOC-ThRX14Mqe0r8KF9XCzrpMqJts=w1080-h1920-rw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.ohenro88&hl=ja",
+    "category": "travel",
+    "category_label": "巡礼・お遍路",
+    "catchphrase": "四国八十八箇所霊場を巡るお遍路さんを強力サポート！札所マップ・ルート案内・参拝記録アプリ",
+    "tags": [
+      "四国八十八箇所",
+      "お遍路",
+      "霊場巡拝",
+      "札所案内",
+      "御朱印"
+    ],
+    "highlights": [
+      "1番札所（霊山寺）から88番札所（大窪寺）までの全札所を地図上にわかりやすく表示",
+      "現在地から次の札所までの距離・アクセスルートをスムーズにナビゲート",
+      "参拝日時の記録や納経・御朱印の記念写真を残せる巡拝帳機能",
+      "駐車場・宿坊・周辺の立ち寄りスポット情報も充実"
+    ],
+    "badge": "お遍路必携",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.ohenro88&hl=ja"
+  },
+  {
+    "id": "com.tool.bridge100",
+    "title": "日本百名橋ナビ - 訪問記録・スタンプ帳",
+    "description": "日本の美しい橋を巡る旅へ。\n\n「日本百名橋ナビ」は、日本各地に点在する歴史的・文化的に価値のある「日本百名橋」と「番外編」の計120橋を網羅した、訪問記録・スタンプ帳アプリです。\n\n江戸時代から続く伝統的な木造橋から、近代建築の粋を集めた鉄橋まで。日本の風景を彩る名橋たちの魅力をこのアプリで発見し、あなたの訪問を記録に残しませんか？\n\n---\n\n 【主な機能】\n\n ● 訪問スタンプ・日付記録\n橋を訪れたら、ワンタップで「訪問達成」のスタンプを記録できます。訪問した日時も自動で保存されるため、自分だけの「名橋訪問ログ」が完成します。\n\n ● 120橋の網羅的データ\n「日本百名橋」100橋に加え、公式の「番外20橋」も全て収録。各橋の歴史、河川名、所在地などの詳細なデータに加え、Wikipedia等の情報を元にした読み応えのある解説文を楽しめます。\n\n ● 高精度なマップ機能\n全ての橋を地図上にピン表示。GPSによる現在地表示と、地図の中心から周辺の橋を検索する機能で、旅行中でも目的地をすぐに見つけられます。\n\n ● Googleマップ連携\n詳細画面からワンタップでGoogleマップのルート案内を起動。カーナビ代わりに使用して、迷うことなく現地へ到着できます。\n\n ● 自由なメモ機能\n「近くに美味しいお蕎麦屋さんがあった」「夕焼けが最高だった」など、その時の思い出やアクセス情報を自由にメモして保存できます。\n\n ● 進捗管理（達成率）\n都道府県別の達成状況や全体の進捗率を可視化。カード形式で達成状況がひと目で分かるので、全橋制覇へのモチベーションがアップします。\n\n---\n\n【こんな方におすすめ】\n- 橋や土木遺産、近代建築に興味がある方\n- 日本各地を旅行するのが好きな方\n- 御朱印集めや百名山のように、名所をコレクションするのが好きな方\n- ドライブやツーリングの目的地を探している方\n- 歴史的な建造物やその背景について学ぶのが好きな方\n\n---\n\n【デザイン・操作性】\n- 日本の風景に馴染む、清潔感のある洗練されたデザイン。\n- ライトモード/ダークモードに完全対応。\n- 美しいフォント（Noto Sans JP）で見やすく使いやすい。\n\nこのアプリを手に、日本の「名橋」を巡る素晴らしい旅に出かけましょう！日本各地の「名橋」を巡る旅のパートナー。120橋の解説、マップ、訪問スタンプ、メモ機能であなたの旅を楽しく記録します。最終更新日2026/05/11",
+    "icon": "https://play-lh.googleusercontent.com/eCCd9lseY8cQcZiQy8YEU8uVv9pgCV7RkW6ai9_iGndHG9hYTJJIJpFCfK7cGUpAmbx0hlc4rMAyjkB_dYRzOg=s256",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/1xxR7mVuRMedQ1h6uB5eiCf6KgEpMZPlJerXrvC26oVYSvIH45mbKn3xLL8zENyVjZjTQ3RUxquxHltQSfY_dA=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/FsitPypXcNovrifxdROz3a-bjAl9wStqfe4YXtakO4TqG7ltkBOTXIlSIjo5j18aPKq49LjpoKdxMTJwPYQOxg=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/bDB0Beos5Eo-BWoIbgM8nprFusjdfckkvU-SCmhPMNXsBPIKPa-jbpMkxuSKRFK4V-xHurZ9pIuu1ht6ottp1sU=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/vQr_4k5CiW4xADiw8VuqiUveU7AxZU29AAM-1iogeTEaB57hfz5f44d0peXnoKwz_7urXbcbDx5dG72PxFZOwdY=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/iFstqoxDElUVv4T3KxkxP3OTcuFvWF5ZQQjT7aIxy4n2uaVigCCykxeG6EZV9FQ10X1itPj1oORm=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/12USW7aflgz466ifDehKTnMoAep_VHxDmKJ6jEBoDZWCSefOC-ThRX14Mqe0r8KF9XCzrpMqJts=w1080-h1920-rw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=com.tool.bridge100&hl=ja",
+    "category": "travel",
+    "category_label": "旅・名橋巡り",
+    "catchphrase": "日本各地の歴史的・景観的名橋を巡る！「日本百名橋」＋番外編計120橋を網羅した訪問記録アプリ",
+    "tags": [
+      "日本百名橋",
+      "歴史の橋",
+      "土木遺産",
+      "ドライブ旅",
+      "スタンプラリー"
+    ],
+    "highlights": [
+      "日本百名橋100橋に加え、番外編20橋を含む計120橋を完全収録",
+      "橋の形式（アーチ・吊橋・桁橋等）、架橋年、河川名、歴史的背景を詳しく掲載",
+      "訪問記録・スタンプ押印と地方別達成率の可視化",
+      "現在地から近い名橋の検索やマップルート案内"
+    ],
+    "badge": "名橋めぐり",
+    "url": "https://play.google.com/store/apps/details?id=com.tool.bridge100&hl=ja"
+  },
+  {
+    "id": "buunyan.tool.waterfall100",
+    "title": "日本の滝100選ナビ",
+    "description": "「日本の滝100選ナビ」は、環境省と林野庁によって選定された日本を代表する100の滝を巡るための完全ガイドアプリです。\n\n北は北海道の「羽衣の滝」から、南は沖縄の「マリュドウの滝」まで。日本全国に点在する美しい滝の情報を、このアプリ一つで網羅できます。\n\n【主な機能】\n\n日本の滝100選を完全収録 各滝の落差、所在地、特徴などの詳細情報を、美しい写真（Wikipedia引用）と共に紹介しています。\n便利なエリア別検索 「北海道」から「九州・沖縄」まで、エリアごとに滝を整理。行きたい地域の滝をすぐに見つけられます。\nマップ機能で現在地から探す 地図上で滝の位置を確認できます。現在地周辺の滝も一目で分かるため、ドライブや旅先での立ち寄りスポット探しに最適です。\n滝巡りの記録を「スタンプ帳」に 訪れた滝にスタンプを押して、100選制覇の達成感を味わいましょう。訪問した日付も記録されるため、あなただけの滝巡り備忘録になります。\nナビゲーション連携 Googleマップ等の外部ナビアプリとワンタップで連携。目的地までのルート案内もスムーズです。\nダークモード対応 目に優しいダークモードにも対応しており、夜間の計画立案も快適です。\n【こんな方におすすめ】\n\n自然豊かな旅行やドライブ、ツーリングが好きな方\n日本の絶景を写真に収めたいカメラ愛好家\n「日本の滝100選」の全制覇を目指している方\n癒やしのパワースポットを探している方日本の美しい「滝100選」を完全網羅！スタンプ帳やマップ機能で、あなたの滝巡りを楽しく便利にサポートする絶景ガイドアプリです。最終更新日2026/10/10",
+    "icon": "https://play-lh.googleusercontent.com/Dw9Ub_aRZgWFT-MxTq7xBhpEcQ2oE57ho60MFfO4-eEm0VHbY_38XIqIqqVZR2mLPuXSMRh5-MJAkGX2PvRP=s256",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/JYoETfbyNyORLu1zNL9H1BLTrKil3ea4bKDrgm_NogYz4l1BxbSslq5hYxaDefWS6zzZjnSaW72kjGD3B6tfzQ=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/wWgvFJDj26o5IzOV97JHYaUXGNehZ7C0re-OM5DqCOTegDLu53PVAqiTcSle0guLxTz8FUBk2IbKTIwHT_oTFg=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/dsnFtbcp0g4jGMBybj0uvBb0gthkAvkzBuhVLOPhKynnuyZQSUuad8X5k2elu53r7nNJ2-fuZI7wj_sY7Scfwg=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/RguxRlqN0T7b0qbmbzJAHzyRKm2na3mwBZrRW-gUR-ejZ1J9JFAy4Lxqi8NSQD2d5YJiQgrfdjYCmVlO9jcz=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/S8OdKdg3T09m-op_z79OKtTyEbcq2CtsPDs7ll516PzIdoG-IHwGxWv6b_myHQ65RMomE-vHzuApa1H6Zcu90ss=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/iFstqoxDElUVv4T3KxkxP3OTcuFvWF5ZQQjT7aIxy4n2uaVigCCykxeG6EZV9FQ10X1itPj1oORm=w1080-h1920-rw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.waterfall100&hl=ja",
+    "category": "travel",
+    "category_label": "旅・自然探訪",
+    "catchphrase": "環境省＆林野庁選定「日本の滝百選」完全ガイド！マイナスイオンあふれる名瀑をめぐる記録帳",
+    "tags": [
+      "日本の滝百選",
+      "名瀑",
+      "絶景",
+      "自然・ドライブ",
+      "訪問スタンプ"
+    ],
+    "highlights": [
+      "北海道から沖縄まで全国100箇所の名瀑情報を網羅",
+      "落差、水系、滝の特徴や見どころ、アクセス方法を分かりやすく解説",
+      "訪問チェックインと達成率ダッシュボードで旅のモチベーションアップ",
+      "地図上で訪問済み（緑）と未訪問（青）を直感的に判別"
+    ],
+    "badge": "名瀑ガイド",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.waterfall100&hl=ja"
+  },
+  {
+    "id": "buunyan.tool.gotohome",
+    "title": "おうちに帰ろう！",
+    "description": "災害時などにあらかじめ登録しておいたおうちへの徒歩での帰り道や、\n国土地理院が公表している指定緊急避難場所までのルートを\nナビ表示してくれるお役立ちアプリです。\n\n自宅の登録は地図上から場所を選択するだけの簡単登録です。\n\n電車が使えなくなっても、車が通れなくなっても\n徒歩なら進めるはず！\n\nいざというときはこのアプリを片手におうちまで帰りましょう！\n\n★自宅だけでなく、お店や名所・観光地などをセットして旅行などで使うこともできます♪災害時などに指定緊急避難場所やあらかじめ登録しておいたおうちへの徒歩での帰り道をナビ表示してくれるお役立ちアプリです。最終更新日2026/01/11",
+    "icon": "https://play-lh.googleusercontent.com/gkj5dgQpYuIxcZAs0F8A15UrsoCdiaK8jHs2dIrx404A3Ca6OLV7box-OFNdFmd7E7y3Nequd1wh1RWqdNPsow=s256",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/lm8FskoFuTiBnQiBumB1FJq8WjS9Eov1EpqEj_X-YwwC38bpXgkI7EOJta9FN2FW6R8ppTYvoEkS6zn1-xKg=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/oOEdRp4103WCnatHm700Qketi027aFj_ka9Vfo141JFEj1B20xQ3YNAmhQFPp06RgROZkWoP10VqE-Vm75tF9g=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/PALMbhMmroF6SDWKeHoFNDOzTsFwqlxincxTZqVUVpGdO3gpWJYloiUx34DZwSRAeEZxDqvVTtLldncqBqC7WA=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/JyBbGnatO6EnfsJD_6iucVyNRg_nPVSydedW6io4cvNSx-DNlQj-bmxLI5fZzqVBqzAQtPYXju-S-t0fWBIc6A=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/7ireWP3Ocg7J6WFf0fhmUz-T68gMezJBzlU27GNKzlssEzolpnG7YOhkNQYdS7nLpofT45G6mUCZ1NRxKzH-blQ=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/fSy5LiAJpZUGexO2TaSzDcIQFZ5-g5MX-tKdyFLoHMp6acWHTA6EexDAa_MPrMGcHjLjOek-uQ-HUaH6Kj6csiI=w1080-h1920-rw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.gotohome&hl=ja",
+    "category": "tool",
+    "category_label": "防災・徒歩ナビ",
+    "catchphrase": "災害時に自宅や指定緊急避難場所へ迷わず帰れる！オフラインでも安心の徒歩ルート支援アプリ",
+    "tags": [
+      "帰宅支援",
+      "防災ナビ",
+      "避難場所",
+      "国土地理院",
+      "徒歩ルート"
+    ],
+    "highlights": [
+      "自宅の位置を地図上で簡単事前登録、いざという時にワンタップで徒歩案内",
+      "国土地理院が公表している指定緊急避難場所データを全国網羅",
+      "電車がストップした帰宅困難時でも迷わず安心のルート表示",
+      "通信が不安定な非常時にも配慮した軽量＆見やすい高視認性UI"
+    ],
+    "badge": "防災必携",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.gotohome&hl=ja"
+  },
+  {
+    "id": "buunyan.tool.radio",
+    "title": "Radimo-ラジモ-(ラジオ・ポッドキャスト・目覚まし)",
+    "description": "「Radimo -ラジモ-」は、全国のラジオ放送や人気のポッドキャストをいつでもどこでも無料で楽しめる、シンプルで高機能なラジオアプリです。\n\n最新のニュース、心躍る音楽、そして深い学びまで。バックグラウンド再生やアラーム・タイマー機能も完備し、あなたの日常にそっと寄り添う新しいリスニング体験をお届けします。\n\n【Radimo（ラジモ）の主な特徴】\n\n■ 日本全国のラジオが聴ける NHK（第1・第2・FM）をはじめ、主要なAM・FMの放送局に対応。クリアな音質で、リアルタイムの情報をキャッチできます。\n\n■ 膨大なポッドキャストが聴き放題 ニュース、ビジネス、エンタメ、語学学習など、豊富なカテゴリーからあなたの好みにぴったりの番組が見つかります。便利な検索機能で、聴きたいエピソードもすぐに見つかります。\n\n■ ラジオで目覚める「高度なアラーム機能」 お気に入りのラジオ局や特定のポッドキャストをアラーム音に設定可能。平日の繰り返し設定など、あなたのライフサイクルに合わせたスケジュール調整が可能です。\n\n■ 快適な「スリープタイマー」 寝る前のひとときも安心。指定した時間に自動的に再生を停止するタイマー機能で、心地よい眠りをサポートします。\n\n■ 充実の機能と洗練されたデザイン\n\nダークモード対応： 夜間でも目に優しいシックなデザイン。\nバックグラウンド再生： 他のアプリを使いながら、作業の手を止めずに聴き続けられます。\nお気に入り＆履歴： よく聴く番組にワンタップでアクセス。\n公式サイト連携： 放送局のウェブサイトへ簡単にアクセスし、番組情報を詳しくチェックできます。\nシンプルな操作性： 複雑な設定は不要。誰でも直感的に使い始められます。\n【こんな方におすすめ】\n\n最新のニュースや天気、交通情報をラジオで確認したい\n通勤・通学、家事の合間に人気のポッドキャストで楽しみたい\n作業用BGMとして日本のラジオを流しっぱなしにしたい\nお気に入りのパーソナリティの声で朝スッキリ目覚めたい\n余計な広告が少なく、使いやすい無料のラジオアプリを探している\n「Radimo -ラジモ-」で、あなたの毎日をもっと豊かに。 今すぐダウンロードして、最高のラジオライフを始めてください！ラジオとポッドキャストを無料で。目覚ましやタイマー機能も充実した決定版ラジオアプリ。最終更新日2026/08/14",
+    "icon": "https://play-lh.googleusercontent.com/60I3-8_FeEGTrruTgLNXM1rVocX5Sl1p1h3c_8uxTMEXFh61SpsBECzYqAvOO10QZnb_l7zZ9U355RsoMLQZKBY=s256",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/f9cTY_Dfc93G_2IoX1YxjTMAsosz7fG3BUKpnsBATQ7e5gfIW_e_B4KJZRaQgKApzc9XUYYQgzhnRWPU0-2eGw=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/JEkHAGKIF84VDGUcMFUFjOKTkVceYMSebR2GfQTGmLv-ChllTzkm5BwfHu-_n0wzk27ObBPX8fdhRP-QOzIxmA=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/SiJrEJQ8o2Fijd7IZ_n4-a5Xhz8HkAnzXu0e1685xl0_wcM3l3_xiw9EgjoalWvjYUEBRIumZNuEGniQbeqRIg=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/8uk4ckEqj_jmyy6be1vM4WEYru7UGmMHkPK0fMiwPwuOO52YJiIZgzEoNXsMO8BOswehjENmMfPhulv6DOa6A_0=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/o7-XsMnnvUGcsYRMH8P50EjGh8zjIQLlwO_6jLU0TmO5YSgGgNI9kOzxMl4mL865qixSydCMawl-8Wn8lX3Z=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/U4sY1vJkLapKZX038RFg4vnskSHIG3k9RgqO7Z3o6ueocqNvsRyqcNNVxLdcGhIE0jfHFPfTsmBu0Rsnxvgsjw=w1080-h1920-rw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.radio&hl=ja",
+    "category": "tool",
+    "category_label": "音楽・情報",
+    "catchphrase": "全国のラジオ放送＆人気ポッドキャストが完全無料！バックグラウンド再生・目覚ましアラーム完備",
+    "tags": [
+      "ラジオ",
+      "ポッドキャスト",
+      "目覚まし",
+      "スリープタイマー",
+      "BGM"
+    ],
+    "highlights": [
+      "全国の多彩なラジオチャンネルや人気ポッドキャストを無料ストリーミング",
+      "他のアプリを使いながら聴ける安定したバックグラウンド再生機能",
+      "好きなラジオ音声で起きられる目覚ましアラーム機能搭載",
+      "就寝時に自動停止できる便利なスリープタイマー付き"
+    ],
+    "badge": "高機能ラジオ",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.radio&hl=ja"
+  },
+  {
+    "id": "buunyan.etc.hansyasinkei",
+    "title": "反射神経押し",
+    "summary": "反射神経を測定するアプリです。\n\n次々と数字を押せばどこかに新たに数字が現れます。\n早く見つけて押していこう！",
+    "description": "反射神経を測定するゲームアプリです。\r\n\r\n次々と数字を順番に押せばどこかに新たに数字が現れます。\r\n早く見つけて押していこう！\r\n\r\n記録が残るので友達と反応速度を競い合うのもいいかも♪\r\n\r\n年配の方も脳トレと思って継続的に続けると頭の回転に良いですよ！\r\n計算の必要もないのでどなたでも遊べます♪\r\n\r\n無料でアプリを提供する\r\n\r\n【更新履歴】\r\n1.0 リリース\r\n1.1 Android OS 2.1対応\r\n1.2 高解像度端末への対応修正\r\n1.3 開始前に「Click to Start」と入れていきなり始まらなくしました。\r\n1.4 広告会社の変更\r\n1.5 バグ修正\r\n1.6 広告会社の変更により端末番号の送信権限が不必要になりました。\r\n1.7 広告ライブラリの修正\r\n1.8 広告ライブラリの修正",
+    "icon": "https://play-lh.googleusercontent.com/0MM2lURIyK9f2bskuRm4_E7z5C0Ku8zhdGR_mUfN1nnsIRVC4xrRYs-SSpdrMHTvukuD7TqAw_5WZiu0RPo_sbg",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/2w4o_BkpHqjs6V3yYws-DQavVIS7xsmqsyenvLVXTG8nsWwuHWyD2vxsKkZWvWo9Agcnh6wt-tLbtorM14mg8Q=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/LwlZ93pXFJop8rZkuKFioTa6i1PgHkjgdAAgDRVP2vkWW67bRFu646x-GD_ZTaBabS3AIWbkfAIXe1D19ca1=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/WamrMOXCzi5DeE1YpXOyNo0u3-wIvJj_SUK2v-OZReTqavzKBjkuWsME7bf_rRiNj3WRiciUBo-dna3OXdU29Q=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/kxTjkeUHfqR89SQWnLs6E040ARprF7CFfXyUCaP0fZkfjPDXc1EKVtx2-8xDm7mrRfgeRmv9yfisjFTSZlAZvg=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/2w4o_BkpHqjs6V3yYws-DQavVIS7xsmqsyenvLVXTG8nsWwuHWyD2vxsKkZWvWo9Agcnh6wt-tLbtorM14mg8Q=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/LwlZ93pXFJop8rZkuKFioTa6i1PgHkjgdAAgDRVP2vkWW67bRFu646x-GD_ZTaBabS3AIWbkfAIXe1D19ca1=w1080-h1920-rw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.etc.hansyasinkei&hl=ja",
+    "category": "game",
+    "category_label": "脳トレ・カジュアル",
+    "catchphrase": "現れる数字を素早くタップ！あなたの反射神経と動体視力をミリ秒単位で測定する脳トレアプリ",
+    "tags": [
+      "反射神経",
+      "動体視力",
+      "スピード測定",
+      "脳トレ",
+      "タイムアタック"
+    ],
+    "highlights": [
+      "次々と現れる数字をテンポよく押して瞬発力と反射速度を計測",
+      "ミリ秒単位でのタイム測定と自己ベスト記録機能",
+      "ちょっとしたスキマ時間の頭のリフレッシュやウォーミングアップに最適",
+      "誰でも直感的にすぐ遊べるシンプルなワンタップ操作"
+    ],
+    "badge": "瞬間脳トレ",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.etc.hansyasinkei&hl=ja"
+  },
+  {
+    "id": "buunyan.etc.omikuji",
+    "title": "おみくじ",
+    "summary": "正月といえばおみくじ♪\nそうでなくても一日一回の運試しをしてみましょう♪",
+    "description": "正月といえばおみくじ♪\r\nそうでなくても一日一回の運試しをしてみましょう♪\r\n\r\n占いと同じようなものですが、当たるかどうかは努力次第！？\r\n\r\n結果は大吉、中吉、小吉、吉、末吉、凶、大凶の7類用意しております。\r\n・単純な「おみくじ」\r\n・和歌が付いた本格的な「お御籤」\r\nが選べます。\r\n寝正月でお餅でも食べながら気軽に遊んでみてください♪\r\n\r\nまた、レシートプリンターなどを通して、印刷することも可能です。\r\n\r\nこのアプリの開発者は、安心・安全なアプリの開発者であるとしてアンドロイダーの公認デベロッパーに認証されています。https://androider.jp/developer/1a4090045b1c988a19833ad010d85609/",
+    "icon": "https://play-lh.googleusercontent.com/LucBgLX8QTVzix896BIsZT9s7Wuihamn-cTPTrt9xafyLs6oLAubZaXuiQ5nb2QyJa241OVbJPx0xuuOslglCsg",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/EYJqVa1pfwMMPgNbvV9ndzMqRpN17jjYSawpA_QAI_qBkToFdJ9ya9SElTXkHsq7RB0scDr_r8k2Fg0KHsQXbw=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/G7V2d4DiTbsAZieic-fJfWzsMRBysxAjyv_g6b3L4eSVWipC2tF4T9v5pE4iecQGC6E9Z6QSGyok8-0cmK3l=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/PEv8XgpF59KkD6x9BmaScTokPUaTI9YWeOeG_k0A60VROJc5e3kXt2V91903U_Hw8_ycSXYqzNJFJ_OKA9BXs6c=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/_qGGXBRzHA8ngu9Rx37mTrd8DSNEkzTGUttLcTPMcgP5SRIxt5PO9vDZ32dac_qsP6JlXfFtlur7sI3_r7xlxQ=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/k84w1h0y1K2g-ZL18WrkWA1oY9ZVnC2eBcdtud_3-Bme0qXwgDwiiezZFVu9dAkZxsmmciXCQjdSt1ai0mPT8g=w1080-h1920-rw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.etc.omikuji&hl=ja",
+    "category": "tool",
+    "category_label": "エンタメ・占い",
+    "catchphrase": "スマホを振って今日の運勢をチェック！本格的なみくじ筒演出でいつでも運試しができるアプリ",
+    "tags": [
+      "おみくじ",
+      "運試し",
+      "毎日の運勢",
+      "神社・吉凶",
+      "簡単操作"
+    ],
+    "highlights": [
+      "大吉・中吉・小吉などおなじみの運勢と細やかなアドバイス",
+      "スマホをシャカシャカ振る直感的なみくじ筒ギミック",
+      "初詣や毎朝の気軽なデイリー運試しにぴったり",
+      "余計な設定一切なし！アプリを開いて振るだけの快速設計"
+    ],
+    "badge": "毎日のおみくじ",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.etc.omikuji&hl=ja"
+  },
+  {
+    "id": "buunyan.pzl.anzan",
+    "title": "Flash 暗算",
+    "summary": "これは、画面上に次々と出てくる数字を足していった答えを入力する計算ゲームです。\n暗算の練習になりますし、家族やお友達と競ってみてください。",
+    "description": "これは、画面上に次々と出てくる数字を足していった答えを入力する計算ゲームです。\r\n暗算の練習になりますし、家族やお友達と競ってみてください。\r\n\r\n足し算を行うだけの簡単ゲームです。\r\n暇つぶしや脳トレにもなりますので是非お遊びください。\r\n【更新履歴】\r\n答え入力が過敏すぎたのを修正\r\n高解像度への座標対応\r\n日本語タイトルを追加\r\n押した数字ボタンをわかりやすく一瞬色変更実装\r\n答え入力時にバイブ駆動実装\r\nその他細かい修正\r\nまだバグがあった高解像度端末への対応修正\r\n高解像度端末では画面が滑らかになるように修正\r\n広告会社変更\r\n\r\nこのアプリの開発者は、安心・安全なアプリの開発者であるとしてアンドロイダーの公認デベロッパーに認証されています。https://androider.jp/developer/1a4090045b1c988a19833ad010d85609/",
+    "icon": "https://play-lh.googleusercontent.com/lWKD7dNEzK3JS8A9_QtI_SjpOFxvEkGc9At9K3avOvBcRS11HJeapYhieXt-52V_oSwtIUi83fKO5Fea7J8R",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/pbKbCuC2bGWkTXxe0GMpySjmi3ZW1RGlKhNu_c0gteQiHwJuXmg6K1ieshKZpQ6KBzOyTrUuw-bp5oDt5twruQ=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/v9jEe-KnvMZcog6Tt0Vx5VuQ-z9IsKFCa7gr2Nij9X2DNAhQZXvUzg7i-uPzUSGGfqYqvqOHiFFpXeF7b1EdZg=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/QfZMg9pMXydEmQeWrQ74aITXdavq1RwlBwNYpq7BlQvQBlTomHjGgQQL4TbXXSdsh-gB5Fg1ecgV6ET5Iu_DBw=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/YQo1TLs3PBrFbVeSApHJJ_TnhI9f7KgkEsdzLaCS9P3VyGuF380NPKedv4ael0lp1XVRulGVTyt8aupSlxqG4l4=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/pbKbCuC2bGWkTXxe0GMpySjmi3ZW1RGlKhNu_c0gteQiHwJuXmg6K1ieshKZpQ6KBzOyTrUuw-bp5oDt5twruQ=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/v9jEe-KnvMZcog6Tt0Vx5VuQ-z9IsKFCa7gr2Nij9X2DNAhQZXvUzg7i-uPzUSGGfqYqvqOHiFFpXeF7b1EdZg=w1080-h1920-rw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.pzl.anzan&hl=ja",
+    "category": "education",
+    "category_label": "学習・計算脳トレ",
+    "catchphrase": "画面に次々現れる数字を瞬時に加算！大人から子どもまで頭がフル回転するフラッシュ暗算ゲーム",
+    "tags": [
+      "フラッシュ暗算",
+      "計算力",
+      "暗算トレーニング",
+      "頭の体操",
+      "知育・学習"
+    ],
+    "highlights": [
+      "テンポよく点滅表示される数字を頭の中で足し算していく本格暗算ゲーム",
+      "初心者向けから上級者向けまでスピードや桁数を調整可能",
+      "日々の計算力維持・シニアの認知症予防・子どもの算数学習に大活躍",
+      "正確な解答判定とスコア記録で日々の成長を実感"
+    ],
+    "badge": "計算力アップ",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.pzl.anzan&hl=ja"
+  },
+  {
+    "id": "buunyan.pzl.reversi",
+    "title": "リバーシ",
+    "summary": "定番ゲームのリバーシが無料で登場♪\n一般的にオセロと呼ばれる老若男女だれでも楽しめる誰もが知ってる有名ゲームです！",
+    "description": "定番ゲームのリバーシが無料で登場♪\r\n一般的にオセロと呼ばれるお馴染み老若男女だれでも楽しめる誰もが知ってる定番な有名ゲームです！\r\n\r\n複雑な機能は省き、簡単・手軽に楽しめるシンプルなリバーシです。\r\n対CPU戦では先手後手が選べ、友達との対戦も可能です。\r\n暇つぶしにもばっちり、初心者向けですのでルールを覚えるのにも最適♪\r\n\r\nネットワーク対戦機能もあります！",
+    "icon": "https://play-lh.googleusercontent.com/vG48GW4jn7ETbzpbGAYNDsuoz4-npyaifsCyK3thuvv53MDIR_hq1Aq7mHeloUwIGP2zSe1Ccibxrn4fWjw51w",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/JBQ4l48nbQipYj-3KnYNlpxqOvo-shPoF3SI0yM98fAZjGd29siT1RdxK2xvkph3UMNXXdVPOI5pwLo6NB93Dg=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/MXcyab1wrIO10ltZI8iuwb8WBbeBU_jfOZT743b02h-7n2v8AlBMbBO3cCfhqvwaiWgJUB2LBkcw0qPkgUDd=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/ySQw8JgyHKkpOrOUTg2BfUU4uc4PjUycnLWA4MkXb03_CvoPrrqJqtf8smBhXQrkTLf8o3zoCTFzL8tIR_v-=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/lVuVfRDpUPBzk0z0JPV03jQV1tf_zLYTHn7alaPHRhPFtb2Ol93jdzv0QzzK_elC-0TcFxoz0shCvppTWGPSAA=w1080-h1920-rw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.pzl.reversi&hl=ja",
+    "category": "game",
+    "category_label": "定番ボードゲーム",
+    "catchphrase": "老若男女だれでも楽しめる定番リバーシ（オセロ）！AI対戦も2人対戦もサクサク遊べる完全無料版",
+    "tags": [
+      "リバーシ",
+      "オセロ",
+      "ボードゲーム",
+      "定番",
+      "AI対戦"
+    ],
+    "highlights": [
+      "いつでもどこでも手軽に対局できる軽量・高速な盤面UI",
+      "一人でじっくり腕を磨けるコンピューターAI対戦モード",
+      "1台のスマートフォンを挟んで友達や家族と対戦できる2Pモード",
+      "置ける場所のアシスト表示機能付きで初心者でも安心"
+    ],
+    "badge": "王道ボードゲーム",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.pzl.reversi&hl=ja"
+  },
+  {
+    "id": "buunyan.quiz.nationalflags",
+    "title": "国旗クイズ",
+    "summary": "国連加盟国193ヶ国と、その他の国と地域併せて204ヶ国から出題されるので、\n何問答えられるか挑戦してください。",
+    "description": "国旗を見て国名を当てるクイズです。\r\n国連加盟国193ヶ国と、その他の国と地域併せて204ヶ国から出題されるので、\r\n何問答えられるか挑戦しましょう♪\r\n学生の方は学校での勉強のお供や友達との勝負！\r\n社会人の方は昔の勉強記憶力確認に！\r\n知識アップや脳トレにも効果的！？\r\nもちろん無料で利用可能です。\r\n\r\n画面に表示される国旗をもとに,\r\n4つの選択肢の中から、その国の首都を当ててください。\r\n\r\n正解数に応じてポイントが付与されます。\r\n累計ポイントを世界中のユーザーとネットランキングで競えます。\r\n\r\n・モード\r\n10問\r\n50問\r\n100問\r\n60秒間\r\n間違うまで\r\n10問正解するまで\r\n\r\n【更新履歴】\r\n1.6 勉強用に国旗一覧表示を追加(wikipediaリンクを実装)\r\n1.5 広告ライブラリの更新\r\n1.4 終了時にエラーが出るバグ修正\r\n1.3 高解像度端末では画面が滑らかになるように修正\r\n1.2 高解像度端末への対応修正\r\n1.1 時間制限を追加。10秒以内に答えられないと自動的に間違いになります。\r\n    英語名を変更。\r\n1.0 リリース\r\n\r\nランキング機能も今後つけようと思いますのでご期待ください。\r\n\r\nこのアプリの開発者は、安心・安全なアプリの開発者であるとしてアンドロイダーの公認デベロッパーに認証されています。https://androider.jp/developer/1a4090045b1c988a19833ad010d85609/",
+    "icon": "https://play-lh.googleusercontent.com/SIxqXPphbJUGnofiF5sF5HWB2ts891FxvH-AxM1V9a0mcpBIds3QK0EczBZ9gzRzdLO6X9n4-iOMeHXWXfSsO3g",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/ArNA7ii8rKh6JGUAtUpy2ZKhXEnOmIyHOAWEWpCItexex65WOq-eqqq0Lk8RHpTQwHVjPS-j1goWf73odIxSbHI=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/sWpO9k-ciokdcQ07Vub4L7DuVEwmmu5ozFzntZfwM7HJOLlGmitxQ8fKWw1TzXDEUpCP-rbDTlSdVmpvqM_AqQE=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/NEk-VGms6UOmrDc07cJPP8tGtz-iiXUjXDXTQHKswIbd8jN4eiXvO9zMBLgQmfHB35Za8hDFFrQw2i--jeBl=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/YMjooTPp7hC9Wl_mIyrFiO4PtLIqndPCR57mqLvK345-d74uI3dMDAQq38gAdwUuKXRbVU0c4tO0HIBMI5SHsA=w1080-h1920-rw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.quiz.nationalflags&hl=ja",
+    "category": "education",
+    "category_label": "学習・地理クイズ",
+    "catchphrase": "国旗を見て国名を当てよう！国連加盟国193ヶ国を含む世界204ヶ国・地域を網羅した国旗マスタークイズ",
+    "tags": [
+      "国旗クイズ",
+      "世界地理",
+      "知育",
+      "雑学・教養",
+      "国旗一覧"
+    ],
+    "highlights": [
+      "世界204の国と地域の美しい高解像度国旗グラフィックを収録",
+      "4択形式で気軽に答えられるテンポ抜群のクイズシステム",
+      "連続正解チャレンジで世界の地理や国旗知識が自然と身につく",
+      "子どもから大人、旅行好き・雑学好きまで幅広く楽しめる"
+    ],
+    "badge": "地理・知育",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.quiz.nationalflags&hl=ja"
+  },
+  {
+    "id": "buunyan.sports.darts",
+    "title": "ダーツ",
+    "summary": "簡単操作のダーツゲームです。\n画面上を上下左右に動くバーをﾀｯﾌﾟで止めて、矢をダーツ盤に投げ込もう！",
+    "description": "簡単操作のダーツゲームです。\r\n画面上を上下左右に動くバーをﾀｯﾌﾟで止めて、矢をダーツ盤に投げ込もう！\r\n\r\n３回投げた合計点がスコアとなります。\r\n\r\nハイスコアは１０位まで記録されます。\r\n\r\nまた、累計スコアも記録され、世界中のユーザーとスコアを競う事も可能です。\r\n是非あなたもランキングに参加してみてください。\r\n\r\n広告無しの有料版もあります。\r\nhttp://market.android.com/details?id=buunyan.sports.darts_y\r\n\r\n【更新履歴】\r\n1.0 リリース\r\n1.1 高解像度端末への対応修正\r\n1.2 通信エラー時の処理修正\r\n1.3 動作速度改善\r\n1.4 バグ修正\r\n1.5 広告会社の変更\r\n1.6 広告の無い有料版へのリンクを追加\r\n1.7 広告ライブラリの変更\r\n\r\nこのアプリの開発者は、安心・安全なアプリの開発者であるとしてアンドロイダーの公認デベロッパーに認証されています。https://androider.jp/developer/1a4090045b1c988a19833ad010d85609/",
+    "icon": "https://play-lh.googleusercontent.com/VTl4_mLLBgL1IiS90aMni0ScqBOjcC1Y_zy45lGL8ND6_6w_pVVcppGY5P5pnQ0_vKrY8JRM6b9oa5Kxcni5yA",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/1hni2UKUkGZxi7c4U9FAMuIUxQVMiN9muL6Q-a8IVVjLQqYEMXfCvCrdN2GNXBgGjuwJMhhx4JWJvQvKGMSGnQ=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/mxc1hd8DkyS0nVKFjiiuQE9SoDG7EPp0Rf7LR1XEt36b1X1ht83AnQ1_8YcoraMBq2vZy9nszXwN5U4SXmDOew=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/46Db-Zgz1IJViwm5ETv3872rB_Y1QbCY5DSgsyR66JNTithNjfK6G5jYSsijyJ74FE0FLlohwYxFTUPaAnMfzQ=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/qTo1dLqWp-5Nn-WxLQdYrulkHvp21haMMMAwgv6iBEBPkyjskxiDdAR381K-Ip6XQVCr9Ov1kg5SWxruENsz=w1080-h1920-rw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.sports.darts&hl=ja",
+    "category": "game",
+    "category_label": "スポーツ・アクション",
+    "catchphrase": "動くバーをタップしてピタッと狙え！簡単爽快操作でブルを目指すカジュアルダーツゲーム",
+    "tags": [
+      "ダーツ",
+      "タイミング",
+      "スコアアタック",
+      "カジュアル",
+      "スポーツ"
+    ],
+    "highlights": [
+      "上下左右にスライドするゲージをタイミングよくタップして投げる直感操作",
+      "中心のBULL（ブル）や高得点エリアに刺さったときの爽快な手応え",
+      "短時間でサクッと遊べるワンプレイ設計で暇つぶしに最適",
+      "ハイスコア記録機能で自分の限界にチャレンジ"
+    ],
+    "badge": "爽快アクション",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.sports.darts&hl=ja"
+  },
+  {
+    "id": "buunyan.pzl.number",
+    "title": "NumberSet",
+    "summary": "簡単な計算パズルゲームです",
+    "description": "周りの数字を足して下一桁になる数字を置いていくと消えます。\r\n単純な足し算ながら頭を使いますので\r\n頭の体操にどうぞ＾＾\r\n\r\n※携帯のID読み込み権限を必要としていますが\r\n　広告表示の為に必要となっております。\r\n　その他の用途では使用していません。\r\n\r\n【更新履歴】\r\nVer1.1　アイコン作成\r\nVer1.2　英語ヘルプ追加\r\nVer1.3　バグ修正\r\nVer1.4　ハイスコアセーブ機能追加\r\nVer1.5　リンク先をマーケットに変更\r\nVer1.6　バグ修正\r\n広告会社変更\r\n高解像度端末に対応修正",
+    "icon": "https://play-lh.googleusercontent.com/66vP5g7IIndjcbfqRg9xb8Yvaw6op-yPScLX80W9M-AaepzKri5yjGu_-jDSY2Xw4JhCvQRwX4xC_oGks1gmCA",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/-qfxtY9aHuTK4CwIzGXV9iTRrtT81E_IG0quFqGC8IIvEdkV8ZOCknhJEh_Xp7YxgNWhEF8hKKqQVRRjyY_kbg=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/TylPJVtAZ8isnunVE8S4L3WvKOivrvAQBDN5FBVnK2UYFjv63P37XxgLbD0RpGvJ26sJ9Dqkt7Qf_M3gTo4z=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/BScz6a34dLH5CBMISohXOHJhObrc0DT-GL3KKg10BmkVKLKUK0oCCbv-BYgK1pMhRWJwHfLHaV2p928tdkAcAw=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/cT784c2onAHWYlkz2zelG6GKwFgETuEpHifgzNvyTrz-ydG0lmrAjFv5_7vGCn29fo-r-qboNPyPJDyCE01SHA=w1080-h1920-rw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.pzl.number&hl=ja",
+    "category": "game",
+    "category_label": "数字パズル・脳トレ",
+    "catchphrase": "周りの数字を足して下一桁を合わせよう！シンプルながら奥が深い新感覚ナンバーパズル",
+    "tags": [
+      "数字パズル",
+      "NumberSet",
+      "足し算",
+      "ロジック",
+      "頭の体操"
+    ],
+    "highlights": [
+      "隣接するマスを計算して下一桁をマッチさせる独自の数字消去ルール",
+      "単純なルールなのに連鎖や先読みが必要なクセになるゲーム性",
+      "通勤・通学時間やスキマ時間に頭を活性化させるロジックパズル",
+      "余計な演出がなく思考に没頭できるクリーンなデザイン"
+    ],
+    "badge": "新感覚パズル",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.pzl.number&hl=ja"
+  },
+  {
+    "id": "buunyan.game.solitaire",
+    "title": "ソリティアロイヤル",
+    "summary": "「洗練されたデザインと究極の操作感。美しく輝く、大人向けの贅沢なソリティアをあなたの手に。」",
+    "description": "詳細説明\r\n【究極の癒やしと、最高の知性を】 世界中で愛されるトランプゲームの定番「ソリティア（クロンダイク）」が、かつてないほど美しく、快適に進化しました。重厚感のある「ロイヤル・グリーン」の背景と、スムーズなアニメーションが、あなたのリラックスタイムを上質なひとときへと変えます。\r\n\r\n◆ 快適さを追求した操作性\r\n\r\nワンタップ・オートムーブ： カードをタップするだけで、最適な場所へ自動的に移動。ストレスフリーな操作感を実現しました。\r\n滑らかなアニメーション： カードをめくる、配る、移動する。すべての動きが優雅でスムーズです。\r\n◆ あなただけの特別なデザイン\r\n\r\n豪華な背景グラデーション： エメラルドからディープフォレストへと移ろう、気品あふれるグリーンの背景。\r\n選べるカードデザイン： 複数のカード裏面パターンから、あなたの気分に合わせたデザインにカスタマイズ可能です。\r\n◆ やり込み要素と便利機能\r\n\r\n自己ベストに挑戦： クリアタイムと手数を記録。トップ10のスコアボード機能で、自分への挑戦がもっと楽しくなります。\r\n目に優しいダークモード： 昼夜を問わず、どんな環境でも快適にプレイできるようダークモードにも完全対応。\r\nオフライン対応： 通信を気にせず、いつでもどこでも、一人の時間を楽しめます。\r\n◆ こんな方におすすめ\r\n\r\nシンプルだけど飽きないゲームでリフレッシュしたい\r\n安っぽいデザインのアプリに飽きてしまった\r\n脳トレや集中力アップに繋がるゲームを探している\r\nトランプゲーム、クロンダイクが大好き",
+    "icon": "https://play-lh.googleusercontent.com/aT9XPVCtQkgadcOvJj-X50KxbOGR8mvgWuUFnG1RiWAifM0kyqJ265WkJeO435Xc-5BIm9FQgEpBkGSpDe5vWg",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/5lT7QYGAuqycA_GFkxFCl8x6uesM7X7d2YScvi3WgdFtEdzt_XLAVFUV2xAr8fidUNGL0K6Jb3DT1lnK3FWvMA=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/O2Fjo-o1omdcMaZAYMmhbH-TA9d777w6ZWtMMgQzlDgvl0vAeIJzJv1wg12mL0A1tGgoCy6zAEZ4uoWkEkrTVA=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/_x8RhsDvNBRlczlMv5PPKFbboG4aWnnd63PYgZjLgJIDgbbOs51rQs5F3aEI76BZObye6cfSnMzTtv3Myd1zkQ=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/VjQtRGDP0vraJGy_1torPYWva2aP6-W6LbdAxT-v95W1nHiHRezyAaJhD2IO4JGeSu6z8Nb67bb374bsTlqqmw=w1080-h1920-rw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.game.solitaire&hl=ja",
+    "category": "game",
+    "category_label": "定番トランプゲーム",
+    "catchphrase": "王道クロンダイクを美しいデザインで！直感的なドラッグ＆ワンタップ移動で快適に遊べるソリティア",
+    "tags": [
+      "ソリティア",
+      "クロンダイク",
+      "トランプ",
+      "カードゲーム",
+      "暇つぶし"
+    ],
+    "highlights": [
+      "世界中で愛される大人気定番カードゲーム「クロンダイク」を完全収録",
+      "スムーズなカードアニメーションと美しいロイヤルテーマグラフィック",
+      "一手戻す（アンドゥ）機能やヒント機能付きで初心者から上級者まで安心",
+      "オフラインでも快適動作、ちょっとしたスキマ時間の息抜きに最適"
+    ],
+    "badge": "定番カードゲーム",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.game.solitaire&hl=ja"
+  },
+  {
+    "id": "buunyan.tool.light",
+    "title": "携帯ライト",
+    "summary": "余計な機能は無くして画面をタップするごとにライトを点けたり消したり出来ます。\n余計な機能がついていないので画面においておくとすぐ使えます♪",
+    "description": "なんでもっと単純にライトをつけるだけのアプリが無いんだろう？\r\n\r\nという事で作りました！\r\n\r\n余計な機能は無くして画面をタップするごとにライトを点けたり消したり出来ます。\r\n余計な機能がついていないので画面においておくとすぐ使えます♪\r\n\r\nありそうでなかった便利アプリです！\r\n\r\n家の鍵穴を探す時や\r\n夜に電気をつけるのは面倒だけどちょっと探し物をする時など\r\nとても重宝します。\r\n\r\n操作は簡単♪アプリを起動して懐中電灯代わりに携帯の液晶画面をタッチすると\r\nカメラのフラッシュに使われているライトのオンオフが切り替えられます。\r\n電球が切れて真っ暗な時でも手元にある携帯で簡単に明かりが用意できます。\r\n\r\n広告は表示されてしまいますが、目立たない用に画面下部に置いていますので\r\nより良いアプリの開発を続ける為にご了承ください。\r\n\r\nこのアプリの開発者は、安心・安全なアプリの開発者であるとしてアンドロイダーの公認デベロッパーに認証されています。https://androider.jp/developer/1a4090045b1c988a19833ad010d85609/",
+    "icon": "https://play-lh.googleusercontent.com/O2LeaAJsNOcLCdd4DRtNSMLdXwDQnxD2_PcT6XPKG3FftjEV7EmECrXaRSchLffZ4fmyVGO4slAoI0iIcQkGlg",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/RqOd4tekQUDxFTBrI65FbRAGSK7AWJEIs-zUZEf0ITlJyqfV0jDv-k4myHpa9i8k1cZwmacLT2SixfKlU5dz=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/QxEYB5hFmGoF0ysg6gHMQonIqcBZ5tEXrqMw0hlKoS3R5k9iq0_PI9fpHS4v6kw1y3Rk3cXcBlsDkcrdNsz6-w=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/5Ft7-La_yOnRhhAd8VSh3BgsQO7mlOw5gfR5qodD5ccm-gsgcaKhfMEu0WbN3H8auN8p64vyEN0gu_1yZ7XAUg=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/QxEYB5hFmGoF0ysg6gHMQonIqcBZ5tEXrqMw0hlKoS3R5k9iq0_PI9fpHS4v6kw1y3Rk3cXcBlsDkcrdNsz6-w=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/5Ft7-La_yOnRhhAd8VSh3BgsQO7mlOw5gfR5qodD5ccm-gsgcaKhfMEu0WbN3H8auN8p64vyEN0gu_1yZ7XAUg=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/QxEYB5hFmGoF0ysg6gHMQonIqcBZ5tEXrqMw0hlKoS3R5k9iq0_PI9fpHS4v6kw1y3Rk3cXcBlsDkcrdNsz6-w=w1080-h1920-rw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.light&hl=ja",
+    "category": "tool",
+    "category_label": "生活・防災ツール",
+    "catchphrase": "暗闇をサッと照らす！カメラLEDフラッシュと画面ライトを即座に切り替えられるシンプル快速ライト",
+    "tags": [
+      "懐中電灯",
+      "LEDライト",
+      "防災",
+      "画面ライト",
+      "シンプル便利"
+    ],
+    "highlights": [
+      "アプリ起動と同時にワンタップで強力なカメラフラッシュライトが点灯",
+      "目に優しい柔らかな光で手元を照らせるスクリーンライト切り替え機能",
+      "無駄な機能や広告の邪魔がない、非常時にも安心の超軽量設計",
+      "夜間の探し物やウォーキング、停電・災害時の備えに必須の1本"
+    ],
+    "badge": "防災・懐中電灯",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.light&hl=ja"
+  },
+  {
+    "id": "buunyan.tool.calc",
+    "title": "電卓",
+    "summary": "標準でついている電卓が使いにくい！機種によりころころ変わって嫌だ！という人のための\n簡単なシンプル電卓です。",
+    "description": "標準でついている電卓が使いにくい！機種によりころころ変わって嫌だ！という人のための\r\n簡単なシンプル電卓です。\r\n\r\n消費税金計算用に100+8%というように入力すれば108円が表示されますので\r\n買い物中に使用すれば便利です♪\r\n\r\n四則演算、％計算に対応し、前回の計算結果も残ります。\r\n\r\nもちろん無料で利用可能です！\r\n※無料で提供を続ける為に広告が表示されることをご了承ください。\r\n\r\n【機能】\r\n・12桁入力対応\r\n・DELキーによる1文字づつの消去対応\r\n・タブレット対応\r\n・C/CEによるクリア対応\r\n・フォントの変更対応\r\n・小数点の端数処理対応\r\n・小数点の桁数変更機能対応\r\n\r\n【設定】\r\nタッチしたときに振動：ON/OFF\r\n値の保存：ON/OFF\r\n表示形式切り替え\r\nフォント切り替え\r\n小数点の設定\r\n端数処理\r\n桁数\r\n\r\n【動作環境】\r\nAndroid2.2以上\r\n\r\nこのアプリの開発者は、安心・安全なアプリの開発者であるとしてアンドロイダーの公認デベロッパーに認証されています。https://androider.jp/developer/1a4090045b1c988a19833ad010d85609/",
+    "icon": "https://play-lh.googleusercontent.com/bG-s8-wRTtuP1niTZlPCQaEaZSgCJ2DurebGh3mcMuCUvAnxxLa7nmID33R50HoT8dS33LIYWBg0BkgaL4VyXA",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/I2rE2RtaKltCzQ_7FW4gmNGUdFrP7CJS4UQegsKr7hxAhwjPjViAUX7K7bGRuprP_GS9-Ct9kz5VT6cSD9AXoTo=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/BOXpjpeDaBaOpSvbeldu5TWs5znUJWYvHcdH5M8yHPVdYxJ8RbYPNErQVLwH5P2TL3l1SJuRSnq91FEB_jEM=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/I2rE2RtaKltCzQ_7FW4gmNGUdFrP7CJS4UQegsKr7hxAhwjPjViAUX7K7bGRuprP_GS9-Ct9kz5VT6cSD9AXoTo=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/BOXpjpeDaBaOpSvbeldu5TWs5znUJWYvHcdH5M8yHPVdYxJ8RbYPNErQVLwH5P2TL3l1SJuRSnq91FEB_jEM=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/I2rE2RtaKltCzQ_7FW4gmNGUdFrP7CJS4UQegsKr7hxAhwjPjViAUX7K7bGRuprP_GS9-Ct9kz5VT6cSD9AXoTo=w1080-h1920-rw",
+      "https://play-lh.googleusercontent.com/BOXpjpeDaBaOpSvbeldu5TWs5znUJWYvHcdH5M8yHPVdYxJ8RbYPNErQVLwH5P2TL3l1SJuRSnq91FEB_jEM=w1080-h1920-rw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.calc&hl=ja",
+    "category": "tool",
+    "category_label": "実用ツール",
+    "catchphrase": "大きなボタンと見やすい画面で押し間違いなし！日常の計算や買い出しに重宝するシンプル電卓",
+    "tags": [
+      "電卓",
+      "計算機",
+      "シンプル",
+      "押しやすい",
+      "実用"
+    ],
+    "highlights": [
+      "指が迷わない大きくて押しやすいボタン配置とクリアな数字表示",
+      "税込み・割引計算など日々の買い物や家計簿つけにサッと活躍",
+      "素早いレスポンスと必要十分な機能に絞ったストレスフリー設計",
+      "誰でも直感的にすぐ使える王道デザイン"
+    ],
+    "badge": "定番電卓",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.calc&hl=ja"
+  },
+  {
+    "id": "buunyan.etc.janken",
+    "title": "じゃんけんポン!",
+    "catch": "懐かしの駄菓子屋メダルじゃんけん！CPU対戦でフィーバーを目指せ！",
+    "category": "game",
+    "icon": "https://play-lh.googleusercontent.com/WVGkv3gMgALRWp7XQTQF4EhedLG2iuoReXA-SDeAcnVF-K_lkoa3cjb1hH2Ed70hEYxJ_Xlu3wKaWdchd59ohg",
+    "rating": 2.6,
+    "downloads": "10,000+",
+    "tags": [
+      "じゃんけん",
+      "メダルゲーム",
+      "レトロゲーム",
+      "暇つぶし"
+    ],
+    "highlights": [
+      "昔懐かしい駄菓子屋のじゃんけんメダルゲームを完全再現",
+      "勝つとルーレットが回転！メダル大量獲得のチャンス",
+      "シンプル操作でいつでも童心に返って気軽に楽しめる"
+    ],
+    "description": "昔からの定番遊びである「じゃんけん」をコンピューターと対戦して\nメダルを貯めていく、駄菓子屋にあったようなゲームを再現しています。\n是非童心に返って遊んでみてください。\n\nまずはメダルを投入します。　　　　　\n５枚まで投入可能です。　　　　　　　\n勝利時にルーレットが回るので、数字が大きい場所で止めると、\n投入した枚数ｘルーレットの数字でメダルが返ってきます。\n\n【更新履歴】\nメダル枚数をネットランキングで競えるようになりました！\n英語圏では説明とタイトルが英語になるようにしました。\nいくつかの画像を綺麗にしました。\n効果音をいくつか入れました。\n高解像度端末への対応修正\n広告会社の変更\n広告表示の処理修正",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/769n3O23UN3TTEVIYx8sk85x7DiAUYuwEFYv5FS154NUyz_zLs8iA8HEex78DnQt2ockpjx3G8EH04fiAdOZ",
+      "https://play-lh.googleusercontent.com/Rp9m-xLaqTxD0IxUaHKGSn8NXC2-jHPhSRXIgYpSQ91IyyoCErlgnFiyrH4ADuTOpB2aM8_UmVvg7E1XQT1ztQ",
+      "https://play-lh.googleusercontent.com/wGvei_C3ZJ2IbCahco64Q8ODayMp2Or5XGfr89amipHiNPmxm4G0CtFLEk4T5WBAMQbt1lpTe39IQXNA-4FuAQ",
+      "https://play-lh.googleusercontent.com/DDUo-f9IoINxcE0uB-aYa4Z4aNmQhwm-2vwKCgcJFaY8nEIYpIlGLZlWmRayIutWqQBLw0Vxw5oVzGTkOL_aQg",
+      "https://play-lh.googleusercontent.com/9QtS3HMQ7LgcQBUqBwME1MxyImODE1XOLbwG8gR1XmDLcpTjUbw1sv8gRhj0NMb1snX1_wRDaWwUSFFTdmAU4A"
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=buunyan.etc.janken",
+    "category_label": "ゲーム・パズル",
+    "catchphrase": "懐かしの駄菓子屋メダルじゃんけん！CPU対戦でフィーバーを目指せ！",
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.etc.janken",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.etc.janken",
+    "badge": "ゲーム・パズル"
+  },
+  {
+    "id": "buunyan.tool.mangekyou",
+    "title": "万華鏡",
+    "catchphrase": "スマホのカメラが万華鏡に！日常の景色が美しい幾何学模様に大変身",
+    "category": "tool",
+    "category_label": "イベント・ツール",
+    "badge": "万華鏡カメラ",
+    "icon": "https://play-lh.googleusercontent.com/yTlaiTB9CdK2cEtORV1tv5laQgrfssiYw3RXrsRX-yvHYVe4ua2RnAhXB2WuGhVybOzdEPJM1YlMv2IIWA6laws",
+    "rating": 4.0,
+    "downloads": "5,000+",
+    "tags": [
+      "万華鏡カメラ",
+      "便利アプリ",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "スマホのカメラが万華鏡に！日常の景色が美しい幾何学模様に大変身",
+      "シンプルで直感的、余計な機能のない快適な使い心地",
+      "通信量を抑えた高速・軽量なレスポンス"
+    ],
+    "description": "昔から受け継がれてきた大人も子供の大好きなおもちゃ。\n万華鏡を再現しました！\n\nカメラで写した映像を万華鏡にして見る事が出来ます。\n次々と映し出される美しい世界に驚くことでしょう。\n\n特に小さいお子さんなどはとても楽しんで遊ぶと思います♪\n\n写したものすべて素材になるので動かすだけで楽しめますよ\n\n無料でご提供するために広告が表示されますことをご了承ください。\n\n画像は端末内のPictures/mangekyouフォルダ内に保存されます。\n\nこのアプリの開発者は、安心・安全なアプリの開発者であるとしてアンドロイダーの公認デベロッパーに認証されています。https://androider.jp/developer/1a4090045b1c988a19833ad010d85609/",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/tn5HG3vx0QGv4SPuxYcvAOu0VKt0Wua7498NIyC4zQJM4uVEfN634rbH-zaZ7CvUlWvLICmkH4xhSCTm5zVuPA",
+      "https://play-lh.googleusercontent.com/b72wkK-fFuKT7v04pDPrNkP2BkN5DYLPB-6J_Tn9F1jj_Wc64tYTI4ouHn2QT11CGUB7k6DNpYrJlMdGxPg2vQ",
+      "https://play-lh.googleusercontent.com/leJVM20lOsISave6xBBlU4k5xCAfVnIZpwKiJlOxtFIOIiBKLaPF17MRq-7Fc7UdZdK_WBulpBwNPr7O-HJSYS8",
+      "https://play-lh.googleusercontent.com/tn5HG3vx0QGv4SPuxYcvAOu0VKt0Wua7498NIyC4zQJM4uVEfN634rbH-zaZ7CvUlWvLICmkH4xhSCTm5zVuPA",
+      "https://play-lh.googleusercontent.com/b72wkK-fFuKT7v04pDPrNkP2BkN5DYLPB-6J_Tn9F1jj_Wc64tYTI4ouHn2QT11CGUB7k6DNpYrJlMdGxPg2vQ",
+      "https://play-lh.googleusercontent.com/leJVM20lOsISave6xBBlU4k5xCAfVnIZpwKiJlOxtFIOIiBKLaPF17MRq-7Fc7UdZdK_WBulpBwNPr7O-HJSYS8"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.mangekyou&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.mangekyou&hl=ja"
+  },
+  {
+    "id": "postsearch.buunyan.com.postsearch",
+    "title": "郵便番号簡単検索",
+    "catchphrase": "オフライン対応！住所や郵便番号からサクサク引ける高速検索アプリ",
+    "category": "tool",
+    "category_label": "イベント・ツール",
+    "badge": "郵便番号検索",
+    "icon": "https://play-lh.googleusercontent.com/G70-ZEd7_0eMeEGEwz_zgUTrcNdolUXk7kqtJ203xRcNqPJ6HcMVeLj9Z7LPn7VRPkbmgyNbcddoHGqz4DN-",
+    "rating": 4.0338984,
+    "downloads": "10,000+",
+    "tags": [
+      "郵便番号検索",
+      "便利アプリ",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "オフライン対応！住所や郵便番号からサクサク引ける高速検索アプリ",
+      "シンプルで直感的、余計な機能のない快適な使い心地",
+      "通信量を抑えた高速・軽量なレスポンス"
+    ],
+    "description": "キーワードから郵便番号を検索したり、郵便番号から住所を検索したりするアプリです。\n郵便番号から地図を表示しておおよその場所を調べられます。\n履歴やお気に入り保存機能もありますので\nよく使う郵便番号はわざわざ調べなおさなくても簡単に探せます！\n住所読み上げ機能もありますので、間違え防止にもなります。\n\nこのアプリの開発者は、安心・安全なアプリの開発者であるとしてアンドロイダーの公認デベロッパーに認証されています。https://androider.jp/developer/1a4090045b1c988a19833ad010d85609/",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/5FuKeJgx_wrQof4wG-Q5KtmLGtW5uBPa36UOF8j0xSSTGG6bNTQiRMmEHjFFORl-1xU2j9t6pQu57QBd70xXNQ",
+      "https://play-lh.googleusercontent.com/YKn0Zo_lwmNyzLpFgSn5fe93Udc17V2-GUAV53wtPan4fiLd9UD6mxQtn834MLFs1lFc_-eIyoHa5eSD9ufT",
+      "https://play-lh.googleusercontent.com/_e9n2qlOpr4DJZ-Xz8aRY2hVgGrT1qvONc4quIjlwEryiNqTukZd4eyz_V-obprld0pxygA8OQqEnLJsUro9xw",
+      "https://play-lh.googleusercontent.com/CNjE5j9XawVvV7X0rMuPexaCiVe8fcdP0C9P6lluox06v-U-LZE29Fl47H4Kwkkj9TJr-4z94nNhY-2Y_Qh4tA"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=postsearch.buunyan.com.postsearch&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=postsearch.buunyan.com.postsearch&hl=ja"
+  },
+  {
+    "id": "com.tool.buunyan.ejdic",
+    "title": "英和辞典",
+    "catchphrase": "オフラインでいつでも引ける！シンプルで高速・軽量な英和辞典",
+    "category": "education",
+    "category_label": "学習・知育",
+    "badge": "英和辞典",
+    "icon": "https://play-lh.googleusercontent.com/Zs4mEIzqqsvG0J9aUT5wlNN3aWhSzYatAm_OblkfpoN5iC_B_zOyK8XtaslXf4L-lpZteVz1RR--5YYdGwn1MQ",
+    "rating": 4.0,
+    "downloads": "100+",
+    "tags": [
+      "英和辞典",
+      "便利アプリ",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "オフラインでいつでも引ける！シンプルで高速・軽量な英和辞典",
+      "シンプルで直感的、余計な機能のない快適な使い心地",
+      "通信量を抑えた高速・軽量なレスポンス"
+    ],
+    "description": "英和辞典です。\n音声出力機能も搭載していますので、発音がすぐに確認可能！\nオフラインで動作可能ですので、ネットが使えなくても利用できます。\n\nスマートフォンやタブレットにインストールしておけば、さっと使えて持ち運びも便利！\n通学・通勤のスキマ時間の学習に効果的！英会話やTOEIC、英検、大学受験の英語学習にぜひ！\n\n※インターネット接続は広告にしか使用しておりません。\n※テキストの読み上げ機能(TextToSpeech)を用いて単語を読み上げます。\n　TextToSpeechの設定は、端末の、設定→言語と入力→テキスト読み上げの出力→Pico TTSやGoogoleテキスト読み上げなどで英語をインストールしてください。言語を英語にする必要はありません。\n\n【辞典アプリはこのような方にお薦め】\n・電子辞書として使いたい方\n・英検、TOEIC、大学受験の方\n・英単語、英熟語、英文法を調べる方\n・旅行英会話、ビジネス英会話を必要とする方\n・高校の授業、大学の講義を受講する方",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/zwTj8xXAgzKaqn3xOsHBivzrL1fRBh3WMSy3P_OeowsIS-6Dpq0aYqmCtlk5NdDJUZqYxxaErDsogLNifDZxig",
+      "https://play-lh.googleusercontent.com/Qj3YKHMCQ9cA2gT23gWPsCxVG2dNPdI956svQtlKCYnWGAdPVlgFeZmmCroMgBfH-qK8OdLozldp38ulveZH",
+      "https://play-lh.googleusercontent.com/KCWqCYnZm_P7DFTrNlqNobwN20uRLmxQ8-EdcqE7bdGG9oXrg4OHog4cs39zASGdJvYM1C8jNmrU0H7clvck",
+      "https://play-lh.googleusercontent.com/QqlcBTpQ84HNv6wQCQj4Z-aMULfVhxNtPPIDg2-QV1U8B9AQZF8smK1C7gHU6MuYIM-df-DQ6-gLe7bwFZ4V85E",
+      "https://play-lh.googleusercontent.com/0QHYMeLnFatyI3tcEc0ot4pk0Xt7fGGR07cZL1usnpI56H12Uh54db88CIy2b9EHrp1EMLYD7GVZRkrwYqayRA",
+      "https://play-lh.googleusercontent.com/CSCdZGWcdV4NMNbgbb0Yb4yOX3oWgMcyiaJZtFUra1t_6hchG83Dli6XlL34iylh2_GEQtwoF1DFIUOutneFHg"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=com.tool.buunyan.ejdic&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=com.tool.buunyan.ejdic&hl=ja"
+  },
+  {
+    "id": "buunyan.tool.chime",
+    "title": "チャイム",
+    "catchphrase": "懐かしい学校のチャイム（キンコンカンコン）をいつでもどこでも再生！",
+    "category": "tool",
+    "category_label": "イベント・ツール",
+    "badge": "学校チャイム",
+    "icon": "https://play-lh.googleusercontent.com/13V4wpa2lPmFR7VnUksdio9MBb-YRsUB9ZM98FSwvu3XcH2kv0U32PM0_9K40WEwXSru4PHLqQwDZYklrXNmYw",
+    "rating": 3.3125,
+    "downloads": "5,000+",
+    "tags": [
+      "学校チャイム",
+      "便利アプリ",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "懐かしい学校のチャイム（キンコンカンコン）をいつでもどこでも再生！",
+      "シンプルで直感的、余計な機能のない快適な使い心地",
+      "通信量を抑えた高速・軽量なレスポンス"
+    ],
+    "description": "学生時代によく聞いたチャイムを目覚まし代わりに使ったり、勉強時間の区切りに鳴らしたりして、\n気持ちを切り替えましょう♪\n大人になったあなたも懐かしい気持ちになれるかも。\n\n年月日時分指定、曜日繰り返し設定が可能です。",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/ycsdtdtKqM4phPyDjHa3MJjA6Ov5hxMJEt-M-r_RrrhBzAzc5Gv3BMPsAwzkX-7sH3FYyQk5M2vF8cUxiE9ImWk",
+      "https://play-lh.googleusercontent.com/SfZ5BL1jHVE76CWx9i_geVX-Gx-I6NT-armeG1Cg6UqSPujrMIJHfEtg5252TGRT9MfW8QwkcU5VkRskCvKOiro",
+      "https://play-lh.googleusercontent.com/talDRBsf_uU8m-MijZZRvK9pg-U8EfWVjNWxVGZBVxsqdkUVLt_h1nWk72kkqUuO8nevq5Wd1IddATq_UtNM",
+      "https://play-lh.googleusercontent.com/D8vAc-WwtZz11ygDEefFXBoX-51JpRs6E40XwhhUilMuPutv6AYWDrVh5oWeOC5qagzhtOOI3EukkvY5jyf3iw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.chime&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.chime&hl=ja"
+  },
+  {
+    "id": "buunyan.tool.point2point",
+    "title": "距離測定",
+    "catchphrase": "2地点間の直線距離・道のりを地図上でサクッと計測！",
+    "category": "tool",
+    "category_label": "イベント・ツール",
+    "badge": "距離測定",
+    "icon": "https://play-lh.googleusercontent.com/baf2dPVi8eFkJXlDx8xoLQ534K-X34YjnDCDGghsF-ZCIAMmHTcey-P2M_DgLTTpihno8vtDTITSayU-xhw8FA",
+    "rating": 3,
+    "downloads": "50,000+",
+    "tags": [
+      "距離測定",
+      "便利アプリ",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "2地点間の直線距離・道のりを地図上でサクッと計測！",
+      "無駄を削ぎ落としたシンプルで実用的な機能構成",
+      "起動から操作までワンタップ感覚で使える軽快な動作"
+    ],
+    "description": "このアプリを使う事で旅行の時や散歩の時でも、どれくらい移動したかを\n簡単に調べられます。\n\n各都道府県の県庁所在地の座標を登録済みですので\nお目当ての場所に瞬時に移動できます。\n\n【操作方法】\n画面上の地図を長押しすると地点を選択できます。\n起動時にGPSで現在位置に座標が合います。",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/eLA620Cn76vdsAaJPDpdVW_YxjkYAOUDEPZt19hg0o-apVq_yOHuSa2xPxolqxk-HyKu9g1Pgm0mSunI33nkGg",
+      "https://play-lh.googleusercontent.com/06ZjdtgKFtCqx9h9WJsCxRsdKho4POm2x1cbXulFYG1zVfMIBZf9KgSXi_3k3R6bPbVnqtXgcy3E1ZGgnvbfEw",
+      "https://play-lh.googleusercontent.com/Xl2MfAidWpc_DlF6Pzo2g8lNGgh1WN-Gs7Ijs_2hLFGcqs_w0dWDJLZkjtC-2uNNJ_BzrRu2gTADq1R925cB",
+      "https://play-lh.googleusercontent.com/eLA620Cn76vdsAaJPDpdVW_YxjkYAOUDEPZt19hg0o-apVq_yOHuSa2xPxolqxk-HyKu9g1Pgm0mSunI33nkGg",
+      "https://play-lh.googleusercontent.com/06ZjdtgKFtCqx9h9WJsCxRsdKho4POm2x1cbXulFYG1zVfMIBZf9KgSXi_3k3R6bPbVnqtXgcy3E1ZGgnvbfEw",
+      "https://play-lh.googleusercontent.com/Xl2MfAidWpc_DlF6Pzo2g8lNGgh1WN-Gs7Ijs_2hLFGcqs_w0dWDJLZkjtC-2uNNJ_BzrRu2gTADq1R925cB"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.point2point&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.point2point&hl=ja"
+  },
+  {
+    "id": "buunyan.tool.escapecall",
+    "title": "EscapeCall (エスケープコール)",
+    "catchphrase": "長引く会議や飲み会からスマートに離脱できるフェイク着信アプリ",
+    "category": "tool",
+    "category_label": "イベント・ツール",
+    "badge": "脱出電話",
+    "icon": "https://play-lh.googleusercontent.com/JvtYKXVb_yge5mLgVg3igRLqKz6F2tk5Ljsihd3tD8LFxgzIupfvx6vFZV5919HSsKjlddKtOqoPbcNdzUrUnQ",
+    "rating": 4.0,
+    "downloads": "50+",
+    "tags": [
+      "脱出電話",
+      "便利アプリ",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "長引く会議や飲み会からスマートに離脱できるフェイク着信アプリ",
+      "無駄を削ぎ落としたシンプルで実用的な機能構成",
+      "起動から操作までワンタップ感覚で使える軽快な動作"
+    ],
+    "description": "「話が長くて切り上げられない...」「この場から離れたいけれど、きっかけがない...」 EscapeCallは、そんな気まずいシチュエーションからあなたをスマートに救い出すアプリです。\n\n【主な機能】\n\nタイマー予約 10秒後、1分後、5分後など、指定した時間に着信を予約できます。\nアラーム予約 特定の時刻に着信を設定できるので、予定に合わせて脱出の準備が可能です。\n自由にカスタマイズ 発信者の名前や電話番号、プロフィール画像を自由に設定できます。 （上司、家族、友人など、状況に合わせて5つまでプリセット可能）\n推しの画像を配置したらモーニングコールの気分を味わえます。\nリアルな着信画面 本物の着信と見間違えるような高品質なUIを搭載。\n多彩なテーマ お使いの端末や好みに合わせて、着信画面のデザイン（テーマ）を選択できます。\nもう、無理に理由を作る必要はありません。EscapeCallが「電話がかかってきた」という完璧な口実を提供します。",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/6YiBRfEizekLRRlaL1hkXkwwYFlVzzL8_HgVg8-yCNldA56Sff5XjDxVK-VOd7aWotDY_qMuDYyAfgyr1BMadro",
+      "https://play-lh.googleusercontent.com/-lkeuV4Ba7R59GjxmKJ1xudHkWkCvWrol_Fp6Xkwhid61YmTehkGf5sRVkNQt-stCWsIsx3e2QtA_9VOb-q07Q",
+      "https://play-lh.googleusercontent.com/D2RUtF75w02LUw-im0ENn3gmEZ4wrXncXZyTcS9Xhhhjy8KzqWngg2miJio9cIA9Ghb1LjimejVhr1ODo5nk",
+      "https://play-lh.googleusercontent.com/JQzTsYwOGBL3QcWfdmvsW5jgBHPwgM2K2sYFauMaiW3SZWLB6tX6uCPV79GPR3gQ1_uXhJahLs-THO2wRo7bRg",
+      "https://play-lh.googleusercontent.com/F-L-vLqcgjP5tHMc4c1lEQXVYrvkq4BvA2LGtLGzgfFzdivyqWir90Ltk41uAR50eq7yv-5YWA5b1KT77kO6AlQ"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.escapecall&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.escapecall&hl=ja"
+  },
+  {
+    "id": "buunyan.tool.colorsample",
+    "title": "色見本",
+    "catchphrase": "日本の伝統色やWebデザインに使えるRGB/HEXカラーサンプル集",
+    "category": "tool",
+    "category_label": "イベント・ツール",
+    "badge": "色見本",
+    "icon": "https://play-lh.googleusercontent.com/ss1i0qyZedzJaOwEoZSNMt2lMym7gVIZgDd6R9bS0jw6wTXNWFsdAmyDSjaJVhW0nphEplzTKLFjkobHXa0EOA",
+    "rating": 3.2727273,
+    "downloads": "1,000+",
+    "tags": [
+      "色見本",
+      "人気アプリ",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "日本の伝統色やWebデザインに使えるRGB/HEXカラーサンプル集",
+      "シンプルで洗練された直感的操作感",
+      "軽快なレスポンスで毎日気軽に使える"
+    ],
+    "description": "和名の色見本表です。\n\n見やすいリスト表示でRGBの値がわかります。\n\n※端末の液晶画面の明るさ等で実際の色とは見え方が変わったりすることをご了承ください。",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/alrjdFcK-pfogeBxcO8keGLhadL5CqZfs7YKo0OGvwbC5bfGg6psNr87yMfAlaw2f4UIYjSWrBj2cUiVe7b5PQ",
+      "https://play-lh.googleusercontent.com/AOYzJKu0Sfo64n1kV8R06LQAsvjxTbi2ia6Vl7hH05gGRQI5-xFCeLEvyZVw0gPftP-B6J_dsD6NgHRiI4Yhpf8"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.colorsample&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.colorsample&hl=ja"
+  },
+  {
+    "id": "buunyan.pzl.roadgame",
+    "title": "PipeFlow",
+    "catchphrase": "回転させて繋げる爽快ルート作成パイプパズル！",
+    "category": "game",
+    "category_label": "ゲーム・パズル",
+    "badge": "PipeFlow",
+    "icon": "https://play-lh.googleusercontent.com/46ws4b7uOe6w4TC7bCJplZ9HTQAolPwi3q-_Uudp3lGR4Xnes699sZ5rPLukjFChDvmrx1R8KzYpyuVTnRx1oA",
+    "rating": 4.0,
+    "downloads": "1,000+",
+    "tags": [
+      "PipeFlow",
+      "人気アプリ",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "回転させて繋げる爽快ルート作成パイプパズル！",
+      "シンプルで洗練された直感的操作感",
+      "軽快なレスポンスで毎日気軽に使える"
+    ],
+    "description": "パイプをくるくる回して右下の出口まで道を繋げよう！\n\n頭の体操にもぴったりな遊びです。\nタッチだけで操作可能なので疲れた頭をこのゲームでリフレッシュ♪\n\n反応速度を重視した快適操作に簡単なパズル要素でどなたでも遊べます！\n\n【ルール】\nパイプをタッチするとそのマスが回転します。\n右下まで道が繋がればクリアです。",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/bHunLhzdBi6k-D3o5GF6Woz59Yfg5UmeVxtEgafjgOP2Rdf09gXcS0mHncbZkorOG-8ZCyTUryk9WasKEONr4w",
+      "https://play-lh.googleusercontent.com/RYeH6ev5yFYnWVknznQi7x7fCLsbNf8dMPpvi4h9qHlbyBgJQRqS3egZFR4DEDsiLYbwQr6BGPyTD73GaN5PyH4",
+      "https://play-lh.googleusercontent.com/_jysaoL7e7uRvkDoaxQJIt11-KTVoBKwMogLFnWKq7gzX_qj0RBKIsQqH3iuJHKOISBuoAps-kUz3Sr_PHJyCQ",
+      "https://play-lh.googleusercontent.com/C_nyVMrN5oK5geiUfWL2EtH3EyOfZrkxFUYVgrKPwkASe5etl5sb-sodLVCFEty3weT11fwTbR4Y6zSz5CJWFQ",
+      "https://play-lh.googleusercontent.com/bHunLhzdBi6k-D3o5GF6Woz59Yfg5UmeVxtEgafjgOP2Rdf09gXcS0mHncbZkorOG-8ZCyTUryk9WasKEONr4w",
+      "https://play-lh.googleusercontent.com/RYeH6ev5yFYnWVknznQi7x7fCLsbNf8dMPpvi4h9qHlbyBgJQRqS3egZFR4DEDsiLYbwQr6BGPyTD73GaN5PyH4"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.pzl.roadgame&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.pzl.roadgame&hl=ja"
+  },
+  {
+    "id": "buunyan.pzl.arrow",
+    "title": "Flash アロー",
+    "catchphrase": "画面に一瞬現れる矢印の向きを素早く瞬発タップ！脳トレ動体視力ゲーム",
+    "category": "game",
+    "category_label": "ゲーム・パズル",
+    "badge": "Flash アロー",
+    "icon": "https://play-lh.googleusercontent.com/LKJGOwqTZWdAtHBPwMGEfCn68r8ZxoDR9SpHxUt5rloxwYe_LSt_6AuvARRVWpdE2dCeXYVIPutsmkxPZTDUmA",
+    "rating": 4.0,
+    "downloads": "500+",
+    "tags": [
+      "Flash アロー",
+      "人気アプリ",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "画面に一瞬現れる矢印の向きを素早く瞬発タップ！脳トレ動体視力ゲーム",
+      "シンプルで洗練された直感的操作感",
+      "軽快なレスポンスで毎日気軽に使える"
+    ],
+    "description": "画面上に次々と出てくる矢印を記憶して最後に順番に答えを入力する記憶ゲームです。\n\n暗記の練習になりますし、家族やお友達と競ってみてください。\n\n【更新履歴】\n高解像度端末への対応修正\n高解像度端末では画面が滑らかになるように修正\n終了時にエラーが出るバグ修正\nタイトル画面を同類の他のアプリと同じに統一\n\nこのアプリの開発者は、安心・安全なアプリの開発者であるとしてアンドロイダーの公認デベロッパーに認証されています。https://androider.jp/developer/1a4090045b1c988a19833ad010d85609/",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/ly1sRSyRWpGmirYL8CJ_OYTnbdwcfyFavGUoz4C8I4yu1EfWlDct-RBuvpH_G6mU4OAgs3-OWm-FkNr4MjXkkg",
+      "https://play-lh.googleusercontent.com/1ZgRD8B8iKxQp7giv3Qne14MYDO61qbXSuNE8I9WBn5d7VnVktocRI22S1ttREp7qY6On3sFvSDH1KYPtaAc",
+      "https://play-lh.googleusercontent.com/4-W1akK99wBwed78V3ay14ZDEZ5KIQ_rleF1gTZMw-jrXM8bmuK6XMYb6mgnT0BmdG7MIhl-MXfZZl0Z0GdANA",
+      "https://play-lh.googleusercontent.com/ItaOVW9y5T0TezWdIdiJYE3ufsJRzgnmlOhmM5lRXiS7CwpC1zvwEQu86WUPhFo2AB_pMhMBFw0oErkpYHbS",
+      "https://play-lh.googleusercontent.com/ly1sRSyRWpGmirYL8CJ_OYTnbdwcfyFavGUoz4C8I4yu1EfWlDct-RBuvpH_G6mU4OAgs3-OWm-FkNr4MjXkkg",
+      "https://play-lh.googleusercontent.com/1ZgRD8B8iKxQp7giv3Qne14MYDO61qbXSuNE8I9WBn5d7VnVktocRI22S1ttREp7qY6On3sFvSDH1KYPtaAc"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.pzl.arrow&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.pzl.arrow&hl=ja"
+  },
+  {
+    "id": "buunyan.etc.collage",
+    "title": "CollagePop",
+    "catchphrase": "お気に入りの写真を組み合わせてポップなコラージュを作成！",
+    "category": "tool",
+    "category_label": "イベント・ツール",
+    "badge": "CollagePop",
+    "icon": "https://play-lh.googleusercontent.com/Q5oFfl_-s3kj-G66CAWp4Iw_UY_N0afE1XGz01bJTgXbFFIn1U3SqB6xyrVRi4JGL509z-_NheuEkcFumw8u",
+    "rating": 4.0,
+    "downloads": "500+",
+    "tags": [
+      "CollagePop",
+      "人気アプリ",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "お気に入りの写真を組み合わせてポップなコラージュを作成！",
+      "シンプルで洗練された直感的操作感",
+      "軽快なレスポンスで毎日気軽に使える"
+    ],
+    "description": "携帯に保存した画像や撮影した画像を組み合わせた画像を作ることが出来ます。\n\n多彩なレイアウトパターンに線の太さや角の丸みも指定可能！\n背景も色々と用意していますが今後もどんどん増やしていきます。\n\nお気に入りの画像をコラージュして楽しみましょう♪\n\n撮った画像を即座にフィルター加工も可能です！",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/hWQT46-_K-XAImsCJXiacqCk44S0DAojqDazkYDRH3FVEBWGLqdb8HOSmzUH4JZYlxHyUXbOwEtZ0pJOhdB8",
+      "https://play-lh.googleusercontent.com/dT31nzGPhoyKCaD7or8cnkaxho-3qoW860jeG_kOEVOc-3rEK_xmvahtmt3suqBi_M6B4Ac995qD8B5QVCzN0g",
+      "https://play-lh.googleusercontent.com/u0kIU2QSx57mjTQyT0i6u3T6eesaVfQNjPpNgNJTPpxKKX3ohCyIzC_iAVVc_C7WRN6INpXQjhAVkujnW5Er",
+      "https://play-lh.googleusercontent.com/TLma0VFxwP21qNvBCwslIE0zHfxCHpgr5KoaasURbznw24ri6AYaMvGQKh8TeytPqR6Jl_qk3rSjg39PW2sm9w"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.etc.collage&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.etc.collage&hl=ja"
+  },
+  {
+    "id": "buunyan.pzl.samegame",
+    "title": "さめがめ",
+    "catchphrase": "同じ色のブロックをまとめてタップして消していく爽快パズルゲーム",
+    "category": "game",
+    "category_label": "ゲーム・パズル",
+    "badge": "さめがめ",
+    "icon": "https://play-lh.googleusercontent.com/subCCPenFyH8XpL4H822V9D1XKgGbZWhDYeqDnGfrllfx5FIghFptVTpcp-GklFJfH0lP3Co2Bt1WwudqVjI0Rk",
+    "rating": 4.0,
+    "downloads": "1,000+",
+    "tags": [
+      "さめがめ",
+      "人気アプリ",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "同じ色のブロックをまとめてタップして消していく爽快パズルゲーム",
+      "シンプルで洗練された直感的操作感",
+      "軽快なレスポンスで毎日気軽に使える"
+    ],
+    "description": "パズルゲームの定番「さめがめ」です。\nシンプルなルールで、誰にでも簡単に楽しんで頂けると思います。\n\n上下左右にくっついている同じ駒を選んでクリックすると駒が消えます。 駒が消えたあとの隙間は上の駒が落ちてきて埋めてしまいます。 できるだけたくさん消すと得点が上がります。 ２つ以上つながっている駒がなくなったらゲームオーバーです。\n\n※ネットワーク通信などの権限を必要としていますが\n　広告表示以外では使用していませんのでご安心ください。\n\n【更新履歴】\n画像がわかりにくい箇所があったので修正\n広告会社を変更\n小さくてわかりにくいとの声がありましたので\nマス目が大きい版も選べるようにしました\n高解像度端末への対応修正\n広告会社の変更\n1.12 自作アプリへのリンク追加\n1.13 広告ライブラリの変更\n\nこのアプリの開発者は、安心・安全なアプリの開発者であるとしてアンドロイダーの公認デベロッパーに認証されています。https://androider.jp/developer/1a4090045b1c988a19833ad010d85609/",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/Q60itR7MRYVXOtPioZNavjQejshd8iZw8t3I--OeOp2ZfvQjbW1qfCC0upm6bAQwVXvzhNY7X8HCtxx8Q2q3M5g",
+      "https://play-lh.googleusercontent.com/wbpzok4ykM7zor9d0mtUXint1Xfyptf3EJ1yRXrshQGnTgyYazXH3q_JF7N_R9gp7_Zpi5mr0XfwKHqNWapSDnc",
+      "https://play-lh.googleusercontent.com/Q60itR7MRYVXOtPioZNavjQejshd8iZw8t3I--OeOp2ZfvQjbW1qfCC0upm6bAQwVXvzhNY7X8HCtxx8Q2q3M5g",
+      "https://play-lh.googleusercontent.com/wbpzok4ykM7zor9d0mtUXint1Xfyptf3EJ1yRXrshQGnTgyYazXH3q_JF7N_R9gp7_Zpi5mr0XfwKHqNWapSDnc",
+      "https://play-lh.googleusercontent.com/Q60itR7MRYVXOtPioZNavjQejshd8iZw8t3I--OeOp2ZfvQjbW1qfCC0upm6bAQwVXvzhNY7X8HCtxx8Q2q3M5g",
+      "https://play-lh.googleusercontent.com/wbpzok4ykM7zor9d0mtUXint1Xfyptf3EJ1yRXrshQGnTgyYazXH3q_JF7N_R9gp7_Zpi5mr0XfwKHqNWapSDnc"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.pzl.samegame&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.pzl.samegame&hl=ja"
+  },
+  {
+    "id": "com.buunyan.poker",
+    "title": "ポーカーモバイルリーグ",
+    "catchphrase": "「いつでも、どこでも、片手で手軽に本格ポーカー！」",
+    "category": "game",
+    "category_label": "ゲーム・パズル",
+    "badge": "ポーカー対戦",
+    "icon": "https://play-lh.googleusercontent.com/FFRRL0rlzs5BWXZ7ZCmbzLYJLvWdeAENjvO9Y_EGhLXReAU8JMlkXt15gCYaJ-aQEMOAiDwf4WJRq79HQxUY_Q",
+    "rating": 4.0,
+    "downloads": "1+",
+    "tags": [
+      "ポーカー",
+      "トランプ",
+      "カードゲーム",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "「いつでも、どこでも、片手で手軽に本格ポーカー！」",
+      "直感的なベット操作とスピーディなゲーム進行",
+      "ちょっとしたスキマ時間に気軽に遊べる本格トランプゲーム"
+    ],
+    "description": "「いつでも、どこでも、片手で手軽に本格ポーカー！」 『ポーカーモバイルリーグ』は、直感的なUIとスピーディな進行で初心者から中級者まで楽しめる、スマートフォンに最適化されたポーカーゲームです。\n\nアプリ説明\n大人気の「テキサスホールデム」と、クラシックな「ドローポーカー（5カードドロー）」の2大ルールをこれ一つでプレイ可能！縦画面設計により、通勤・通学中やちょっとした隙間時間にも片手で快適に操作できます。\n\n高度なAI対戦相手を相手に戦略を磨き、チップを増やして最強のプレイヤーを目指しましょう！\n\n【ポーカーモバイルリーグの魅力】\nスピーディなゲーム展開！ 自分の番が来る前にアクションを予約できる「先行入力機能」を搭載。ストレスフリーでハイテンポな試合が楽しめます。\n縦画面＆片手操作に特化したUI スマートフォンの画面に最適化された配置で、親指一本で簡単にフォールド、コール、レイズ、カード交換が行えます。\n2つのゲームモード\nテキサスホールデム: 6人テーブルでコミュニティカードを駆使して戦う、世界標準のマインドスポーツ。\nドローポーカー: 5枚の手札から不要なカードを交換し、最強の役を作る懐かしくも奥深い対戦モード。\n充実の設定と多言語対応 好みに合わせた言語設定で、世界中のプレイヤーと同じ環境で遊ぶことができます。\n本格的なカジノのスリルを、あなたの手の中に。今すぐ『ポーカーモバイルリーグ』をダウンロードして、最初のハンドを配りましょう！",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/uZ0AzoDlBs_D9q0rwOceBaqfNo79la0uv8kXwo1nlZ9MeS8wRCPvla4YbhpvuzmOUqcCvDXh25cHgS8Ed90R",
+      "https://play-lh.googleusercontent.com/dAp6dpfTnHOKyLi8FupHEVsrcgF12lL0NaObwIJ6pzEighw2iT3YmKz3EbEZ9H7LMo3mD83G_yWpGFxi17R_",
+      "https://play-lh.googleusercontent.com/GPV2uPs7ZBE3GVZIlqyOKbEsTap3frM2-5ZPsR5QcIh-kfGeQKSvSJKbOcw-F2EX9OGmZDY84AOraGvvCZwLXg",
+      "https://play-lh.googleusercontent.com/HoAjNuZMJofAMlf1_MKAyZWaahmGdhinlNLYCV4eXULMdauSljjOtPWuDaR9fNXd4lcJJHW6O6hPDFB-helOzA"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=com.buunyan.poker&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=com.buunyan.poker&hl=ja"
+  },
+  {
+    "id": "buunyan.tool.kanken",
+    "title": "漢検マスター：漢字検定の対策問題集（10級〜1級対応）",
+    "catchphrase": "漢字検定10級から1級まで完全対応！クイズ形式で楽しく漢字をマスターしよう。苦手な漢字を優先的に出題する学習機能や統計カレンダーで合格を強力サポート。",
+    "category": "education",
+    "category_label": "学習・知育",
+    "badge": "漢検対策",
+    "icon": "https://play-lh.googleusercontent.com/R5PW5sYyQRFOAKyDBq_yplSMCPziVyQ-QrlhEcAQbVridHLEliEd6O0y3kfCEJr5__ZMHqnpdgXdz0gljg83Uw",
+    "rating": 4.0,
+    "downloads": "100+",
+    "tags": [
+      "漢字検定",
+      "漢検",
+      "学習",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "漢字検定10級から1級まで完全対応！クイズ形式で楽しく漢字をマスターしよう。苦手な漢字を優先的に出題する学習機能や統計カレンダーで合格を強力サポート。",
+      "級別の出題で基礎から難関級までステップアップ学習",
+      "完全無料・手軽な操作で通勤・通学のスキマ時間に最適"
+    ],
+    "description": "「漢検マスター」は、日本漢字能力検定（漢検）の合格を目指す方のための学習アプリです。 小学校低学年レベルの10級から、最高難易度の1級まで、全12階級に完全対応しています。\n\n【主な特徴】 ● 全級対応 10級から1級までのすべての配当漢字を収録。自分のレベルに合わせて学習を始められます。\n\n● 2つのクイズモード ・「読みをあてる」：表示された漢字の正しい読み方を選択します。 ・「漢字をあてる」：示された読み方に合う正しい漢字を選択します。\n\n● 効率的な学習アルゴリズム まだ覚えていない漢字や、間違えやすい漢字を優先的に出題。試験対策のため無駄なく短期間で語彙力を高めることができます。\n\n● 学習記録を視覚化 カレンダー機能で毎日の学習トレーニング状況をチェック。統計データで自分の成長を実感しながらモチベーションを維持できます。\n\n● 漢字一覧・予習復習 各級の配当漢字を一覧で確認可能。苦手な漢字を集中してチェックする問題集として使うのに便利です。\n\n● カスタマイズ可能な学習環境 制限時間の設定や、目に優しいダークモードへの切り替えに対応。自分に最適なスタイルで学習に集中できます。\n\n漢検合格への近道、「漢検マスター」で今すぐ学習・勉強を始めましょう！\n\n「漢字検定」・「漢検」は、公益財団法人 日本漢字能力検定協会の登録商標です。",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/8E8Ad1v2A298js9kKLltmnQsPRGFf79lzWTtuKU_vMnNg2f-zCBdY_uyVpvpPb97nLFcPgQf5kCD9bOn6sYjoQ",
+      "https://play-lh.googleusercontent.com/AhnksboBXHLgR0ZeDSEPpj_CdtQS94ywj4jGo5JABlu_edXxmzwTlLJXQb6M1G5gk_X5G7y1InupIAhLmKmb",
+      "https://play-lh.googleusercontent.com/0OzeZSVhoP4pzqfs_f6xAv_fgYMzBTI7Td2b-03QRWBcmenWKVH0rNHPMfU-uDTGcuy06jUu80kS4yYPkKzfcw",
+      "https://play-lh.googleusercontent.com/10dlNClWSdOHefpvYKiyKLZQ8COWxsjuftvLMsy_6QwOoVdsM5uEVBbNC5RBvLyy0q6qADjNt6yXELXsxPOS",
+      "https://play-lh.googleusercontent.com/m58EnqM95ABKoy7IhoZ22VQ3vztKK7UXWlRc1-ArUbzZ76B7dK0HCX3B1GQskYWcDNdAompzDoQjBiCReHFEwg",
+      "https://play-lh.googleusercontent.com/rSB5DLPjg0xBE772UeLQ5K3OCeZbQOaOAId_oLuHHhMU0Vc4Y9se1suXjm0lla_0chlnPCNvTdplPSU0ItIOImA"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.kanken&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.kanken&hl=ja"
+  },
+  {
+    "id": "buunyan.etc.makejanken",
+    "title": "負けじゃんけん",
+    "catchphrase": "普通のじゃんけんとは違い負けてください。",
+    "category": "game",
+    "category_label": "ゲーム・パズル",
+    "badge": "脳トレじゃんけん",
+    "icon": "https://play-lh.googleusercontent.com/k_SPA_WELqYRI1742CnLv0YdmNwk1IapYk_7WEHI3nxfKBVYxvNFbeJmAKz0tUh5vQIU4-K6SU7o5iUPS62RUw",
+    "rating": 4.0,
+    "downloads": "1,000+",
+    "tags": [
+      "じゃんけん",
+      "脳トレ",
+      "反射神経",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "普通のじゃんけんとは違い負けてください。",
+      "指示に合わせて「勝つ」「負ける」を素早く出し分ける反射神経テスト",
+      "シンプルルールで子どもから大人まで誰でもハマる脳の体操"
+    ],
+    "description": "昔からの定番遊びである「じゃんけん」のルールを使って頭の体操ゲームを作りました。\n\n制限時間内に何回負けれるかが得点となります。\n制限時間は20秒です。\n\n単純ですが頭の体操にはちょうどいいと思いますので、ちょっとした暇つぶしや脳トレなどに活用してください。\n\n友達と対戦するのも盛り上がって楽しいかと思います♪",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/2NFn9aJc2TKuCEdc99XcHv2_t9i9rHvW0MKup6NoiSlXq-3Ig6yR7Dwyc-r8sOBC8q3PxYntBwY4ECwajM9n7e4",
+      "https://play-lh.googleusercontent.com/Tm9MAhKg1M-tPKhPiC4oqvb7zcEbd55OH3_v4a444HexMig4VOJh6mCMlQRVH2DD1rcf4Kw_jJbFC0Cyi1-0dw",
+      "https://play-lh.googleusercontent.com/x0JzPdWo-zXc6XQqbLHlEUoN9X1yTZL_oIpqAgRS9wpTMSeFkQc1ryRGlIKJP_TsqMq1D951V7Ankq9heU7pE_8",
+      "https://play-lh.googleusercontent.com/bU4uUJzFVkWqS61wrCr61tWottHEMYpV-IRICv9qFHenjrbiVl3A07ESUcA5aoyXYS939irN-S6NtBHc8cf3",
+      "https://play-lh.googleusercontent.com/2NFn9aJc2TKuCEdc99XcHv2_t9i9rHvW0MKup6NoiSlXq-3Ig6yR7Dwyc-r8sOBC8q3PxYntBwY4ECwajM9n7e4",
+      "https://play-lh.googleusercontent.com/Tm9MAhKg1M-tPKhPiC4oqvb7zcEbd55OH3_v4a444HexMig4VOJh6mCMlQRVH2DD1rcf4Kw_jJbFC0Cyi1-0dw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.etc.makejanken&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.etc.makejanken&hl=ja"
+  },
+  {
+    "id": "com.pzl.sisen",
+    "title": "四川省",
+    "catchphrase": "おなじみの定番ﾊﾟｽﾞﾙ四川省です。",
+    "category": "game",
+    "category_label": "ゲーム・パズル",
+    "badge": "二角取りパズル",
+    "icon": "https://play-lh.googleusercontent.com/VkDsw_I_sfIh0SGe9PEsv6WuQ0ae7NV0KtMyJWVPPIkgm5BKCj9OaDDdIGVHFtNOijmLp89eczN2QMRSdhqp0g",
+    "rating": 4.0,
+    "downloads": "1,000+",
+    "tags": [
+      "四川省",
+      "麻雀牌",
+      "二角取り",
+      "パズル",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "おなじみの定番ﾊﾟｽﾞﾙ四川省です。",
+      "曲がり角が2回以内の同じ牌を繋げて消していく爽快ロジックパズル",
+      "縦画面UI対応で通勤電車やちょっとした待ち時間にも片手でプレイ可能"
+    ],
+    "description": "おなじみの定番ﾊﾟｽﾞﾙ四川省です。\n二角取りや二画取りとも呼ばれています。\n暇つぶしにぴったりの何度も遊べる簡単ルールでもちろん無料です！\n同じ牌を直線が二回曲がる間に繋がる位置にあれば\n消すことが出来ます。",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/6mviyXKDedj6YNBKO1qAHan5YyTTc-hjbrGjmeaOP4htWMob0T17lANqvXtjTZwwXOAMnPTzl_v-FtANuOsM468",
+      "https://play-lh.googleusercontent.com/-N_6djIThriNe4OULGEPn2kvR8gNaLTvoufnTTeVvE90kpktZWVJ5USEJwuBCxfREJqA-ybZLb7c3vNbSAQc4Q",
+      "https://play-lh.googleusercontent.com/SUEe9_wb_XclTkFOtLqR2CIegX3AA3e0JfRATWx7G5SzA8m0DtJJeRWegr9DpOvTdwI3IuxZtGSypC9R9kaINJQ",
+      "https://play-lh.googleusercontent.com/M13kkels2hBo2fvFLML3qPOj2QRSt2TQHxN8i1XIwNZMTRzsAvoVYsd4KOZxZG89lmlIPW7xH57P28FtOCo1DA",
+      "https://play-lh.googleusercontent.com/OMQ42tLC7deVpgsWw1hMnXOv3OIGrMp3YJo5hN5Qv4WAlhj9Ht2OQTnxo32KiW6zyQw_09sJaZLaxI70-z8scw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=com.pzl.sisen&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=com.pzl.sisen&hl=ja"
+  },
+  {
+    "id": "buunyan.stg.janken_stg",
+    "title": "じゃんけんコズミックパニック！",
+    "catchphrase": "じゃんけんの属性で敵を撃墜！爽快新感覚シューティングゲーム",
+    "category": "game",
+    "category_label": "ゲーム・パズル",
+    "badge": "シューティング",
+    "icon": "https://play-lh.googleusercontent.com/NJrxwZop1bXb8J_dbeGIdE_uXOpiQeIHA3jIcft0mHdctbTuVMZwcapCiVEsxqnnMvc5LnXlqe7k0YdTwMu0sg",
+    "rating": 4.0,
+    "downloads": "500+",
+    "tags": [
+      "シューティング",
+      "人気アプリ",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "じゃんけんの属性で敵を撃墜！爽快新感覚シューティングゲーム",
+      "シンプルながら奥深いゲーム性と病みつきになる爽快感",
+      "軽快な操作性と飽きのこない丁寧な難易度設計"
+    ],
+    "description": "【プロローグ】 ここは「じゃんけん銀河」。 あらゆる選択がじゃんけんで決まる、とっても平和で公平な世界でした。\n\nところがある日、宇宙猫ニャンケンが平和の象徴「宇宙チョキ」に激突！ バラバラに飛び散ったエネルギーで、銀河中の「手」たちが不機嫌になって襲いかかってきたのです！\n\n【ミッション】 不機嫌な手たちが星にぶつかると、その星は「負け」とみなされて、銀河中が「一生お片付け係」に！？ 新米船の「ぽこ太」になって、不機嫌な手たちに正しい「勝ちの手」をぶつけて、機嫌をなおしてあげよう！\n\n【ゲームの特徴】\nシンプルで爽快なじゃんけんシューティング！ 流れてくる✊✌️✋に対して、勝てる手を選んで撃つだけ。直感的な操作で誰でも楽しめます。\nコンボをつなげてハイスコア！ 連続で倒すとコンボが発生。ミスをせずに高得点を目指そう。\n虹色の弾でなぎ倒せ！「フィーバーモード」 ゲージが溜まればフィーバー突入！どんな敵も一撃で倒せる連射モードで、溜まったストレスを吹き飛ばそう。\n強大な巨大エネミーと編隊飛行 巨大なボスや編隊を成して襲いかかる手たちを、素早い判断で攻略しよう！\n銀河の平和（とお片付け回避）のために、今すぐ出撃だ！",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/JI2trtry-AS6bZCl0etphpJaMhPa0CFPIa2rirLTNPIEfX4hxlxbGFMwEKJaBQNEP7wfQeGXT20wpTcnYuYLwA",
+      "https://play-lh.googleusercontent.com/DqMKfqPme8ngnKtzcY03l5uv-RuvMivlLH3WaLo2h2XDgIsCKhzy5TLgIKPeZB3rROUyRe5jDjIyKzVKrmvhqA",
+      "https://play-lh.googleusercontent.com/8GE5HqVRXI9TEpXmUs9ED2yubciHqquvkocplazjSHYyKp9Vqu3B0-NT_L3gbwDDNiNFGJidMhAcOGhRSPwoCA",
+      "https://play-lh.googleusercontent.com/GVBbUzSL7c_AHJBObrCFg_kM9snpajJNj4v8Fc4wq7r_jwO36Zw-dHvEHd6jcrKtG3cS4qHfxJ_1Eu55RO6-u4M",
+      "https://play-lh.googleusercontent.com/MVDWtET2blpNsDwL3HKHtngxD5eYnsyErqD-TNKDAIbsKV-Wyt18ySnPqYRR0aXcdPwHnT7aEuSbID-L82bCUA"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.stg.janken_stg&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.stg.janken_stg&hl=ja"
+  },
+  {
+    "id": "com.pzl.nankin",
+    "title": "ぶーにゃんの南京",
+    "catchphrase": "南京玉すだれのように牌をめくって解く、伝統的麻雀牌ソリティアパズル",
+    "category": "game",
+    "category_label": "ゲーム・パズル",
+    "badge": "牌パズル",
+    "icon": "https://play-lh.googleusercontent.com/jfBULAQX18900-Fo75Fi7Iw5-g9VlAowWlIgvXkUknDQqVwAT8tjLCya1lblgOejVSsA1X3btXnr3a6wZgaPXg",
+    "rating": 4.0,
+    "downloads": "1,000+",
+    "tags": [
+      "牌パズル",
+      "人気アプリ",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "南京玉すだれのように牌をめくって解く、伝統的麻雀牌ソリティアパズル",
+      "シンプルながら奥深いゲーム性と病みつきになる爽快感",
+      "軽快な操作性と飽きのこない丁寧な難易度設計"
+    ],
+    "description": "昔からある麻雀牌の有名ゲーム南京です。\n上下左右同列同行の同じ牌と一つ斜めの牌を消せます。\n全て消すとクリアです。",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/YdYv27M2jauNIxVgdYu_m8fEN7aVFQj05-wIFNRqUQhcEd9ehzq0oekaaLVsngWhGmsIGuIFEsYAyMFv_IXC",
+      "https://play-lh.googleusercontent.com/ziOc4bggcHt7d1jBaCp5skgSUHOrC82j3qMkDUdxYF2ISoXzdyo4-IxUTbKKbKIYiEyicdsgLEC0RZllxewx"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=com.pzl.nankin&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=com.pzl.nankin&hl=ja"
+  },
+  {
+    "id": "buunyan.tool.electric_tokyo",
+    "title": "電力メーター",
+    "catchphrase": "東京電力管内のリアルタイム電力使用状況・使用率・ピーク予測メーター",
+    "category": "tool",
+    "category_label": "イベント・ツール",
+    "badge": "電力メーター",
+    "icon": "https://play-lh.googleusercontent.com/vWV3rs61Smu98vpNG5mpiz0xjtqDIEtgCwrFRTvjwLxtBN7ph2BMGlVfvqWkJolZd88mc2w1GwnTSEofJ6V_TQ",
+    "rating": 3.3333333,
+    "downloads": "5,000+",
+    "tags": [
+      "電力メーター",
+      "人気アプリ",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "東京電力管内のリアルタイム電力使用状況・使用率・ピーク予測メーター",
+      "シンプルながら奥深いゲーム性と病みつきになる爽快感",
+      "軽快なレスポンスでいつでも気軽にプレイ可能"
+    ],
+    "description": "大手電力会社の電力利用状況を表示するアプリです。\n※北海道電力・東北電力・東京電力・中部電力・北陸電力・関西電力・中国電力・四国電力・九州電力・沖縄電力に対応しております。\n\n各電力会社が公表している\n・供給可能最大発電力\n・1時間毎の使用電力\n・使用率\nを表示します。\n\n前回開いた電力会社の画面が次回から開かれますので、\nお住まいの電力会社の電力状況が手軽に調べられます。\n\n※電力会社が一般公開している使用状況データを基に表示しております。\n\nグラフパターンを2種類用意しております。\n\nグラフにより最大供給量に対する割合などを表示しています。",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/4f9aZfz9yH4apENU0XnZK09XIl1EfCqATxnXf9BmOOOnTsGuIi-HLZEhmDFYYekWXQA4oysbiwiwh5ok3gXh",
+      "https://play-lh.googleusercontent.com/td6SDfxcnAoLYYYFyDbZLBI0_ftxgz4_lbHL47Wz4yBymks6yKM4V9r0pEKsFyyaklhZg9VY-MgwlLsHJzTF"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.electric_tokyo&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.electric_tokyo&hl=ja"
+  },
+  {
+    "id": "buunyan.pzl.imitationblock",
+    "title": "真似ブロック",
+    "catchphrase": "お手本通りにブロックを素早く再現配置する記憶＆空間認識パズル",
+    "category": "game",
+    "category_label": "ゲーム・パズル",
+    "badge": "真似ブロック",
+    "icon": "https://play-lh.googleusercontent.com/g8t9USOkOLQLWj65Du1eCJoHHWa9dOHa3UPIQtUmYfCz_8ys_vMUNSOlJ2RAOdbNdEwH-aNwpsh9XaiytjD6Wg",
+    "rating": 4.0,
+    "downloads": "100+",
+    "tags": [
+      "真似ブロック",
+      "人気アプリ",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "お手本通りにブロックを素早く再現配置する記憶＆空間認識パズル",
+      "シンプルながら奥深いゲーム性と病みつきになる爽快感",
+      "軽快なレスポンスでいつでも気軽にプレイ可能"
+    ],
+    "description": "例題の通りにブロックを並び替えていくパズルゲームです。\n\n上下左右の矢印を押すとそれぞれの対応する行と列がスライドします。\n例題通りに真似をして並べ替えればクリアです。\n\n【更新履歴】\n動作速度改善,細かいバグ修正\n細かいバグ修正\nAndroid OS 2.1 対応\n高解像度端末への対応修正",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/7-97d3SdPh6-XuLf2YqdhPgevnUSSWzL7AIUAJi8TM-x9t7pXDVlHvGWXc9wAEOj5uG9rXl-zuaXuxJERq1wiw",
+      "https://play-lh.googleusercontent.com/hhXiL2LWas0ApODp1Y94fPrNe52u1cjkb05dtQ7MlmHEM0JX8HzTLgv4rdnTLF4T8VCiiNXt4AEaMvmb0VBTfQ",
+      "https://play-lh.googleusercontent.com/MWyfJYophz5Ax9ZG5CeMJjqkHPxS2QrVm6oE1Ax2kLuI2Wv1uY6IrnAr5V2lrGOnp6W2VCfMm7dLe21ttHjn8w",
+      "https://play-lh.googleusercontent.com/brU04GvXznjFIA0fTOmD0ZyA5EnjrnherB2ohAqgjcKZU516hv4tjXIAqmnwV1FbLC1jCLJbbihXyWHQ8qJW",
+      "https://play-lh.googleusercontent.com/7-97d3SdPh6-XuLf2YqdhPgevnUSSWzL7AIUAJi8TM-x9t7pXDVlHvGWXc9wAEOj5uG9rXl-zuaXuxJERq1wiw",
+      "https://play-lh.googleusercontent.com/hhXiL2LWas0ApODp1Y94fPrNe52u1cjkb05dtQ7MlmHEM0JX8HzTLgv4rdnTLF4T8VCiiNXt4AEaMvmb0VBTfQ"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.pzl.imitationblock&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.pzl.imitationblock&hl=ja"
+  },
+  {
+    "id": "com.act.pukapu",
+    "title": "とんでけぷかぷー",
+    "catchphrase": "ぷかぷか浮かぶキャラクターを飛ばして障害物をかわす爽快アクションゲーム",
+    "category": "game",
+    "category_label": "ゲーム・パズル",
+    "badge": "とんでけぷかぷー",
+    "icon": "https://play-lh.googleusercontent.com/E1JDihF2pQk2l8c_GdKvm-B-5uhz52XJ6N2uLnns_x2g-zyokJHydO-_qFKHgmc6bmKOQ3zzu1IcGuCUV2Vo1k8",
+    "rating": 4.0,
+    "downloads": "10,000+",
+    "tags": [
+      "とんでけぷかぷー",
+      "人気アプリ",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "ぷかぷか浮かぶキャラクターを飛ばして障害物をかわす爽快アクションゲーム",
+      "シンプルながら奥深いゲーム性と病みつきになる爽快感",
+      "軽快なレスポンスでいつでも気軽にプレイ可能"
+    ],
+    "description": "携帯電話向けゲームとして作っていたアクション避けゲー、「とんでけぷかぷーを」移植しました。\nせっかくのスマートフォンなので操作を加速度センサーに対応♪\n\n画面を地面と水平に持ってください。\n傾けることにより動きます。\n\nふわふわ動くぷかぷーを操作して敵を避けろ！\nもちろん無料です！\n\n1.2　フォントを綺麗にしました。\nあらゆる画面サイズにあわせて拡大するようにしました。 \n動作速度を改善しました。\n1.3　広告を付けました。\n\n1.8 広告会社の変更で端末情報権限が不必要になりました。\n　　高解像度端末で画面が化けていたのを修正しました。",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/iHE6NHzRxYjyFlwV3OA8VuE6K5EzOKI2q0oPPujw7rpcBgQaIiFo2T_UsPujiwFms75Cr5EpZ1XrkQoL1vSPMA",
+      "https://play-lh.googleusercontent.com/iHE6NHzRxYjyFlwV3OA8VuE6K5EzOKI2q0oPPujw7rpcBgQaIiFo2T_UsPujiwFms75Cr5EpZ1XrkQoL1vSPMA",
+      "https://play-lh.googleusercontent.com/iHE6NHzRxYjyFlwV3OA8VuE6K5EzOKI2q0oPPujw7rpcBgQaIiFo2T_UsPujiwFms75Cr5EpZ1XrkQoL1vSPMA"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=com.act.pukapu&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=com.act.pukapu&hl=ja"
+  },
+  {
+    "id": "com.game.connectlink",
+    "title": "CHROMALINK 光と色のラインパズル",
+    "catchphrase": "光と色のノードを繋ぐ！幻想的なビジュアルと心地よいサウンドのラインパズル",
+    "category": "game",
+    "category_label": "ゲーム・パズル",
+    "badge": "ラインパズル",
+    "icon": "https://play-lh.googleusercontent.com/OaLAQcJt4BVQybmJkMEFIU28AR_NqJqfyhUXjLPx0RRijRQpvveMtL9xUOmYogHC3IxKlpIR9sE5cKN9TuakIA",
+    "rating": 4.0,
+    "downloads": "5+",
+    "tags": [
+      "ラインパズル",
+      "人気アプリ",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "光と色のノードを繋ぐ！幻想的なビジュアルと心地よいサウンドのラインパズル",
+      "シンプルながら奥深いゲーム性と病みつきになる爽快感",
+      "軽快なレスポンスで毎日快適に使える"
+    ],
+    "description": "**光り輝くラインで世界を繋げ！シンプルかつ奥深い、究極の色彩パズル「CHROMALINK」が登場。**\n\n「CHROMALINK（クロマリンク）」は、同じ色のドットを繋いで、すべてのマスを埋めるロジックパズルゲームです。\n洗練されたネオン調のデザインと、心地よい操作感があなたの脳を刺激します。\n\n### 【ゲームの特徴】\n- **プレミアムな視覚体験**: \n  美しく輝くネオンエフェクトと、3Dガラスのような質感のドット。視覚的にも楽しめる洗練されたデザイン。\n- **多彩な難易度**: \n  4x4の初心者向けから、7x7の超難問まで、幅広いステージを用意。あなたの論理的思考が試されます。\n- **緊張感あふれるタイムアタック**: \n  制限時間内にパズルを解き明かせ！秒読みのドキドキ感がパズルをさらに熱くします。\n- **世界中のライバルと競え**: \n  オンラインランキング機能を搭載。クリアステージ数で世界中のプレイヤーとトップを争おう。\n- **充実のサポート機能**: \n  難しい問題でも安心。ヒント機能やオートフィル機能を使って、サクサク進めることができます。\n- **やり込み要素満載**: \n  実績システムを搭載。すべての実績を解除して、パズルマスターを目指そう！\n\n### 【遊び方】\n1. 同じ色のドットを指でドラッグして繋ぎます。\n2. すべての色のペアを繋ぎます。\n3. すべてのマスを線で埋めればステージクリア！\n※線が交差したり重なったりしてはいけません。\n\n### 【こんな方におすすめ！】\n- パズルゲームや脳トレが好きな方\n- スタイリッシュなデザインのゲームを楽しみたい方\n- 短時間で集中して遊びたい方\n- 自分の限界に挑戦したい方\n\n**今すぐ「CHROMALINK」をダウンロードして、色彩豊かなパズルの世界に飛び込もう！**",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/U5kW4tKzsRR7XZCdFNYlVIV1XgX_euIqaIKOgq3TeAJLflEzBwbayJNTZWENUpYkS-vUxAy7ZWoJnpoyLk-ffw",
+      "https://play-lh.googleusercontent.com/qUYsMQvTKxGZ5nH1gMoWtS0K_LMdjgamRHtPcppf_HU2ILtewwnO9u223Boleh48gNDvxPHVNQuIOSAqLBL7pg",
+      "https://play-lh.googleusercontent.com/wVSwxRJNn31IjH1Dq_02jD10EBZjZNABANb6An3PJNLRbSohombeh6pLN7YgDlE_mC6jkm3Q6m8Z7ccfsAbbcg",
+      "https://play-lh.googleusercontent.com/FklScsdGRbGHJ8BbQB3wa1zt4AtejzN750qoCBMLulU6laAQKkwcl--jZ4D9zLizLFA-CC4vdcJCth4Kk4dGjA",
+      "https://play-lh.googleusercontent.com/Im3Cq93zhrr5XmrGj8ayBG3e1tfrrYoMam3sSeJlrM_uaEKvjm5iYbOwLW23lmauuqeQu4Mj8flkCL-IKVP8FA"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=com.game.connectlink&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=com.game.connectlink&hl=ja"
+  },
+  {
+    "id": "buunyan.tool.news",
+    "title": "スマホニュース - 爆速＆シンプルな軽量ニュースまとめ",
+    "catchphrase": "爆速＆シンプルな軽量設計！余計な通信を省いてサクサク読めるニュースまとめ",
+    "category": "tool",
+    "category_label": "イベント・ツール",
+    "badge": "軽量ニュース",
+    "icon": "https://play-lh.googleusercontent.com/CsnkrGHLNZlHjVyes-eDGJkEYbsPYB-vO50LP534aCzeVQwzPUPi-NB5ZaDXpYW_MmgBsQM9A7hDDQw_2dNKUjM",
+    "rating": 4.3333335,
+    "downloads": "100+",
+    "tags": [
+      "軽量ニュース",
+      "人気アプリ",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "爆速＆シンプルな軽量設計！余計な通信を省いてサクサク読めるニュースまとめ",
+      "シンプルながら奥深いゲーム性と病みつきになる爽快感",
+      "軽快なレスポンスで毎日快適に使える"
+    ],
+    "description": "【無駄を削ぎ落とした、究極のシンプルニュース】\n\n「ニュースは見たいけど、アプリが重い…」「余計な広告や動画はいらない」\nそんな方のための、軽量・高速ニュースまとめアプリです。\n\n■ 本アプリの3つの特徴\n\n爆速表示: 起動から記事閲覧まで、ストレスゼロのスピードを実現。\n\nシンプル操作: 左右のスワイプだけで、主要・経済・エンタメなど全ジャンルを網羅。\n\n通信量の節約: テキスト中心の設計で、ギガを節約しながら情報収集が可能。\n\n■ こんな方におすすめ\n・通勤中や仕事の合間に、サクッとニュースをチェックしたい。\n・大手ニュースアプリの通知や広告が煩わしい。\n・最新のトレンドを一覧で効率よく把握したい。",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/LQROOrdwniA3SAaPPG6kCqb8GEUN6O6ajRNpcfdmAGb753xe_sTigBaTpRb-d1WP3aiJ5Ex5-bioD64HhAF5VA",
+      "https://play-lh.googleusercontent.com/jLSnDBM_RDW56i9leKsctqMw2mKN6AK6oCCqoVhHIDMd3Cet_o7zjWEALu5z8ODSodd3d6r4q7eOFOjd_cMfHuE",
+      "https://play-lh.googleusercontent.com/vEZoTl4fkkO_guGb3O1R6TgwUwiVbgYH7lKHgv_xPEMxZvDnTHx22zC7e922_0YBHflF9O7aY2K35MgMkCr0cZs",
+      "https://play-lh.googleusercontent.com/3wtM4PywnhnEkhwewmsH7g0Vrf6xHNc4DnUHblOq6NwfVNkfBjdaoLjT7xvDTt6f7xIxFBLXI-EMrGPXu3nv3A",
+      "https://play-lh.googleusercontent.com/RJ3hA6e0ls0JH50eePJXLQAz6P1v96sSv1Vs3ujbyIa-oIdc8Dlh7AFZRiG6UwMQ6iv42LGxJq9S-UXXbXtqew",
+      "https://play-lh.googleusercontent.com/aHz4CqjRKVxxdVtADy3eH0ylNLqAzPggg1Kgws4yro1ciV4yQ_Xxf08B6OGrlC-Y-DGoEboIU_yi8fEJrwpzdA"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.news&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.news&hl=ja"
+  },
+  {
+    "id": "buunyan.tool.bookmanagement",
+    "title": "Yomita -ヨミタ-",
+    "catchphrase": "「読みたかった一冊、読み終えた感動、すべてYomitaに。」 直感的な操作であなたの読書生活を彩る、スマートな読書管理アプリです。",
+    "category": "tool",
+    "category_label": "イベント・ツール",
+    "badge": "読書管理",
+    "icon": "https://play-lh.googleusercontent.com/nnRI12c8nyysnwxeZpG1d4S05vj4ww4Qn6WSi8ipkZ6MSYL30aRlDeBX8N4xRdEOErvc40i3OqmGJhmy2tzXCg",
+    "rating": 4.0,
+    "downloads": "10+",
+    "tags": [
+      "本棚",
+      "読書記録",
+      "バーコード",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "「読みたかった一冊、読み終えた感動、すべてYomitaに。」 直感的な操作であなたの読書生活を彩る、スマートな読書管理アプリです。",
+      "ISBNバーコード読み取りによる爆速書籍検索＆本棚登録",
+      "読書ステータス（読みたい・読書中・読了）や感想・評価をすっきり一元化"
+    ],
+    "description": "本アプリの魅力\n\n1. Readeeからのデータ移行に対応！\nサービス終了に伴い、これまでの読書記録を諦めていませんか？YomitaはReadee互換のCSVインポート機能を搭載。お持ちのデータをそのまま取り込んで、スムーズに読書管理を継続できます。\n\n2. 爆速で本棚を構築\n・バーコードスキャン: 背表紙のバーコード(ISBN)を読み取るだけで、書籍情報を瞬時に取得。連続スキャンで大量の蔵書も一気に登録できます。\n・多彩な検索: キーワード、著者名、ジャンルから検索して、ワンタップで本棚へ追加。\n・手入力登録: データベースにない古い本や同人誌なども、画像を設定して自分専用の記録として残せます。\n\n3. 本棚を自分好みに整理\n・自由なフォルダ分類: ジャンル別やシリーズ別など、自由にフォルダを作成。フォルダごとのカラー設定も可能です。\n・階層管理: フォルダ内に階層を作れるので、増え続けるコレクションもスッキリ整理。\n\n4. 読書を可視化・分析\n・読書統計: 所持冊数、既読数、総購入金額などを自動集計。よく読む著者や出版社もひと目でわかります。\n・グラフ表示: 月ごとの「読書冊数」と「購入金額」を美しい棒グラフで表示。自分の読書傾向をチェックするのが楽しくなります。\n\n5. 新しい本との出会い\n・最新刊チェック: 今日・明日の発売情報をいち早くチェック。\n・みんなの感想: 他のユーザーが投稿した感想をタイムラインで閲覧。「いいね」で繋がる読書体験を提供します。\n・本屋大賞リスト: 2026年ノミネート作品などの特設リストから、話題の本を見逃しません。\n\n6. 安心・便利な機能\n・クラウドバックアップ: Firebase連携により、機種変更時のデータ移行も簡単。大切な読書記録を安全に守ります。\n・ダークモード対応: 夜間の読書記録も目に優しいライト/ダークテーマ切り替え。\n\n■こんな方におすすめ\n・Readeeの終了に伴い、移行先を探している方\n・自分の持っている本を一覧でスッキリ管理したい方\n・読んだ本の感想を記録し、読書データを分析したい方\n・新しい本や話題の本を手軽にチェックしたい方\n「ヨミタ」と一緒に、あなたの本棚をスマートフォンの中に。今すぐダウンロードして、一歩進んだ読書生活を始めましょう！\n\n■注意事項\n・書籍情報の取得には楽天ブックスAPIを利用しています。\n・クラウドバックアップにはログイン（匿名/メール/Google）が必要です。",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/HilHgbLeLcWMiZk_Bzo3SJ3Ge2IL7tMX68YFXK80FLBiGfm_nG-xyOOuwKuVNANoTCgrd7hnVHlbgd7mR-2Pqw",
+      "https://play-lh.googleusercontent.com/YNLVuqeKP-YHpBi_buQUuNQMj4NbQvO_XievyYCu3lzxgKkncxkaMJK_Szv58hq8FVcBDU55_UtLabHLjwBLTw",
+      "https://play-lh.googleusercontent.com/fUpIP-UGNwWqS4LqpDP7v3kIRV-mZi7OPm50qyA-YzUuxxRbDLUE5C-uw0-X4mELg56v8V8bl52HbPLkeehrtQ",
+      "https://play-lh.googleusercontent.com/hqjI1pYWKHkGihx3_gTGyYmUDYDPfNWckIQ3I_UMF7PSRT-2JcwmSHNJLZxxqnV7QpCgeOf8SW9npTnd-xS8Gw",
+      "https://play-lh.googleusercontent.com/E-eCq4k4AYjjTjOf3LzAr6Sj41WqRJ6ibfrMCWAcpHV5YeWHOQDfNr5vhZvWRiuUnA9SIBwXFyDoDtAqvnNvhg",
+      "https://play-lh.googleusercontent.com/MuGg_yOxxckOvBZAws93PboOpNop6KfQgVSo5ibmrHciD32inWdG-DIgIoT8UFpZ9CqJ_7P4_CFA9ekVCUKCBA"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.bookmanagement&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.bookmanagement&hl=ja"
+  },
+  {
+    "id": "com.tool.geolog",
+    "title": "GeoLog",
+    "catchphrase": "写真にGPS位置情報や撮影時の地図・天気を重ねて記録・管理するフォトログ",
+    "category": "tool",
+    "category_label": "イベント・ツール",
+    "badge": "位置情報写真",
+    "icon": "https://play-lh.googleusercontent.com/gw2LtELFFg4tdm0nQFDeqecffosK5h2f2TjoOIYwYhGiCvCCaC7UfwsyNw2isrnp4iwQg60iX0hMa4kFfM5Lng",
+    "rating": 4.0,
+    "downloads": "100+",
+    "tags": [
+      "位置情報写真",
+      "人気アプリ",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "写真にGPS位置情報や撮影時の地図・天気を重ねて記録・管理するフォトログ",
+      "シンプルで直感的、余計な機能のない快適な使い心地",
+      "軽快なレスポンスで毎日気軽に使える"
+    ],
+    "description": "写真に保存されている位置情報を画像に重ねて保存するアプリです。\n色々な場所で撮った写真を見直す際に、これはどこで撮った写真だったっけ？と思い出せない場合もありますよね。\n写真に位置情報を保存しておけば、一目瞭然ですし、\nGoogle Mapから地図画像を切り抜き重ねたり、\nまた、過去の天気予報データから、その場所のそのときの天気予報も表示し、\nさらに写真ごとにコメントを表示することも可能です。",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/_Y89qnJnnjvG4FkQTXyDtTn-PVdfFJvOGUEw3dQVA3bLJbIezSjt8aAUa_5d3xrQQRArtTim6Nax-dOTc6jHmw",
+      "https://play-lh.googleusercontent.com/u8RWEDaMpbeH2wXcmeCZdmCtTQBz25uQMYwg5fSermnwukY5FhNI5GVDMZXA6z1OBcfV3OfgwaioDIMmPPuO0w",
+      "https://play-lh.googleusercontent.com/s4O33b6LWF8e1-h6m175ZwpqtjVxkPJg01Gp1pma_4JGBkgJtTQ4_FFUxQBAYtWEjQCl4Fa3G6bYPzh8vcQzkQ",
+      "https://play-lh.googleusercontent.com/9JWJffi7FIcT4p9tzDFW4irQqgMh1C4koFL_1BPefWdsLCYg0h649dlvce8pQTHM0qPB93GFMqJ85xqfMNAAZU0"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=com.tool.geolog&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=com.tool.geolog&hl=ja"
+  },
+  {
+    "id": "buunyan.wellness.healthcare",
+    "title": "Stride Flow",
+    "catchphrase": "日々の歩数やウォーキングルート・健康データを心地よく記録・可視化",
+    "category": "tool",
+    "category_label": "イベント・ツール",
+    "badge": "歩数・健康管理",
+    "icon": "https://play-lh.googleusercontent.com/wt4l1W7qt2umlb1EEdIhcaWzsWRqCL8HvMxlebKR9J9Hs1o4eh4i_7a9-FDr1KuI5W0QEh9tURChLwnoyBP18g",
+    "rating": 4.0,
+    "downloads": "10+",
+    "tags": [
+      "歩数・健康管理",
+      "人気アプリ",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "日々の歩数やウォーキングルート・健康データを心地よく記録・可視化",
+      "シンプルで直感的、余計な機能のない快適な使い心地",
+      "軽快なレスポンスで毎日気軽に使える"
+    ],
+    "description": "「Stride Flow」は、最新のAI技術と美しいデザインを融合させた、次世代のウォーキング＆ヘルスケア管理アプリです。 ただ歩数を数えるだけではなく、あなたの活動データをAIが分析し、健康的な生活を送るためのパーソナライズされたアドバイスを毎日お届けします。\n\n🌟 主な機能と特徴\n1. AIパーソナル・アドバイス Googleの最新AIが、あなたの歩数実績とプロフィールを分析。「あと少し歩いてみましょう」「素晴らしいペースです！」といった、あなたのライフスタイルに合わせた具体的な助言で、モチベーションを維持します。\n\n2. 視覚的に楽しむカレンダー & グラフ 一目で達成度がわかる「ダイナミック・カレンダー」を搭載。目標達成度に応じてカレンダーの日付が色付けされ、星マークがつくので、毎日の頑張りが一目で実感できます。洗練されたグラフで、日・週・月・年ごとの推移も美しく可視化。\n\n3. Bluetooth体重計との高度な連携 スマート体重計（Eufy P2 Pro等）とのシームレスな連携に対応。アプリを開いて乗るだけで、体重データを自動記録。手入力の手間を省き、歩数と体重の相関をスマートに管理できます。\n\n4. 達成感を刺激する「実績・バッジ」システム 「はじめての一歩」から「1日2万歩達成」まで、あなたの努力をバッジで表彰。ゲーム感覚で楽しみながら、健康的な習慣が自然と身につきます。\n\n5. 自分の限界に挑戦「パーソナル・ベスト」 過去の最高記録を常に記録。TOP 10ランキング機能で、自分史上最高のパフォーマンスを更新し続ける喜びを提供します。\n\n6. 安心のデータ連携 Google Health Connect（ヘルスコネクト）と連携。他のヘルスケアアプリのデータも統合して管理でき、バッテリー消費を抑えながら正確な計測が可能です。\n\n🎨 プレミアムな使い心地\n10ヶ国語対応: 日本語、英語はもちろん、多言語に対応。\n美しいテーマ切替: 洗練された「ライトモード」と、目に優しい「ダークモード」をいつでも切り替え可能。\n直感的なUI: 迷うことのないシンプルでモダンな操作感。\n🚀 こんな方におすすめ\nウォーキングを習慣化したいが、一人だと続かない方\n自分の活動データに基づいた具体的なアドバイスが欲しい方\n体重管理と歩数計測を一つのアプリでスマートに完結させたい方\nグラフやカレンダーで成果を視覚的に楽しみたい方\nStride Flowで、あなたの「歩く」を「喜び」に変えましょう。今すぐダウンロードして、新しい健康習慣をスタート！\n\n技術仕様・プライバシー\nHealth Connect対応\n最新のAI (Gemini API) 搭載\nプライバシーに配慮したデータ管理",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/5agRmLiD_fYUOYKotJ7JT9-bas22INuoAGeaLhuhsSdkwG8e6XBCzU_6NXX-WrupovjDdx6K4VcZl-_-8XNa",
+      "https://play-lh.googleusercontent.com/7useA4tCN3XS4X3343X_JSH94L9voVvmNT9SiC3S3GCn41Sxc7x4bpG0rLo1HGEcz-9V2euiZ9venQzFY5e7",
+      "https://play-lh.googleusercontent.com/d52TJ_NXtH4ms4OC5VzWi8G5rQplET4Kq7caZG3pFYVSFNfxJQSbsMMVxy2vS-SCL9_37UHfNO9UbiYNu1lqXZU",
+      "https://play-lh.googleusercontent.com/8xuEEmwf2K8ZTRXJ8xyLWVc2hIoX0i35ri6MKHz9XxRprP4_9rsPNSr_WWFCbcOcTw07gBL6OGSgPuvleK4_-g",
+      "https://play-lh.googleusercontent.com/8bw6bSQOJdA0YzShpMA5W6q9nFD3GtX87Txcrs5fLJ-XcnMWSzGHVYGpsgc7uHEW5Kgx0I1X_jZ5ad0_uJw95MY"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.wellness.healthcare&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.wellness.healthcare&hl=ja"
+  },
+  {
+    "id": "com.buunyan.game.slotmachine",
+    "title": "スロットマシン",
+    "catchphrase": "レトロな7セグとリールが回る！コインを貯めてジャックポットを狙うスロット",
+    "category": "game",
+    "category_label": "ゲーム・パズル",
+    "badge": "スロットマシン",
+    "icon": "https://play-lh.googleusercontent.com/bx3tuOp4iYzFxl3zSJJB1soVoJLTLNxDB0mmxh64n7uB9ymXQmQXyFZdc_LnwupCSdzv_CZU4nn_Vn-5R8THfQ",
+    "rating": 4.0,
+    "downloads": "10+",
+    "tags": [
+      "スロットマシン",
+      "人気アプリ",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "レトロな7セグとリールが回る！コインを貯めてジャックポットを狙うスロット",
+      "シンプルで直感的、余計な機能のない快適な使い心地",
+      "軽快なレスポンスで毎日気軽に使える"
+    ],
+    "description": "絵文字を使った可愛らしいスロットマシンです。\nコインはネットランキングで枚数を競えますのでランキング上位を目指してみて下さい！",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/mMLkCy_AeOlHL2jVpOhOGoj418GO0v5LYztNdurA02fN6d6Ek6VrDGzGsR9IbLBplLeOLkuclPQffslYbgryN4Q",
+      "https://play-lh.googleusercontent.com/sKIoxnsf-NPBIxtwJhtifRCP5ghJsya18yLJbWeSEuIGQ0BVwBTxmIeB8UNVPpGLOKGpHWMUgBziqjR9dAmp",
+      "https://play-lh.googleusercontent.com/jmcwduaVsSGN4U7ZpXiGk7AHmhVsbTaHhp1xtqYmHUzSijQ_CejuKKFlYYG2DMMOUg5X3A9psSVkPY-bO9bM",
+      "https://play-lh.googleusercontent.com/8LIThSSi6dV5WOYulltiyptpQEUpTZxMvXVK3LQcphmTuwkEH0WQfzkGj4W7UHyz1g6vY3AFf4ssRfEiB4afSt0"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=com.buunyan.game.slotmachine&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=com.buunyan.game.slotmachine&hl=ja"
+  },
+  {
+    "id": "com.tool.diary_shiori",
+    "title": "Shiori / 栞 - 想い出を綴る日記帳",
+    "catchphrase": "シンプルで美しいデザイン。日々の想い出や写真を静かに綴るプライベート日記帳",
+    "category": "tool",
+    "category_label": "イベント・ツール",
+    "badge": "日記帳",
+    "icon": "https://play-lh.googleusercontent.com/nsFTyihLyIvIOHv1VjWom-Yrlp4oQEJ_ae0HjrhdgpQxfsnWPYJDPqorr9NLZFrmzgp-fNkwjAXPtReNTdSu6w",
+    "rating": 4.0,
+    "downloads": "1+",
+    "tags": [
+      "日記帳",
+      "人気アプリ",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "シンプルで美しいデザイン。日々の想い出や写真を静かに綴るプライベート日記帳",
+      "シンプルで直感的、余計な機能のない快適な使い心地",
+      "軽快なレスポンスで毎日気軽に使える"
+    ],
+    "description": "【大切な想い出を、あなただけの場所に。】\n「Shiori（しおり）」は、日々の出来事、心に浮かんだ言葉、大切な写真をシンプルかつ美しく記録できる日記帳アプリです。\n\n■ 主な機能\n・自由なレイアウト：テキストの間に最大15枚の写真を挿入可能。想い出を色鮮やかに残せます。\n・プライバシー保護：パスコードロック機能で、あなただけの大切な内容をしっかり守ります。\n・美しい着せ替え：19種類のテーマカラーから、その日の気分に合わせてアプリの色を選べます。\n・Googleドライブ連携：データのバックアップ・復元機能を搭載。スマホの機種変更時も安心です。\n・多言語対応：日本語・英語をはじめ、世界10ヶ国語に対応しています。\n・気分を記録：豊富な絵文字（ムードアイコン）で、その日の気分も一緒に記録。\n・通知リマインダー：毎日決まった時間に通知を受け取れるので、日記の書き忘れを防ぎます。\n・カレンダー表示：月ごとの表示で、過去の想い出を簡単に振り返ることができます。\n・詳細なカスタマイズ：フォント、文字サイズ、行間、色の濃さを自分好みに調整可能。\n\n■ こんな方におすすめ\n・日々の記録をシンプルに残したい方\n・人に見られたくない秘密の日記を安全に保管したい方\n・19色のテーマから好きな色を選びたい方\n・スマホを買い替えてもデータを引き継ぎたい方\n\nあなたの日常を、素敵に残してみませんか？",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/i9oVXeb-bVrqllPP6BSejzv_IuMkB25mGEyHdYm9QD74aN7n-u88zuvJhpBztWUWaJofG3dRIwIyVATK1U6u",
+      "https://play-lh.googleusercontent.com/d_sPO3xmDUQXenjavegHepCt0yclqZtYsYgbwF-lVwavSBLgn4grPjLZsv-l4DMXOna8sYUtPfWUuK-mDuJR",
+      "https://play-lh.googleusercontent.com/CZbhiaTrMrxoCkjsJlLnAiEewMVHdEgzCKjp9GA5dACBYyfNus8Flvq8Q1UnqwqQ0Kt_Q4jzi5-veXk-nfldPw",
+      "https://play-lh.googleusercontent.com/bC3BsdjpnfMIHeYasGBkZPpYYiQCtI0kUaF3LB1TKkcZZXrK0xSR_s12s2Qb1GHPtpMm21YfNOJtS759M5bJXlc",
+      "https://play-lh.googleusercontent.com/o-JNcMuYiFZc1kqUC3zn101MJXmHYeFEvZzmLligeEwdjUTinQbBEitE3o4TgHGisX3qFdVufNsf3hum0WTy9g"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=com.tool.diary_shiori&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=com.tool.diary_shiori&hl=ja"
+  },
+  {
+    "id": "buunyan.tool.reverseplayback",
+    "title": "逆再生ボイス",
+    "catchphrase": "録音した音を一瞬で逆再生！不思議な面白ボイスを作って友達とシェアしよう。シンプルで使いやすい、高音質な音声逆再生アプリです。",
+    "category": "tool",
+    "category_label": "イベント・ツール",
+    "badge": "音声逆再生",
+    "icon": "https://play-lh.googleusercontent.com/4eaP2ESX3XSnqcwbawybEvg54o6yvejaPs5Kp6iZpvl5zCo9fdW--w_5d2sbwCma6d9avT2SgOdy7l2GaNH_7Q",
+    "rating": 4.0,
+    "downloads": "100+",
+    "tags": [
+      "逆再生",
+      "ボイスチェンジャー",
+      "パーティ",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "録音した音を一瞬で逆再生！不思議な面白ボイスを作って友達とシェアしよう。シンプルで使いやすい、高音質な音声逆再生アプリです。",
+      "シンプルなワンタップ録音＆即座の逆再生変換機能",
+      "逆再生で聞こえた音を真似して再録音する「逆再生クイズ」で盛り上がる"
+    ],
+    "description": "【アプリの概要】\n「逆再生ボイス」は、あなたの声や日常の音を録音し、ワンタップで簡単に逆再生できる面白・音声加工アプリです。 いつもの言葉が全く違う言語のように聞こえたり、身近な音が不思議な音響に変わったりする体験を楽しんでみませんか？ 録音から逆再生の生成、保存、SNSへの共有まで、直感的な操作で誰でも簡単にお使いいただけます。\n\n【主な機能】\n🎤 簡単な録音＆一瞬で逆再生 ・画面中央の大きな分かりやすい録音ボタンをタップするだけで録音スタート。 ・録音終了後、自動的に逆再生の音声データが作成されます。 ・「通常再生」と「逆再生」のボタンが並んでおり、元の音と逆再生の音をすぐに聴き比べることができます。\n\n💾 お気に入り音声の保存・管理機能\n・作成したお気に入りの逆再生ボイスには、好きな名前を付けて端末に保存できます。\n・「再生タブ」を開けば、保存した音声をいつでも一覧で確認し、すぐに再生可能。\n・不要になった録音データはゴミ箱アイコンから簡単に整理・削除できます。\n\n📤 SNSやメッセージですぐにシェア\n・作成した不思議な逆再生ボイスは、シェアボタンからそのままLINEや各種SNSへ共有できます！\n・「これなんて言ってるでしょう？」と友達同士で逆再生クイズを出し合ったりして盛り上がれます。\n\n🌍 10ヶ国語対応 ＆ ダークモード搭載\n・アプリは世界中で使えるよう、日本語、英語、中国語、韓国語、スペイン語など全10ヶ国語にネイティブ対応。\n・目に優しい「ダークモード」や「ライトモード」など、お好みに合わせたテーマ切り替えが可能です。\n\n【こんな方におすすめ！】\n・声や音を使って面白い遊びを探している方\n・逆再生ボイス当てクイズで、友達や家族、パーティーで盛り上がりたい方\n・動画制作・音楽制作のちょっとした素材や効果音として、逆再生の音が欲しい方\n・シンプルで分かりやすい録音アプリを探している方\n\nあなたの声が思いもよらない魔法の呪文に変わるかも？\nシンプルながらも機能が詰まった「逆再生ボイス」。\n今すぐダウンロードして、新しい音の世界を体験してみてください！",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/j29zORPYTJbc-Z-E_FNabEM30qspa02PN7ODeZBieHa3Q_NZz8R5ZKvmTFSECAq2e9ur2_vS9TArRneX_eeu",
+      "https://play-lh.googleusercontent.com/gegHwytuKlZjxfKQLVEORwOP-chQjigqZUrGvJ6tBCOrgfThmNoc2mehl_VvA2KkKSRbdRz8A5gKLwySu7MwSg",
+      "https://play-lh.googleusercontent.com/BhXRIBjEVPb4dy_V7d-mXEj-ddE2KJT6AGvuIUAFRms-od6P0U5hrbEUzzx5K80lzhZIhT4-zbXBK1etljsf",
+      "https://play-lh.googleusercontent.com/BxiAk8HJ61IDTHacKEpEaWYQq1dUsKFoXNuVX2lZOE2zlDcTC1euAQoqnEK7w19nMNzK5AF7iseWFi__T4jW9dU",
+      "https://play-lh.googleusercontent.com/ulsTErtBm65ukHVXn-i2WbqrURhjaHx9-rFiF2zKHSm3qjZP3CXR_eRz-C2x7xYoWuxIE-M8sgQmbsfxh5diOw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.reverseplayback&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.reverseplayback&hl=ja"
+  },
+  {
+    "id": "buunyan.tool.dic4",
+    "title": "四字熟語辞典",
+    "catchphrase": "意味・用例・類語まで網羅！日常会話や試験に役立つオフライン四字熟語辞典",
+    "category": "education",
+    "category_label": "学習・知育",
+    "badge": "四字熟語辞典",
+    "icon": "https://play-lh.googleusercontent.com/QSW9q_oQj3cR_TnOzGVUUdAOgwp3oaMgFc7kK2gu8AXhZw1zrf5AqBvlmGHnD7k3B2LAi6LYoQxLMoBirx2YIw",
+    "rating": 3.5370371,
+    "downloads": "10,000+",
+    "tags": [
+      "四字熟語辞典",
+      "人気アプリ",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "意味・用例・類語まで網羅！日常会話や試験に役立つオフライン四字熟語辞典",
+      "シンプルで直感的、余計な機能のない快適な使い心地",
+      "軽快なレスポンスで毎日気軽に使える"
+    ],
+    "description": "四字熟語が簡単に検索できる勉強アプリです。\n\n前方一致検索、後方一致検索、完全一致検索機能搭載\nお気に入りに登録して気に入った言葉をいつでも見れます。\n\nフォントサイズも変更可能なのでとても見やすいです。\n\n学生から大人までいざという時に使える便利なアプリです♪\n\n検索文字を入力しながら候補を検索いたしますのでスムーズに選択できます。\nひらがな・漢字のどちらでも検索可能です。\n次々と見ているだけでも勉強になりますね♪\n\nこのアプリの開発者は、安心・安全なアプリの開発者であるとしてアンドロイダーの公認デベロッパーに認証されています。https://androider.jp/developer/1a4090045b1c988a19833ad010d85609/",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/Hyv3DdVGorVPICzKBIw96QTjSx7ScksZVnNU4li1q2LQRDGuDr-bhh6Eig84kgZgOf6hFv67eYBhZF_GCynW6ak",
+      "https://play-lh.googleusercontent.com/GQA6X4Vx1_XjkxUY2aX1X-sVdA7mZ1rvRhr1AKGVoB93DXXu0SlrX79xYwzCRIw1sQCwe9UpaWD5R1dntI-4",
+      "https://play-lh.googleusercontent.com/nztDNqchyqj2Lep3WLvmEocZz7-9eIZP09-am24ExBu-StInW5ffEwfRc9zUsS0UpKG_luZXIlZpwS29xgZ2SAE",
+      "https://play-lh.googleusercontent.com/LyrcXd60KjEsZtyVrzd4pMasPUBKhmNNb14NdklQ9hx2inMSD0NbmOqvriqcuxW0811APfKh4uMmMDXTU4lEcQ"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.dic4&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.dic4&hl=ja"
+  },
+  {
+    "id": "buunyan.tool.qrreader",
+    "title": "QRコードリーダー Pro - 高速スキャン＆履歴管理",
+    "catchphrase": "起動即スキャン＆履歴管理！URLや連絡先を瞬時に読み取る高速QRリーダー",
+    "category": "tool",
+    "category_label": "イベント・ツール",
+    "badge": "QRリーダーPro",
+    "icon": "https://play-lh.googleusercontent.com/rOCdJivd1WUg3Jsj1xbBEFegzgJRlc-j-hYm3Jy40MukDD0AA8MobKe8IWWx97sZPE6NbAoW6VML8Ol7ZrXPvQ",
+    "rating": 4.0,
+    "downloads": "10+",
+    "tags": [
+      "QRリーダーPro",
+      "人気アプリ",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "起動即スキャン＆履歴管理！URLや連絡先を瞬時に読み取る高速QRリーダー",
+      "シンプルで直感的、余計な機能のない快適な使い心地",
+      "軽快なレスポンスで毎日気軽に使える"
+    ],
+    "description": "「QRコードリーダー Pro」は、シンプルさと使いやすさを追求した究極のQRスキャンアプリです。 煩わしい設定は一切不要。アプリを起動してかざすだけで、瞬時にQRコードやバーコードを読み取ります。\n\n【主な機能】\n爆速スキャン: 起動後すぐにカメラが立ち上がり、瞬時にコードを認識します。\nクイック起動対応: Androidのクイック設定パネル（通知領域）にショートカットを登録可能。他のアプリを開いていても、一瞬でスキャナーを起動できます。\n履歴管理: 過去にスキャンした内容は自動的に保存。いつでも見返したり、再利用したりできます。\n多彩なアクション:\nURLならブラウザで即座に表示\nテキストならクリップボードにコピー\n共有機能で友人や同僚に素早く送信\nダークモード対応: 目に優しいダークテーマを完備。システム設定に合わせて自動で切り替わります。\nフラッシュ対応: 暗い場所でも快適にスキャンできるよう、ライトの点灯が可能です。\n安全・安心: 余計な個人情報の取得は一切ありません。\n【こんな方にオススメ】\nとにかく最速でQRコードを読み取りたい方\n通知パネルからすぐにスキャナーを立ち上げたい方\nスキャンした履歴をしっかり残しておきたい方\n余計な機能のない、シンプルなアプリをお探しの方",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/2ByVPkip4HvLao3HoXAd3zgRiiQbEevIysTjo97f0rywNMrHQ7CvaojqQ44Zqwh7tSduc36zluIlFAbqEb_6msk",
+      "https://play-lh.googleusercontent.com/WxCkpAsJRc5Rd3-Vk4XDzJAmyhcp4Twgz8PhCHghwYfNKTogUoUaim_ka8iohYtV4FIm-K6SAdhLYLXM5rozHg",
+      "https://play-lh.googleusercontent.com/miled0m2lpw2h5ONHReWbsqaS5Ha9HNZD2MADwKvH5RRbaR3S75onTe6PC8YsiBziewmhSoXvfQv_c4aDayYATk",
+      "https://play-lh.googleusercontent.com/mdXojgd8SuaELHV_iEhFy9gPBayWGSTN9vxNFBd1-nf_qimHgcJ6107HaYQTOpYPlhkVAXFjwItU2KvIcn0eYQ",
+      "https://play-lh.googleusercontent.com/unu6jFMmfUPdfUrR0FUAZqNecb1xZhJozbQ08sBVLRBuL2oeHqPviTs35sY6Q-GJgBPNmUgXe-HiS_-bAeUfNA"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.qrreader&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.qrreader&hl=ja"
+  },
+  {
+    "id": "buunyan.tool.electric_kyuusyuu",
+    "title": "九州電力メーター",
+    "catchphrase": "九州電力管内のリアルタイム電力使用状況・ピーク予測メーター",
+    "category": "tool",
+    "category_label": "イベント・ツール",
+    "badge": "電力メーター",
+    "icon": "https://play-lh.googleusercontent.com/i09hIZY8Ah--npjy8T78OzQ8PsGTS8gaxTpeJx21XNOVr-3LYcCU9mFYTPrbu9q6zZr9FqC0k_jE1TOo7emaf5U",
+    "rating": 4.0,
+    "downloads": "1,000+",
+    "tags": [
+      "電力メーター",
+      "人気アプリ",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "九州電力管内のリアルタイム電力使用状況・ピーク予測メーター",
+      "公式オープンデータに基づいた最新の電力使用率とピーク予想を表示",
+      "シンプルで見やすいグラフ表示と直感的なメーターUI"
+    ],
+    "description": "九州電力の電力利用状況を表示するアプリです。\n\n九州電力が公表している\n・供給可能最大発電力\n・1時間毎の使用電力\n・使用率\nを表示します。\n\n※電力会社が一般公開している使用状況データを基に表示しております。\n\nグラフパターンを3種類用意しております。\n\nグラフにより最大供給量に対する割合などを表示しています。\n\nこのアプリの開発者は、安心・安全なアプリの開発者であるとしてアンドロイダーの公認デベロッパーに認証されています。https://androider.jp/developer/1a4090045b1c988a19833ad010d85609/",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/FbWL0jO7csanXh-mEr4dwM-UX6sm9Z0kRL684vMsUQ7KkP8fRTZzOCFSugttmkr2ZDzAJ8aMFflpEr1yxsU_mQ",
+      "https://play-lh.googleusercontent.com/6yaIOQf6_Sxc3lV12YDrzDHXgx4l2LPjm8gqzJSllPMHAet0qsdCzrV2yJ1cigzJhtlgPWvOQm7kUVteYlIfKw",
+      "https://play-lh.googleusercontent.com/LCwKIoBXcneOgoGxCzn0fRC9kqmjl0yzEkUMdG7cA0ChO25FVGagLH7YtRJ35gv4VRhKIrEDqLHsGEss3HnG"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.electric_kyuusyuu&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.electric_kyuusyuu&hl=ja"
+  },
+  {
+    "id": "buunyan.tool.electric_touhoku",
+    "title": "東北電力メーター",
+    "catchphrase": "東北電力管内のリアルタイム電力使用状況・ピーク予測メーター",
+    "category": "tool",
+    "category_label": "イベント・ツール",
+    "badge": "電力メーター",
+    "icon": "https://play-lh.googleusercontent.com/4ZAGLJoAnP3lP1B6AQpc-FWyMa7-41fJc3G0o89wWy9ZIpnqv4uLvNOk9hLVHVmYY0clIzJFayXc_nwnQG6x1A",
+    "rating": 4.0,
+    "downloads": "500+",
+    "tags": [
+      "電力メーター",
+      "人気アプリ",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "東北電力管内のリアルタイム電力使用状況・ピーク予測メーター",
+      "公式オープンデータに基づいた最新の電力使用率とピーク予想を表示",
+      "シンプルで見やすいグラフ表示と直感的なメーターUI"
+    ],
+    "description": "東北電力の電力利用状況を表示するアプリです。\n\n東北電力が公表している\n・供給可能最大発電力\n・1時間毎の使用電力\n・使用率\nを表示します。\n\n※電力会社が一般公開している使用状況データを基に表示しております。\n\nグラフパターンを3種類用意しております。\n\nグラフにより最大供給量に対する割合などを表示しています。\n\nこのアプリの開発者は、安心・安全なアプリの開発者であるとしてアンドロイダーの公認デベロッパーに認証されています。https://androider.jp/developer/1a4090045b1c988a19833ad010d85609/",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/8ofFyxHZekM5F0Ba0SJHZISswxMpcwqPvaBRE2c1Y4SwLNceTuTUeky6j-DLjRfBetGceroLYW7SxGDYmtv4qg",
+      "https://play-lh.googleusercontent.com/_nzQesha9rfuhRCo6a14otbpkj-SKxN0zzVcBs_n2TLJJDv9oRl_keYOfh8vezEE4LHYZGs0Ltt4aAKHqdbzMQ",
+      "https://play-lh.googleusercontent.com/tyzHXs2ej0wqTGuZlDvYX8bqapCUuzB7n0ftMztLPwk6anI2a-yNmFcAiS2crQnMyCKRHiqcsKT2_GTSQYvqU6k"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.electric_touhoku&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.electric_touhoku&hl=ja"
+  },
+  {
+    "id": "com.tool.hanagoyomi",
+    "title": "花暦（はなごよみ） - AI植物識別とお世話記録",
+    "catchphrase": "カメラをかざすだけでAIが花や植物の名前を即座に判定！水やりや成長記録も管理できるボタニカル手帳",
+    "category": "tool",
+    "category_label": "イベント・ツール",
+    "badge": "AI植物識別",
+    "icon": "https://play-lh.googleusercontent.com/i6hB1gvMuv0nLQGGfwwXb-Du0Vjr-FuAwgj4DbWx8n80A-EnkeH1PzrJmCPkn7i-yqggYejFlfGVPsElMCuhvA",
+    "rating": 4.0,
+    "downloads": "5+",
+    "tags": [
+      "AI植物識別",
+      "人気アプリ",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "カメラをかざすだけでAIが花や植物の名前を即座に判定！水やりや成長記録も管理できるボタニカル手帳",
+      "シンプルで直感的、余計な機能のない快適な使い心地",
+      "軽快なレスポンスで毎日気軽に使える"
+    ],
+    "description": "『花暦（はなごよみ）』は、日々のお花を楽しむための「今日のお花」機能から、AIによる高度な植物識別、そして大切な植物の成長を記録する「マイガーデン」まで、植物ファンが欲しい機能を詰め込んだコンパニオンアプリです。\n\n初心者の方からベテランの園芸愛好家まで、どなたでも直感的に使える美しいデザインで、あなたの毎日を彩ります。\n\n主な機能\n🌿 1. 毎日を彩る「今日のお花」\n毎日異なる「今日のお花」と、心に響く「花言葉」をお届けします。カレンダー形式で過去・未来のお花をチェックすることも可能。朝のひとときに、季節の移ろいを感じてみませんか？\n\n🔍 2. 撮るだけでわかる「AI植物識別」\n名前のわからない花や植物を見つけたら、カメラを向けるだけ！最新のAIが瞬時に植物名を判定。そのまま育て方や特徴を詳しく調べることができます。\n\n🪴 3. 愛着が深まる「マイガーデン（植物管理）」\n育てている植物を登録して、自分だけの植物図鑑を作りましょう。\n\nお世話リマインダー: 水やり、肥料、葉水などのタイミングを逃さず記録。季節ごとのスケジュール変更にも対応しています。\n成長ノート & 写真日記: 日々の変化を写真とメモで保存。カレンダーで振り返れば、これまでの成長が一目でわかります。\n🤖 4. AIによる「育て方アドバイス」\nGemini AIが、それぞれの植物に最適な置き場所、水やり、土の選び方をアドバイス。あなたの植物専用のケアガイドとして活用してください。\n\n🗺️ 5. 周辺の「園芸店・ショップ検索」\n「新しい苗が欲しい」「土を買い足したい」と思ったら、地図で近くの園芸店やホームセンターをすぐに検索。思い立ったときにすぐお出かけできます。\n\nこんな方におすすめ\n散歩中に見つけた花の名前を知りたい\n観葉植物やお花のお世話を忘れずに記録したい\n植物の成長を写真で残して、タイムラインで眺めたい\n毎日の花言葉で、ちょっとした癒やしが欲しい\n園芸初心者で、育て方を専門的に教えてほしい\nあなただけの「花暦」を\nアプリのテーマカラーは、あなたの好みに合わせてカスタマイズ可能。 植物との出会いや成長を、このアプリと一緒に綴っていきませんか？",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/tx6wuxPUZCdP6eCxl5iCJ_r7982uD57O0eFnZ4HOPJTQKhWtVaG35hvc3yrQNC4yX91YBD7q4X59aKSUNrHh4A",
+      "https://play-lh.googleusercontent.com/nnuJ626WvcvVlj2GqSH68FBh69IcRLGqr-avGnAFp9SQOVPx6WAOF7Ueg7A0iTOKMiO08Y0gHyta5cidQZlzdgI",
+      "https://play-lh.googleusercontent.com/081kxwrGy8TCJxg6MngMYxE1e5RCywDfbv8KQa103CfOgQiOpu98_OY0IH6-O1XkIbTXh2ryqJonqsYmVPuLzQ",
+      "https://play-lh.googleusercontent.com/F9wdgOinYLgVxLhQqZEbtKkpIMakbt8zr0rsAw8kcwWG4lZEvYKhLBS6qYtNB9nYVfucQH_Sy_p9ys7mYr2bgmg"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=com.tool.hanagoyomi&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=com.tool.hanagoyomi&hl=ja"
+  },
+  {
+    "id": "com.tool.roukette_watch.roulette_watch",
+    "title": "ルーレット",
+    "catchphrase": "Wear OS対応！手元でサクッと回せるシンプルでスタイリッシュな抽選・意思決定ルーレット",
+    "category": "tool",
+    "category_label": "イベント・ツール",
+    "badge": "ルーレット",
+    "icon": "https://play-lh.googleusercontent.com/zOBn7Zf6DwLE6sQ1vv6OQY5v5f7OdPBlBEWMaJmAR_bTarBvFl70hZnjJGdydztedxkUgEQmfhhGyj1k1WWsTw",
+    "rating": 4.0,
+    "downloads": "1+",
+    "tags": [
+      "ルーレット",
+      "人気アプリ",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "Wear OS対応！手元でサクッと回せるシンプルでスタイリッシュな抽選・意思決定ルーレット",
+      "シンプルで直感的、余計な機能のない快適な使い心地",
+      "軽快なレスポンスで毎日気軽に使える"
+    ],
+    "description": "サイコロの振りたいがサイコロが無い。\n2択のどちらかを選びたい。\n今日のご飯のジャンルを決めたい。\nそんな時に手軽にWear OS スマートウォッチでルーレットをしませんか？",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/o4CYsi8C3IqAVOSF2Rea3AkmsHIvKiyyM6iT0lsC8gn73P7F1jvjRNj52CYlBuA9iR50utgxrHD09MdJggCI_Q",
+      "https://play-lh.googleusercontent.com/kpBVsF98hMbMe3mjcyojXgEismbCXtnoAlAXnrW0n2fMFnyrf9GiBOovNqHsu1n29hxvqBujs1RwXr97vprGhw",
+      "https://play-lh.googleusercontent.com/l6rCNi4aYqdwmMJlmWsQlf5GOiJUecR4zPUYgKqdNLXqGG-5JF_ke1DxgdwxeD4Ec0fZiZpe1oPdCiC0y8zAVw",
+      "https://play-lh.googleusercontent.com/1YpRzvW_bAMqvnKnHS0oVAnu6gps9SkMKY907xIbYACgj2UJxhcsb8w6j4ABs-Zf5kR_07ako2qzUJTu1M3bEQ",
+      "https://play-lh.googleusercontent.com/o4CYsi8C3IqAVOSF2Rea3AkmsHIvKiyyM6iT0lsC8gn73P7F1jvjRNj52CYlBuA9iR50utgxrHD09MdJggCI_Q",
+      "https://play-lh.googleusercontent.com/kpBVsF98hMbMe3mjcyojXgEismbCXtnoAlAXnrW0n2fMFnyrf9GiBOovNqHsu1n29hxvqBujs1RwXr97vprGhw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=com.tool.roukette_watch.roulette_watch&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=com.tool.roukette_watch.roulette_watch&hl=ja"
+  },
+  {
+    "id": "buunyan.pzl.jirai",
+    "title": "マインスイーパー",
+    "catchphrase": "ご存知マインスイーパー登場！\n\nタッチ操作でめくる、旗立てを切り替えて\n全ての爆弾を見つけ出せ！\n\n難易度は6段階あります。",
+    "category": "game",
+    "category_label": "ゲーム・パズル",
+    "badge": "地雷パズル",
+    "icon": "https://play-lh.googleusercontent.com/jpkr4JHCd2N-ZfIor4Z-NrA-_SOfGW3se-XinSL6L6Q7ecPOib5TnBC9ZBSYZ6QDQn4IYBD8F8kaq9Dn5Eot9g",
+    "rating": 4.0,
+    "downloads": "5,000+",
+    "tags": [
+      "マインスイーパー",
+      "地雷",
+      "定番パズル",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "ご存知マインスイーパー登場！\n\nタッチ操作でめくる、旗立てを切り替えて\n全ての爆弾を見つけ出せ！\n\n難易度は6段階あります。",
+      "旗立て・マス開けの快適なタップ操作と見やすい数字表示",
+      "初心者から上級者まで楽しめる複数難易度設定"
+    ],
+    "description": "ご存知定番アプリ,マインスイーパー登場！\n\nタッチ操作でめくる、旗立てを切り替えて\n全ての爆弾を見つけ出せ！\n\n\n難易度は6段階あります。\n\nもちろん無料です♪\n\n【更新履歴】\n1.1 スコア保存を実装しました。\n1.2 バグ・細かい修正\n1.3 バグ・細かい修正\n1.4 容量削減\n1.5 バグ・細かい修正\n1.6 バグ・細かい修正\n1.7 バグ・細かい修正\n1.8広告会社を変更\n1.9 バグ・細かい修正\n1.10 バグ・細かい修正\n1.11 バグ・細かい修正\n1.12 バグ・細かい修正\n1.13 バグ・細かい修正\n1.14 バグ・細かい修正\n1.15 高解像度端末への対応\n1.16 日本語/英語自動切換え対応実施中\n1.17 広告会社の変更で端末情報の権限が不必要になりました！\n1.18 広告ライブラリの更新\n1.19 広告ライブラリの更新",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/wRQSTRXp67LG52QqGwmD_r9g8J0r0xwc4O9m2XCB8Jg74LE-oLUj0wHfHUoipbSrBD4iz8ARzpNepzR-DoIyNw",
+      "https://play-lh.googleusercontent.com/xTI9PrGMs9yVWR5VkMLiaePV73MuRX6j2r6UBEUKgIvPJ-S5ynKikltEWTuApWOh-a7N4_BruKtgsaUzzlPFNA",
+      "https://play-lh.googleusercontent.com/eASYmdTpiYpgN1gTsZ5kdY4L7IovAw2YdjECtihS8_5M1A778jh0uhNNX2Ken74g4Qr0RNeW4OAtuUDnsLCxMA",
+      "https://play-lh.googleusercontent.com/wRQSTRXp67LG52QqGwmD_r9g8J0r0xwc4O9m2XCB8Jg74LE-oLUj0wHfHUoipbSrBD4iz8ARzpNepzR-DoIyNw",
+      "https://play-lh.googleusercontent.com/xTI9PrGMs9yVWR5VkMLiaePV73MuRX6j2r6UBEUKgIvPJ-S5ynKikltEWTuApWOh-a7N4_BruKtgsaUzzlPFNA",
+      "https://play-lh.googleusercontent.com/eASYmdTpiYpgN1gTsZ5kdY4L7IovAw2YdjECtihS8_5M1A778jh0uhNNX2Ken74g4Qr0RNeW4OAtuUDnsLCxMA"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.pzl.jirai&hl=ja",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.pzl.jirai&hl=ja"
+  },
+  {
+    "id": "com.buunyan.camera_barcode",
+    "title": "ショッピングサーチ",
+    "catchphrase": "⚡ 爆速バーコード検索！最安値比較アプリ",
+    "category": "tool",
+    "category_label": "便利ツール・日課",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/bflGYZE0fKZoHbW7mJ_XG3MqweTxJl3R1QuLmDmfYru5wdHISXTjyBKOU6cUA5QmV1aWbKt7ANo9PV_feUENArk",
+    "rating": "4.0",
+    "downloads": "5+",
+    "tags": [
+      "ショッピング",
+      "Android",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "バーコードを読み込んだ商品のAmazonページを開きます",
+      "シンプルで直感的な操作性",
+      "完全無料・軽快動作"
+    ],
+    "description": "アプリからバーコードやキーワードにより読み込んだ商品のYahooショッピングの検索結果とAmazonページを開けます。\r<br>（音声検索も可能です。）\r<br>※登録されていないバーコードの場合はエラー画面になります。\r<br>\r<br>履歴や、お気に入り登録機能もありますので、過去に検索した商品はすぐ再検索可能です。",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/12jih19gYaorGl3MddRXoP3vgBKejrfUGO1QG_dqqwnVHqz6e2Wk016fuzhkE2aT1BuxB7wiOwmnhk-voOwL",
+      "https://play-lh.googleusercontent.com/Ng2ggeUtmBxLx5_YA5Ky8caA8gdzPAAuRMtXEteH-nFGNQYTsbuk9N1XUc-94D8EhmCsT_HeX2iV2rDRU2EMOQ",
+      "https://play-lh.googleusercontent.com/PWfycohNoATaiglpTNx1Ey1JUvOtCOxM1wrFYz4se3GqXEKOmNcDW_SITJx2M3svqzc4rBy0rXu4MskJKD3y"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=com.buunyan.camera_barcode",
+    "url": "https://play.google.com/store/apps/details?id=com.buunyan.camera_barcode"
+  },
+  {
+    "id": "com.tool.fieldlink",
+    "title": "FieldLink (フィールドリンク)",
+    "catchphrase": "💡 ラインを繋いで光を灯す爽快パズル",
+    "category": "puzzle",
+    "category_label": "パズル・脳トレ",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/l3JxdOtyJm9YJuOQ0RBtOuuL15PRZpvTiWD6NKqAAEmkgOkr9An1o1-3B4j2avIXGFhU8VsMdG_mTDJbGoMcytg",
+    "rating": "4.0",
+    "downloads": "5+",
+    "tags": [
+      "ビジネス",
+      "Android",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "スマホ2台で、現場を繋ぐ。遠隔指示をよりスマートに。",
+      "シンプルで直感的な操作性",
+      "完全無料・軽快動作"
+    ],
+    "description": "FieldLinkは、2台のスマートフォンを「送信機」と「受信機」として使い、リアルタイムで映像を共有しながら遠隔指示を行えるプロフェッショナルな支援ツールです。\r<br>\r<br>「現場の状況を正確に伝えたい」「離れた場所にいる専門家からアドバイスが欲しい」 そんな時、FieldLinkがあれば特別な機材は必要ありません。お手持ちのスマホが、高機能な遠隔支援システムに早変わりします。\r<br>\r<br>主な特徴\r<br>\r<br>【ストレスフリーな映像共有】 WebRTC技術を採用し、画質と速度を両立。場所を選ばず、滑らかなリアルタイム映像で現場を共有できます。\r<br>【受信側からカメラをリモート操作】 映像を見ている「受信側」の画面から、相手（送信側）のスマホの**「ライト点灯・消灯」や「ズーム倍率」**を遠隔操作可能。暗い隙間や、離れた場所の細かな文字も確認し逃しません。\r<br>\r<br>【高画質スナップショット】 動画だけでは見落としがちな細部を、フル解像度の写真としてキャプチャ。撮影した画像は即座に確認・保存でき、作業の証跡やレポート作成に役立ちます。\r<br>\r<br>",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/wJzZn8EBCZHRMBgTGWElSCPPuk_VSb_mMFs7US9CbNFiCH0CthUfpAhr4YtkoogLbdvYnZWoKiYVZz0KPFX_",
+      "https://play-lh.googleusercontent.com/YsLBiXGpe9Ygf4iZb72m4-el-BBCk2QqUcIiTctVNr_lL9P-ABXAndJPSv8ELTY-tY_CJjacXyxHEPqMNW-1HQ",
+      "https://play-lh.googleusercontent.com/kAT-229eFtxtUOple_BFsiWGZbkFNmJs4D8oj5WrMn3hkSpu7LsawKen7-X3zZft3BjH0VHKIONJhisvxG5k",
+      "https://play-lh.googleusercontent.com/kS3cOIEDGPqYXbNP6MsZZB6FaDCpqwgIzP_jR5KFDDv0_IGeDYQfNsiNdMnNIn6c1yvmrLiAhcOp490ot3HD_A"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=com.tool.fieldlink",
+    "url": "https://play.google.com/store/apps/details?id=com.tool.fieldlink"
+  },
+  {
+    "id": "buunyan.pzl.swapblock",
+    "title": "フルーツポップ",
+    "catchphrase": "🍓 果物を揃えて爽快スワップパズル",
+    "category": "puzzle",
+    "category_label": "パズル・脳トレ",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/FeGcVXAmbvA3TW6FRLmrvIx9XbKbwVzyVu6f_Qj-mDHrVSWNaCJtDwzElBUi2u-ovNwbEdgV32gdAeHrRAwDvg",
+    "rating": "4.0",
+    "downloads": "1,000+",
+    "tags": [
+      "パズル",
+      "Android",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "ブロック入れ替えパズルゲーム！\n隣り合うブロックを入れ替えて3つ以上揃うと消えます。\nノルマに達する",
+      "シンプルで直感的な操作性",
+      "完全無料・軽快動作"
+    ],
+    "description": "これは定番のブロック入れ替えパズルゲームです。\r<br>\r<br>上下左右に隣り合うブロックを入れ替えていき3つ以上揃うと消えます。\r<br>画面上部、または下部に書かれているノルマに達するとクリアです。\r<br>\r<br>一度に多く揃えるほど点数は高くなります。\r<br>\r<br>【更新履歴】\r<br>flutterにて作り直しました。",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/WtHwL0NL1-vodp5VIjlUBCnJC3bIPG4LE26u5GhFyLpjXx_d9atjcDTtiqARFatmOYkophC9ihjW5wtVaLucig",
+      "https://play-lh.googleusercontent.com/9ak3_iTNRKU9_GGrdeI0lT7CdbaiF5Dp_J3khiThfZwGvFIVGVSEgTGazQAXykUAL4XZNqLhLEbXeMX22eGETw",
+      "https://play-lh.googleusercontent.com/bVVt4shfT7DcHLUQS4s_wvhq5DoXnDSoecRzC71X6C5s2e8ZWyqi_owATKvyzPpMzfMyqYNt5p6hKHdsXun8",
+      "https://play-lh.googleusercontent.com/KnMdcVPY17j_vNUeaujt6togpg3yhS1pEpSYFl0xh73wbsKkWiQLr9ia4DE0TVfe6zESdEZ3erGVlLaS-Sh37bo"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.pzl.swapblock",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.pzl.swapblock"
+  },
+  {
+    "id": "buunyan.tool.barcodecompare",
+    "title": "Barcode Compare",
+    "catchphrase": "🔍 2つのバーコードを瞬時に照合・チェック",
+    "category": "tool",
+    "category_label": "便利ツール・日課",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/BbU3Qxpa4gOj3Btg4I7R9OST7BmlRKtVJ8NodlJX58uK2YYdiDXgfPdHZE3qPlaC36eRm6M4SoP_jjUQTk5hDw",
+    "rating": "4.0",
+    "downloads": "50+",
+    "tags": [
+      "ツール",
+      "Android",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "二つのバーコードの比較を簡単にします！",
+      "シンプルで直感的な操作性",
+      "完全無料・軽快動作"
+    ],
+    "description": "二つのバーコードを読み込んで同じか、違うかを判定するアプリです。\r<br>\r<br>多分普段使う事は無いでしょうが、何かの時に使うかもしれないので作りました！",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/wn8xnut-wkJ8cswwU7xU0U83gLzQNtWUnqByPCQ74OhmGIvrLKTfAy6Lu8g0WXESkGez223yOCJoT-HXbTAtrA",
+      "https://play-lh.googleusercontent.com/YLJ01ALfb0nRXcHQ4VCSFaLtsxFm2ZUUq6FfnvqbzCy9GijTFi7W1b4x7W1O80zMi1ziCmpXS1w5bnh6D9BGHQ",
+      "https://play-lh.googleusercontent.com/ewEjq-wwJhz1UKmg7X6uH4Onq7kWC6K2GpcKF4iATcVI0BUeiVkkZKuxkaAtUNmBsZIiFNCtDpxcjO3WE-PNSA"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.barcodecompare",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.barcodecompare"
+  },
+  {
+    "id": "buunyan.game.jelly",
+    "title": "くっつけゼリー",
+    "catchphrase": "🍮 ぷるぷるゼリーをくっつける新感覚パズル",
+    "category": "casual",
+    "category_label": "ゲーム・息抜き",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/Ua3CVDoe4PtnSsRizHaAmZs84c1gewzaCjGXK__Ph5MmmO_qWvtxy0oR5W03953pw5V8GtX2QBQmJbJ32G-ipg",
+    "rating": "4.0",
+    "downloads": "100+",
+    "tags": [
+      "パズル",
+      "Android",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "色と知恵が試される新感覚パズル！『くっつけゼリー』",
+      "シンプルで直感的な操作性",
+      "完全無料・軽快動作"
+    ],
+    "description": "「くっつけゼリー」は、シンプルな操作の中に奥深い戦略が凝縮された思考型パズルゲームです。フィールド上に散らばったゼリーたちを、あなたの論理力でたった一つの塊にまとめ上げましょう！\r<br>\r<br>🎮 ゲームのルール\r<br>\r<br>同時移動: 矢印キーを押すと、フィールド上のすべてのゼリーがブロックや他のゼリーにぶつかるまで一斉に、同じ方向へ滑って移動します。\r<br>\r<br>同色結合: ゼリーは、同じ色のゼリーに隣接するとピタッとくっつき、一体となって離れなくなります。\r<br>\r<br>動く壁: 赤、青、黄、紫の異なる色のゼリー同士は結合しません。そのため、色違いのゼリーは互いに移動を阻む「動く壁」として利用できます。\r<br>\r<br>衝突判定: 結合して大きくなったゼリーの塊は、その全体が「一つの物体」として扱われます。通路の隙間がゼリーの幅より狭い場合、一部でもブロックや壁に触れると、塊全体が動けなくなります。\r<br>\r<br>✅ ステージクリア条件\r<br>\r<br>フィールド上に存在するすべての色について、それぞれをたった一つの巨大なゼリーの塊にまとめることができ",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/Wrmf1QLHf1Sn4-kTuGi_zY3ofwJpFf1u4Bk3R6JlIq67D6QaScbuT6YjiYgrS_vKFNXWAu1LF9ZD-AaMlQEftw",
+      "https://play-lh.googleusercontent.com/eWnLq-IUVI5nub56y_Ms-luI1LaLa6awI0rQi0H4GSfAbrLAOLBzQ_Q6jkvIAuRuIlxRTbi9EUHpQ2sMGvYMew",
+      "https://play-lh.googleusercontent.com/hVCsJSkc80DfXk9I4bYrmYiXRwRrnQ8LJE4C4rH6VRRjfWgffooZiIzPr0DWaV-ZypyEcbP1HYnmB4ft710gEQ",
+      "https://play-lh.googleusercontent.com/d42jdyzLT1vqbg0XC4SgpbnSFTO9GkyAja0nVsIYP1cFy9nZNZrbHw2NLi6l2lR2eXV52_CEeSJnsPWfrdlw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.game.jelly",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.game.jelly"
+  },
+  {
+    "id": "buunyan.game.jigsawpuzzle",
+    "title": "無限ジグソーパズル",
+    "catchphrase": "🧩 無限にピースを楽しめるジグソーパズル",
+    "category": "puzzle",
+    "category_label": "パズル・脳トレ",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/M8WUFmEpVPaqcU1ZYwYBSUrW-geC4Z15252WUrdPTI6Hx95ZEri9rp2uKjFaNR0TW-KerEkjOd7fvsSbLnSgJA",
+    "rating": "4.0",
+    "downloads": "10+",
+    "tags": [
+      "パズル",
+      "Android",
+      "bu-nyan",
+      "ゲーム"
+    ],
+    "highlights": [
+      "毎日届く新しいパズル。自分の写真もパズルに！豊富な画像と難易度で楽しめる本格ジグソーパズル。",
+      "シンプルで直感的な操作性",
+      "完全無料・軽快動作"
+    ],
+    "description": "【毎日が新しいパズル体験！―― Mugen Jigsaw】 美しい風景から可愛い動物まで、毎日更新される「デイリーパズル」や、あなたのスマートフォンに保存されている思い出の写真をパズルにして遊べる、本格派ジグソーパズルアプリです。\r<br>\r<br>◆ 特徴\r<br>\r<br>デイリーパズル: 世界中の美しい画像が毎日届きます。\r<br>自作パズル: カメラで撮った写真やギャラリーの画像ですぐに遊べます。\r<br>豊富なカテゴリ: 自然、アート、動物、スイーツ、和風など、多彩なジャンルが満載。\r<br>自由な難易度設定: 初心者から上級者まで、ピース数 (最大400枚) や回転モードを自由に選べます。\r<br>爽快な操作感: ピースがはまった時の心地よい振動 (ハプティクス) と美しいエフェクト。\r<br>コレクションと実績: クリアした記録を履歴として保存。多彩な実績を解除してポイントを貯めよう。\r<br>選べる表示モード: ピースを散らして遊ぶ通常モードに加え、画面外のトレイから取り出す「ドロワーモード」も搭載。\r<br>日々のリラックスタイムや、脳トレに。 あなただけの最高の一枚",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/L4UYwUjNhdi1uWSIwzQHFy5ZDFOTHPIhUxtOTc1xiDLMjMsonXRueWb381KZStl46AOlDmv_nb4OtlwgDj8IEg",
+      "https://play-lh.googleusercontent.com/q-8bn1TP5Lj8aTplyYwvxxt4J_QhGE_DiafLb7Jebl3vmop0nampBYo6MlTtN874Yk8JlPxVYTku1vOEvADnRQ",
+      "https://play-lh.googleusercontent.com/-5NDl6f4hGWVXMTaCuWXi29K0XLodcV0tdr6GXdx56AkWAk-C3iCisLIPHXpca62CUyCQKj5fCTbBi36Ls3l7wE",
+      "https://play-lh.googleusercontent.com/QcHsBz6sDccbqrYD1eb82hh1b1h5eFflLfaSqHT1lPfs0quzseAAKsYj46mLsihTftlEHVlO7mrbFLtTfltVZw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.game.jigsawpuzzle",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.game.jigsawpuzzle"
+  },
+  {
+    "id": "buunyan.pzl.touchnumber",
+    "title": "順押し",
+    "catchphrase": "🔢 1から順番に素早くタップ！反射神経脳トレ",
+    "category": "casual",
+    "category_label": "ゲーム・息抜き",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/nswI4HkX5hqqwUaAmGx8HTEB1JcPPMRuWcZ83HvjOPB3VFj7Gr9oPFwz9HYsFk9wZh9DL1-JyUFSmUNqR9okbw",
+    "rating": "4.0",
+    "downloads": "10,000+",
+    "tags": [
+      "カジュアル",
+      "Android",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "自分の反応速度に挑戦だ！\n\n１から２５の数字を以下に早く押せるかを友達と対戦しよう！",
+      "シンプルで直感的な操作性",
+      "完全無料・軽快動作"
+    ],
+    "description": "自分の反応速度に挑戦だ！\r<br>\r<br>１から２５の数字を以下に速く押せるかを友達と対戦しよう！\r<br>\r<br>ゲームを開始すると１～２５の数字が書かれたパネルが\r<br>画面に表示されます。\r<br>\r<br>１から順番に数字パネルを２５まで押して下さい。\r<br>押し終えた時間が記録されます。\r<br>\r<br>10位まで自己記録を保存できますので\r<br>毎日挑戦して記録を塗り替えてください。\r<br>\r<br>反射神経には自信がありますか？\r<br>暇つぶしにもいいですし動体視力を養うのにも効果的！？\r<br>\r<br>無料でご提供するために広告が表示されます事をご了承ください。\r<br>\r<br>【更新履歴】\r<br>1.9 Android OS 2.1サポート\r<br>1.10 日本語用にタイトルを用意\r<br>1.11 高解像度端末でのバグ修正\r<br>1,12 いきなり開始していたのをタッチ待ちをするように変更\r<br>1.13 広告会社の変更\r<br>1.14 Android4.0でのレイアウト修正\r<br>1.15 広告会社の変更で端末番号の送信権限が不必要",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/wwDPB5K_E54Om9Kxgl1dX1AbWxhPW8FlUDTTZZBs-jO2JMNX0LHy5jjavZhrPv1NyzbqXrXqowgK4ZgiD7e9",
+      "https://play-lh.googleusercontent.com/Dt3iKEiIl7sax2mm0i71ETYclZxn3b4mT8QyRjr4C_W-PPBV0WzWxtQrQqSKPuvVApJ2CfdKj30hjjRFM7sLTQ",
+      "https://play-lh.googleusercontent.com/Q9w_tnO-R8zGmgqmw9EdROV1C8jsX3deIaAAk5xmFu07uXlLLcGBnMLgIZPzczrWQhvsoYDwnQOdBBoWmtl6VCw",
+      "https://play-lh.googleusercontent.com/z-IvFGeZBCPrXXcihhP0WnWcGSq-iRYiqUbYH2aZfEBZEpr5DXKXqK-n4-yayixCBOV0UPsNdDUXnZqy9PB0"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.pzl.touchnumber",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.pzl.touchnumber"
+  },
+  {
+    "id": "com.jsrtknt.gunma71th",
+    "title": "第71回関東支部研究発表大会",
+    "catchphrase": "📋 学会・研究発表大会スケジュール＆抄録ナビ",
+    "category": "tool",
+    "category_label": "便利ツール・日課",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/kG34pl-Mknndm_M4IfMdZUpRctrg_qUqLY_PGrf1QoxRSWsg_lISzikichXa-590diBu2FBuDoUzYDpFWBH_qA",
+    "rating": "4.0",
+    "downloads": "50+",
+    "tags": [
+      "教育",
+      "Android",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "JSRT 第71回関東支部研究発表大会 公式抄録閲覧アプリ",
+      "シンプルで直感的な操作性",
+      "完全無料・軽快動作"
+    ],
+    "description": "JSRT 第71回関東支部研究発表大会 公式抄録閲覧アプリです．\r<br>オフラインで日程表や抄録の閲覧が行えます．\r<br>（抄録本文の閲覧には閲覧パスワードが必要です．）\r<br>便利な機能として，演者や発表タイトルのキーワード検索が行えます．",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/sozOlOIBbT7uCsOhG92cqGPkhOcGwKn4FgFO_kZulxZ2GekKXp-gFoDlkKtmJHSZoaMQb6UKJUYWBmstAtlaCg",
+      "https://play-lh.googleusercontent.com/Yhg6-dy3jvj1ohHTkRQbhy7wmJxVFsIOvdb12RYbYZKjrvwPTHpNID5zPx43Irg4KbxsAE0Olf4ZiqM367SC6A",
+      "https://play-lh.googleusercontent.com/XoPcwb2nOl31mILqUWnh4hP-36r1UjLmDnnAgXgyE4YRcZv8_2sZwYIeypd5TxygXeKdzYsk7yL3SlImB3O0zw",
+      "https://play-lh.googleusercontent.com/CxBRn4V2AUhu5agmCe8F34GsdB6Y5LjrFrI-_DqEam0-Rh9za0X3bwdeISSdcpkMpL1gx_fV2bxIpYi9RTRZgw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=com.jsrtknt.gunma71th",
+    "url": "https://play.google.com/store/apps/details?id=com.jsrtknt.gunma71th"
+  },
+  {
+    "id": "constitution.tool.buunyan.constitution",
+    "title": "日本国憲法",
+    "catchphrase": "📜 音声読み上げ対応！日本国憲法全文学習ツール",
+    "category": "tool",
+    "category_label": "便利ツール・日課",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/yRBaPY9C-mNeDOsHkWBl7P6ofXaz6oBc-yR4xztG1b2WeDSgduBCV5oLskBW3gO9lvmT4YF520ZTtyAEpcRhpQ",
+    "rating": "4.0",
+    "downloads": "1,000+",
+    "tags": [
+      "教育",
+      "Android",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "日本国憲法を表示、読み上げてくれるアプリ",
+      "シンプルで直感的な操作性",
+      "完全無料・軽快動作"
+    ],
+    "description": "これは日本国憲法を表示、読み上げてくれるアプリです。\r<br>\r<br>公務員試験や行政書士、司法書士等を目指す方には\r<br>必須の日本国憲法を表示します。\r<br>\r<br>画面タップで条文を音声で読み上げます。\r<br>読み終わると次の条文を自動で読む設定も可能ですので、\r<br>全文を再生し続けながら他の作業も可能です。\r<br>\r<br>免責事項：\r<br>このアプリの情報は、https://elaws.e-gov.go.jp/　から取得しています。\r<br>このアプリは政府や政治団体を代表するものではありません。\r<br>このアプリで提供されるすべての情報は、教育および学習目的でのみ使用する事をお勧めします。",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/7zcIwbdHZXhso_5Ev2KQo6zcx_ukiXFnIWnMX1n52cYBxtYRUatvs5_hXcD13sbiMbM3YUpINDtztmghJqf55w",
+      "https://play-lh.googleusercontent.com/8Y22HXPn7jytzLcfOLFQ3v-7n9512YFF60agdIBVeF2D_3RCjHkQPz97hXM2cBoB-xCMM5YxPARSfCvyIJgk",
+      "https://play-lh.googleusercontent.com/QRwxaDhI4UEpGzgxtI8CTiT6FyptUasY_EtzHyzRcGfLvA-ZIo9nujVbP4CDmxHTMrBtONGoZ8JSwJ5SMjHSBw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=constitution.tool.buunyan.constitution",
+    "url": "https://play.google.com/store/apps/details?id=constitution.tool.buunyan.constitution"
+  },
+  {
+    "id": "buunyan.pzl.game2048",
+    "title": "2048",
+    "catchphrase": "🔢 定番の数字合体2048パズルゲーム！",
+    "category": "puzzle",
+    "category_label": "パズル・脳トレ",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/EZS7G5PxN-BlEti2Y3uRZFUnjkU9kT9ZnCJX4ew2deBMPX-YfXS8BCSMH83KOI3Y2F23JRliLWzbVPAsEa4NNw",
+    "rating": "4.0",
+    "downloads": "500+",
+    "tags": [
+      "パズル",
+      "数字パズル",
+      "脳トレ",
+      "Android"
+    ],
+    "highlights": [
+      "数字をくっつけて2048を目指そう！",
+      "同じ数字をスライドして合体",
+      "手軽に遊べる脳トレ"
+    ],
+    "description": "数字をくっつけて2048を目指そう！\r<br>\r<br>2+2 = 4\r<br>4+4 = 8\r<br>8+8 = 16\r<br>というように数字をくっつけて2048を目指すゲームです。\r<br>\r<br>今世界中で大人気です！",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/mZB2O2ljj63qBb0fSIdDOueRfRIhOcaNRJODLqrR3QAUAwXr-hz72NtEVFXvPZ1oremfyCuMVR0-3zBZV667",
+      "https://play-lh.googleusercontent.com/gi6WxfH_vnnF5Z7PmyCni4hYBlPydXY_NO9arDCLT1iYvM7JWtzawzNCYsSstpzX6U3zQZQ_vyeedfHFoT9WoA",
+      "https://play-lh.googleusercontent.com/BhxUwxCEBzdiIGRiVarp0-8lCzU4xwVp-JG0Qo2GEqeP2RiFza_dE50W9NAun68drKFl7FaSwn8DWOYu2l-V"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.pzl.game2048",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.pzl.game2048"
+  },
+  {
+    "id": "buunyan.tool.mirrorphoto",
+    "title": "対称カメラ",
+    "catchphrase": "📸 リアルタイムに左右対称な写真が撮れるカメラ",
+    "category": "tool",
+    "category_label": "便利ツール・日課",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/v8u85pF6ImXi1ThyWjhLl0feLLUwQXk3QbWGxxDPJ0UDn-YLIxzQ6SJGK-5wtZU6GioNcTV_ApGXg5i_EzF2-WA",
+    "rating": "3.0",
+    "downloads": "1,000+",
+    "tags": [
+      "写真",
+      "Android",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "画面半分を反転状態で撮影できるカメラです。",
+      "シンプルで快適な操作性",
+      "完全無料・軽快動作"
+    ],
+    "description": "画面半分を反転状態で撮影できるカメラです。\r<br>\r<br>顔の真ん中に鏡を持ってきて遊んだことないですか？\r<br>それと同じく画面半分で反転して表示されるので\r<br>尖った頭、太った体といった面白写真が撮影できます♪\r<br>\r<br>友達と撮りあって遊ぶと盛り上がる事間違いなし！？\r<br>\r<br>無料で作品を提供し続けるために広告が表示される事をご了承ください。\r<br>\r<br>このアプリの開発者は、安心・安全なアプリの開発者であるとしてアンドロイダーの公認デベロッパーに認証されています。https://androider.jp/developer/1a4090045b1c988a19833ad010d85609/",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/IXqTPOyfbrI6SHnTLVddIWZHjTvjnpRyy_0yHiVheJQhNYMB9tueRiUNjtyuqMLufdjwiF2aIifLMhPHmb42",
+      "https://play-lh.googleusercontent.com/v8u85pF6ImXi1ThyWjhLl0feLLUwQXk3QbWGxxDPJ0UDn-YLIxzQ6SJGK-5wtZU6GioNcTV_ApGXg5i_EzF2-WA",
+      "https://play-lh.googleusercontent.com/IXqTPOyfbrI6SHnTLVddIWZHjTvjnpRyy_0yHiVheJQhNYMB9tueRiUNjtyuqMLufdjwiF2aIifLMhPHmb42",
+      "https://play-lh.googleusercontent.com/v8u85pF6ImXi1ThyWjhLl0feLLUwQXk3QbWGxxDPJ0UDn-YLIxzQ6SJGK-5wtZU6GioNcTV_ApGXg5i_EzF2-WA"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.mirrorphoto",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.mirrorphoto"
+  },
+  {
+    "id": "buunyan.pzl.lightsout",
+    "title": "LightsOut",
+    "catchphrase": "💡 全ての明かりを消す定番思考型パズル！",
+    "category": "puzzle",
+    "category_label": "パズル・脳トレ",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/hhZCGntEgkB7ZuNGVHM3lVXeyPUKGFHQLtUU3uXR2HBbSJoAShnb-Lwv0i8RKfeaCu92sYn51ijYufAiu9Fj",
+    "rating": "4.0",
+    "downloads": "500+",
+    "tags": [
+      "パズル",
+      "Android",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "タッチした箇所の上下左右の色が同時に反転します。\n全部のマスを点灯させればクリアです",
+      "シンプルで快適な操作性",
+      "完全無料・軽快動作"
+    ],
+    "description": "昔から定番のひっくり返しパズルゲームLightsOutです。\r<br>タッチした箇所の上下左右の色が同時に反転します。\r<br>全部のマスを点灯させればクリアです\r<br>\r<br>昔からあるゲームで単純でかつ何度も遊べる暇つぶしにぴったりのお手軽ゲームです。\r<br>\r<br>全部で100マップ用意しました！\r<br>是非すべてクリアしてください。\r<br>\r<br>今後も無料で継続してアプリをリリースする為に広告が表示されます事をご了承ください。\r<br>\r<br>このアプリの開発者は、安心・安全なアプリの開発者であるとしてアンドロイダーの公認デベロッパーに認証されています。https://androider.jp/developer/1a4090045b1c988a19833ad010d85609/",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/i47f2xTCDEFVJrM2Mk2MPgopbckbHt3IfBe1zgjTbtUSXCuRljObdOnIePR9IvH1iV9e1FGo0w2Q1FdlNL6r",
+      "https://play-lh.googleusercontent.com/c3TWDCcUfe4c4j6b7Oyk8XKXQzT5So01a8d52fRz5mNKhqNckcF09dY0ck-lkVvK436jW1Wfa2Vc3Aiba3sAt-M",
+      "https://play-lh.googleusercontent.com/91gjXj8M2Vv3KFGHROfbq2bmeO63GtvEBjKG9ZyltuCR3pB1W1DtHWAxomBaI7cT8TjNYbGgsScLPnQpnoorpw",
+      "https://play-lh.googleusercontent.com/i47f2xTCDEFVJrM2Mk2MPgopbckbHt3IfBe1zgjTbtUSXCuRljObdOnIePR9IvH1iV9e1FGo0w2Q1FdlNL6r"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.pzl.lightsout",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.pzl.lightsout"
+  },
+  {
+    "id": "buunyan.stg.wareuchu",
+    "title": "ワレワレハウチュウジンダ!!",
+    "catchphrase": "👾 宇宙人を撃退せよ！レトロシューティング",
+    "category": "casual",
+    "category_label": "ゲーム・息抜き",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/H7Fqw9gnG7P4SU_g43DHAj7Kz2hh6nSnLKJy_yR7Y3JEKFu9ro5Jvtq9C2b2g2I_5K6Riz2Bn2VBAhWngui2bbg",
+    "rating": "4.0",
+    "downloads": "10,000+",
+    "tags": [
+      "アーケード",
+      "Android",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "ｳﾁｭｳｼﾞﾝが攻めてきた!!\n攻撃して撃退してくれ!",
+      "シンプルで快適な操作性",
+      "完全無料・軽快動作"
+    ],
+    "description": "ｳﾁｭｳｼﾞﾝが攻めてきた!!　　　　　　 \r<br>攻撃して撃退してくれ!　　　　　　 \r<br>\r<br>ｽﾃｰｼﾞ毎に敵の出現ﾊﾟﾀｰﾝが変わり,\r<br>敵によっては複数発当てないと倒せま\r<br>せん。　　　　　　　　　　　　　　\r<br>ﾁｬﾚﾝｼﾞﾓｰﾄﾞ\r<br>\r<br>残機がなくなるまでﾌﾟﾚｲし続けるﾓｰﾄﾞ\r<br>です。3機撃墜されるとｹﾞｰﾑｵｰﾊﾞｰです\r<br>\r<br>\r<br>ﾀｲﾑﾄﾗｲｱﾙﾓｰﾄﾞ\r<br>\r<br>3分間にどれだけ撃墜出来るかに挑戦 \r<br>するﾓｰﾄﾞです。　　　　　　　　　　\r<br>3分経過するか3機撃墜されるとｹﾞｰﾑ  \r<br>終了です。　　　　　　　　　　　\r<br>フォントを綺麗にしました。\r<br>\r<br>Ver1.5  バグ修正\r<br>Ver1.6  バグ修正\r<br>Ver1.7  タイトルからのリンクをマーケットに変更\r<br>Ver1.8  バグ修正\r<br>Ver1.9  背景追加\r<br>Ver1.10 背景スクロール追加\r<br>Ver1.11 ステージ5追加\r<br>Ver1.15 ネット",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/P9OueKvcoau_o7v2mWtfNnJhRgoCnv9ihFKA90nGbmfZz_5hOIRygky_F23dzdeUlEqsNnKaCVhe7OAhChtdrw",
+      "https://play-lh.googleusercontent.com/_otI079dVzys4cxDJ1VABEApLsvKqDr5sa-4SUuTSux9H1DDUOU1Od7TERa9KcbfkAL3y1Je6QwE1-fEa9CqYg",
+      "https://play-lh.googleusercontent.com/cMMb2VTH558nSEarSm-FVVv8Vw6LADHOzw_EbV3X2_DfoqZGrzwohXDEy_COg6jqzOH9c5LB0SNEe8SRSJENSA",
+      "https://play-lh.googleusercontent.com/T40EGyD_fujm1t774dXiTAX8bpB8T8XyCAIS_cqMz8PZDVQt9hGmgrLHW7NrcTNjX-MlukR1TIMSRhOZkn-H"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.stg.wareuchu",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.stg.wareuchu"
+  },
+  {
+    "id": "buunyan.pzl.nyanpara_pzl15",
+    "title": "にゃんぱらり15パズル",
+    "catchphrase": "🐱 かわいい猫の15スライドパズル",
+    "category": "puzzle",
+    "category_label": "パズル・脳トレ",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/aft33d0nPIjehL8Ogiz9WyABR38x2zYlxgch6_RXNqIChP-HuBR-s6yYqCau5-5FdHS3_8Xe0uPv0WRq5OoWYw",
+    "rating": "3.0",
+    "downloads": "5,000+",
+    "tags": [
+      "パズル",
+      "Android",
+      "bu-nyan",
+      "ゲーム"
+    ],
+    "highlights": [
+      "皆谷加那麗さんの同人ブランドにゃんぱらりの画像を\n使った15パズルです。",
+      "シンプルで快適な操作性",
+      "完全無料・軽快動作"
+    ],
+    "description": "皆谷加那麗さんの同人ブランドにゃんぱらりの画像を\r<br>使ったうたプリ15パズルです。\r<br>\r<br>うたの☆プリンスさまっの同人誌に使っている画像を\r<br>そのまま15パズルにしました♪\r<br>【更新履歴】\r<br>パネルが無い位置をタップしても入れ替わっていたのを修正\r<br>場所がわかりやすいように番号を表示するオプションを追加\r<br>\r<br>※2次創作の為ブロッコリー社とは一切関係はありません。",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/peuyx_YW2LS4G5fUYvXvEcwJ5zDaodCxcCwe9cpujfu-CzJOfJgMIVdkeiD_vtngT0TClxPDRZv1AM1d26N5Yw",
+      "https://play-lh.googleusercontent.com/y1Aba4L8U9R_zQbX71AwNI7s23T-FZhp43q7-YaZPl7GbH83h7UGkuCmEpaWS70xBa1qkodjStdX9NSDp3bMew",
+      "https://play-lh.googleusercontent.com/sSA2yIMd0w_fKUpFYmGiyQV55Qp-b9IuP5Uiv9tH4uc0ah_XGRckHzLf7BVyL_Cyg2-npO3ggUVT8ZrkSwPVDA",
+      "https://play-lh.googleusercontent.com/SDeMRyxs-lVrB4jQTXTAXSV6NludPyTCnR7I_Fi8enxygCl1bvKkDHJhFSmN3OiXCW_bLVPR_Wq8LNxU1klXiQ"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.pzl.nyanpara_pzl15",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.pzl.nyanpara_pzl15"
+  },
+  {
+    "id": "buunyan.pzl.suudoku100_1",
+    "title": "Suudoku100 Vol.1",
+    "catchphrase": "🔢 じっくり解ける厳選ナンプレ100問！",
+    "category": "puzzle",
+    "category_label": "パズル・脳トレ",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/vcWckO2Kcf2X4WVsyWWVOj4Fic5hw37Sz-ZDL_8GnzZdFgpvsn9mqg5zFp8t8AnCPAL2qkXKVYUceLCI4ozz",
+    "rating": "5.0",
+    "downloads": "1,000+",
+    "tags": [
+      "パズル",
+      "Android",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "日本では一般に「ナンバープレース（ナンプレ）」と呼ばれることも多いパズルゲームです。\n\n日本以外の国",
+      "シンプルで快適な操作性",
+      "完全無料・軽快動作"
+    ],
+    "description": "これは日本では一般に「ナンバープレース（ナンプレ）」と呼ばれることも多いパズルゲームです。\r<br>\r<br>日本以外の国ではSudokuと呼ばれ広く親しまれている定番ゲームです。\r<br>ルール\r<br>空いているマスに1～9のいずれかの数字を入れる。\r<br>縦・横の各列及び、太線で囲まれた3×3のブロック内に同じ数字が複数入ってはいけない。\r<br>\r<br>問題は100問収録しております。\r<br>最短記録を保存するようにしていますので\r<br>記録を目指して繰り返し何度も遊ぶ事が出来ます。\r<br>\r<br>【更新履歴】\r<br>高解像度端末においての座標ずれ修正\r<br>高解像度端末では画面が滑らかになるように修正\r<br>英語日本語でタイトルを変える様に修正\r<br>広告会社の変更",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/9A8ZstFdtIHypAw3Z17fPFLqfov7rbXkctedrZYavpgfVuuVbWs7dncLwT41ca7JAplEYicParSpTQmDJ00N",
+      "https://play-lh.googleusercontent.com/j384-wN6tO9OHYPrsv6bDy_YS0YwnY_5nr3CgMI9kMk5P5XYNvZynl4T7KCHjyfoqYLC5Tjb08S-fBFibq0NfQ",
+      "https://play-lh.googleusercontent.com/Pvq7dRJjvkkFMJfbS6CLVHqzrUv0-6wUTjMFyDN_2d4q2JV-zGbyjyxMWdYjN4XXcXW4n9uDwVSy2oDreEVE7ms"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.pzl.suudoku100_1",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.pzl.suudoku100_1"
+  },
+  {
+    "id": "buunyan.pzl.Inequality",
+    "title": "どっち計算",
+    "catchphrase": "⚡ 不等号で素早く判断！不等号計算脳トレ",
+    "category": "puzzle",
+    "category_label": "パズル・脳トレ",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/b6A0_m712m4cxJ12mjWMFIaT5rZQmBkrFBjAI_rOSS3Mdh3bcKmpS0gHiC7j3jMlMJM55zGifCDZa9kQ2pHPfQ",
+    "rating": "4.0",
+    "downloads": "1,000+",
+    "tags": [
+      "アーケード",
+      "Android",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "画面上に次々と出てくる計算式二つを比べてどちらが大きいかを答えるゲームです。暗算の練習になりますし、",
+      "シンプルで快適な操作性",
+      "完全無料・軽快動作"
+    ],
+    "description": "これは、画面上に次々と出てくる計算式二つを比べてどちらが大きいかを答えるゲームです。\r<br>暗算の練習になりますし、家族やお友達と競ってみてください。\r<br>\r<br>ゲームを始めるとカウントダウンが、開始されます。\r<br>３・２・１・GAMESTARTの後に計算式が連続で出ますので、計算してどちらが大きいかを下の不等号ボタンで答えてください。\r<br>\r<br>一度のプレイは短時間ですので頭の体操、暇つぶし気分で気軽に取り組んでください。\r<br>\r<br>\r<br>【更新履歴】\r<br>Ver1.1 バグ修正\r<br>Ver1.2 高解像度端末への対応修正\r<br>Ver1.3 キー反応など修正\r<br>Ver1.4 キー反応など修正\r<br>Ver1.5 細かい修正\r<br>Ver1.6 選択時にバイブ駆動実装\r<br>高解像度端末での細かいバグ修正など\r<br>高解像度端末では表示を滑らかになるように修正\r<br>Ver1.7 広告ライブラリの変更",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/ZrmWon_uHAHfM1dRTWIOgn2oramnqBlxW2N68YjUw9RkSM9g8-cLNXPFMVqNOIA81fQmNj0ix7bw5zgT1U15Ng",
+      "https://play-lh.googleusercontent.com/Oa2ws7xqPexqhtw2CvmwhL2irs5MfijVdD8enJEz59ChnAXJzpeKN2-lsVumsc5S8UN41l20REzH5Zk_d6O4",
+      "https://play-lh.googleusercontent.com/X7Dsm6TENLye7CboOAzueW_aOcPggN2ovRCNn0Zo3axvXuJDNkSuFbKzK0LQYb5v2vRiPV0Y7ZPT7046IbZK7A",
+      "https://play-lh.googleusercontent.com/ZrmWon_uHAHfM1dRTWIOgn2oramnqBlxW2N68YjUw9RkSM9g8-cLNXPFMVqNOIA81fQmNj0ix7bw5zgT1U15Ng"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.pzl.Inequality",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.pzl.Inequality"
+  },
+  {
+    "id": "buunyan.tool.amazondownprice",
+    "title": "割引検索forAmazon",
+    "catchphrase": "📉 Amazonの割引・値下げ商品を一発検索！",
+    "category": "tool",
+    "category_label": "便利ツール・日課",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/qFWfjE6V6rha0W7hCRdTXAud3WbP6vQ-3H_LN-duoo2VUk8zYwrZcY7f9zzt1uEsLGklLSUc-IdWd59s6luf3w",
+    "rating": "4.0",
+    "downloads": "100+",
+    "tags": [
+      "ツール",
+      "Android",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "amazonの商品から割引商品を簡単に探せます。",
+      "シンプルで快適な操作性",
+      "完全無料・軽快動作"
+    ],
+    "description": "割引商品だけを探したい！\r<br>amazonで商品を検索していてそんな事を考えた人も多いのではないでしょうか？\r<br>\r<br>このアプリでamazonの商品から割引商品を簡単に探せます。\r<br>\r<br>※一部プライムと書かれた商品の値段が割引額と一致しない場合がありますが\r<br>amazon側の仕様のようですのでご了承ください。\r<br>\r<br>※amazon公式アプリではありません。\r<br>このアプリはamazonでのお買い物を少しでも手助け出来るように考えて作成されています。",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/3pmbjNCDY9tTD8XrlaGh69H72CggrZVW-w0AMUK4rLaFGv57rKmd_o_1VmeoG0EitlgxuyODpLpM3wfT87Dm",
+      "https://play-lh.googleusercontent.com/qoIWvBnSv6e5w1mjZ_dBJhgqCdZt3Q7hwcilF5gOSyLrCj0KzGUpoQioiXsVhJHczcCDyEuag2SGJFwka-Se7AA",
+      "https://play-lh.googleusercontent.com/p46MUe1pz8zSzGFiwgjzJM331qgNSW-XTOsnsccRCylwAf_zNTa_pXbZGSDaZ3gfpnhSyF6v10UWkOUQsi9DQw",
+      "https://play-lh.googleusercontent.com/MCR9amTVkTmoJ0y5bnvkHeXS8E3cq90GcaW1GG3Q2qWRbML5qt5Zbw6L0hEGaHYhEqTwWSZN91YieqfNK5BhNQ"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.amazondownprice",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.amazondownprice"
+  },
+  {
+    "id": "buunyan.pzl.xmas_swap",
+    "title": "クリスマスプレゼント",
+    "catchphrase": "🎄 クリスマスモチーフの楽しいスワップパズル",
+    "category": "puzzle",
+    "category_label": "パズル・脳トレ",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/Ie0x_epCAKym5Tjt8y1WIGkko4Lg_eSlEaBQCbJU02ZVYaxnZYoq0PknUwRSXogrWWkxSpYMMHiTvQY3duIYsJQ",
+    "rating": "4.0",
+    "downloads": "1,000+",
+    "tags": [
+      "カジュアル",
+      "Android",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "クリスマスをイメージした入れ替えパズルゲームです。\n隣り合うチップを入れ替えて3つ以上揃うと消えます",
+      "シンプルで快適な操作性",
+      "完全無料・軽快動作"
+    ],
+    "description": "クリスマスをイメージした入れ替えパズルゲームです。\r<br>\r<br>【ストーリー】\r<br>今年もサンタクロースは忙しくて大変。\r<br>クリスマス用のグッズの整理に追われています。\r<br>\r<br>クリスマスプレゼントをスムーズに届けられるように\r<br>あなたの手伝いが必要です。\r<br>\r<br>同じ絵柄を３つ以上並べて次々と消していってください。\r<br>\r<br>\r<br>【操作方法】\r<br>隣り合うチップを入れ替えて3つ以上揃うと消えます。\r<br>ノルマに達するとレベルが上がります。\r<br>時間が無くなるとゲームオーバーです。\r<br>\r<br>上下左右に隣り合うブロックを入れ替えていき\r<br>3つ以上揃うと消えます。\r<br>画面上部に書かれているノルマに達するとレベルが上がります。\r<br>画面下部の時間が無くなるとゲームオーバーです。\r<br>揃えるごとに時間は若干回復します。\r<br>多く揃えるほど点数は高くなります。\r<br>ハイスコアは記録されるので自己記録に挑戦してください。\r<br>\r<br>またネットランキングにも対応していますので\r<br>世",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/sPJ0VYQl0KqOs3VJDproUMpkZpof3FtV1c5yI2NHSH87m4J-ZREx0ocT9QAJuVMDlZQblpn1vcwb2Gg6TL2eoA",
+      "https://play-lh.googleusercontent.com/5o12LH7gy2LRezqTdBjtyMAhFcwH2yW_F-PxoDx6VtpBCdlCrBWSxh7YQt55j4TMxSI13VY4Dbr-6bTbecWR_g",
+      "https://play-lh.googleusercontent.com/Qsh59YP01eQZ-aEVtZHcerQjsDa3E32jVxBhvMUYWXDPAnjOLk-5yekMXzNayTRP6BEnEt3PWg60Tdbc24Nq",
+      "https://play-lh.googleusercontent.com/AjoZOx8zaQB8I2gaT99_FJX4Z1ciSAYVGBaQwjNCGdPdkkLOZ8W0QneXoJ24XKUJxUbZj-eAlpZyjo__lzG5"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.pzl.xmas_swap",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.pzl.xmas_swap"
+  },
+  {
+    "id": "com.sample.bleadvertise",
+    "title": "BleAdvertiser",
+    "catchphrase": "📶 BLEアドバタイズ信号を発信する実用ツール",
+    "category": "tool",
+    "category_label": "便利ツール・日課",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/2SSJ_ZjllAJtDcEfii_eyoFD8l4CWifYq57en3ooGlUQ6mKa9__QjFtfkJo8A9h31CjJYXv90tat-5M22uZQfNw",
+    "rating": "4.0",
+    "downloads": "10+",
+    "tags": [
+      "ビジネス",
+      "Android",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "ビーコン信号を送信出来ます",
+      "シンプルで快適な操作性",
+      "完全無料・軽快動作"
+    ],
+    "description": "好きなUUID、Major、Minor値を指定してビーコンを発信できます。\r<br>\r<br>ビーコンアプリの作成時のテストビーコン配置や\r<br>ビーコン受信のテストなどに！\r<br>\r<br>お店のクーポン配布用のビーコン送信をアプリで再現できるようになります。\r<br>会員向けの特典機能などにも使えます。",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/OVLzkOqE8KFc8B34a1axToOyW4hiP-LYHGSCupPjUVsbaZBXNxj4eM7mQH_TS7LPiEFGGScOd0guekuNzG0ASA",
+      "https://play-lh.googleusercontent.com/1tgg0H0_E4sddCcVH0gWEuynOlXZv5QENOW3FZmC7Pzb1WD75RCOQP6jMY0LxVJN_Q1hrxEfDkrrxZv9Ooyy2Q",
+      "https://play-lh.googleusercontent.com/fvZBKB_ehxKd4IzEY8HLEIgT1KkZewDbcKm0RwLeH59uDXlCv6lh_BWL9Uzte_JnlZSsnjVXxrHnKhFYpabt"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=com.sample.bleadvertise",
+    "url": "https://play.google.com/store/apps/details?id=com.sample.bleadvertise"
+  },
+  {
+    "id": "buunyan.tool.yesnobtn",
+    "title": "YESNOボタン",
+    "catchphrase": "🔘 迷ったときにYes/Noを即判定するボタンアプリ",
+    "category": "tool",
+    "category_label": "便利ツール・日課",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/VO3c9wQazrjnqlwoNHokE_ra8oa3X5r2crEY9fJNLnVwgE79yHNSzBwZUfzNuR-tlH3A19Dansh_xMbNHWvd",
+    "rating": "4.0",
+    "downloads": "100+",
+    "tags": [
+      "エンタメ",
+      "Android",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "○×問題やクイズゲームなどを友達や家族とする際に使える効果音ボタンです。",
+      "シンプルで快適な操作性",
+      "完全無料・軽快動作"
+    ],
+    "description": "○×問題やクイズゲームなどを友達や家族とする際に使える効果音ボタンです。\r<br>\r<br>画面上に出ているYES/NOボタンを押すだけで\r<br>正解音、不正解音が鳴ります！\r<br>\r<br>画像もSEも4種類用意しています！\r<br>\r<br>パーティグッズとしていかがでしょうか？\r<br>\r<br>このアプリの開発者は、安心・安全なアプリの開発者であるとしてアンドロイダーの公認デベロッパーに認証されています。https://androider.jp/developer/1a4090045b1c988a19833ad010d85609/",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/OkWavA8BMTnem9jQnFbYWK7t-mvtog3GKU7TjRK2Qyj5y9pH8SB5pQOMW4x5K27bqwBJvknoOAVBZl_Xi5UNAX0",
+      "https://play-lh.googleusercontent.com/sxX6lIqRUIrINntOu3XNMNbbgtPWpaJiocWxDlzK8zH0mDxlbwTaPSzmD0qTaKGTKz65-YH7UZJFNMg_uL05Pu4",
+      "https://play-lh.googleusercontent.com/Gll99Tt16IFqEjcLiZcMzYra5iojysxqo5dCL5dlGjnsfkvtd1rqhOuEpfwyGhFBelYQOhhtOmmpon0uYHyoXdU"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.yesnobtn",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.yesnobtn"
+  },
+  {
+    "id": "com.game.pixelpeel",
+    "title": "PIXEL PEEL",
+    "catchphrase": "🎨 ドット絵を戦略的に解体するピクセルパズル",
+    "category": "puzzle",
+    "category_label": "パズル・脳トレ",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/e_gqDFGEQNGtx8fgfpXB4jy-EUzy-iLgUwGdAnKkt3RxThy9KfquZ750Lg5a23Nyn5w6gqSlDkdLXc2fNwC1",
+    "rating": "4.0",
+    "downloads": "5+",
+    "tags": [
+      "パズル",
+      "Android",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "名画やドット絵が即座にアクションにパズルに！新感覚の視点解体（デコンストラクション）パズル！",
+      "シンプルで快適な操作性",
+      "完全無料・軽快動作"
+    ],
+    "description": "■アプリ概要\r<br>「組み立てる」から「剥ぎ取る」へ！ 『PIXEL PEEL』は、色と数字のロジックをじっくりして、ピクセルアート（ドット絵）を解体（デコンストラクション）していく、新感覚のタクティカル・パズルゲームです。 目の前にある視野をただ守るだけではありません。 外側のピクセルが「シールド（シールド）」として奥の視点を守るため、外側から計画的に剥がしていく必要があります。戦略を巡らせ、限られたエネルギーを持つカラーユニットをベルトコンベア（レール）に投入し、すべてのピクセルを綺麗に「PEEL（剥離）」しましょう！\r<br>\r<br>■ ゲームの特徴と魅力\r<br>1. 剥ぎ取る爽快感！「視界・シールド」ロジック\r<br>ピクセルアートの外側が「シールド」となり、奥にある同じ色のピクセルをガードしています。 外側のドットから順番に剥ぎ取っていく、逆転の発想が必要なロジックパズルです。\r<br>\r<br>2. 世界の名画やかわいい動物、戦国武将がパズルに変身！\r<br>多彩な画像取得モードを搭載しており、遊ぶたびに新しいパズルが生成されます。\r<br>\r<br>アニマルパック ",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/hAGj1410A3HgfEwu08kP5dZfEvJhw7HR-R_LBS6_QmgfdVt5SMIlAgTMYWQwps3coLp6v6FlWuoqKteioenDaRI",
+      "https://play-lh.googleusercontent.com/fZWC4pcagunvEXv4S2xMH7v7V-M9_a92KQ2Vhy8ZZ4R3lRHv1c8jleT8WjNdMtxTMwZjoTz46Rc8xw7Xx3ciuw",
+      "https://play-lh.googleusercontent.com/WO1pmlxmZp6f5tcIIbXteI_7ct9M3_pyVOmm0hDk2DzXgjBzZdyA4oYuQRHYnRUt6MPUQipdsXh4ajISZoYm750",
+      "https://play-lh.googleusercontent.com/4HD8YMmq3IkewoBlcVNFu3G73WLMHGrO-M4F5gsjADQuyybGM2hrqnbXl8oZ7lYFhH_dYbdH22ppkFqYMXY9"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=com.game.pixelpeel",
+    "url": "https://play.google.com/store/apps/details?id=com.game.pixelpeel"
+  },
+  {
+    "id": "buunyan.etc.janken_y",
+    "title": "じゃんけんポン! (イエロー版)",
+    "catchphrase": "✊ 誰でも手軽に勝負！シンプルじゃんけんゲーム",
+    "category": "casual",
+    "category_label": "ゲーム・息抜き",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/5ve9jfrnPCTWkroYWYISk2U-wTIIGLqdeROQBcvxvI-Esbhz_zJPRkW7vwrGv7_U4c_oPLuLwvDMZtX1F5ZDdw",
+    "rating": "4.0",
+    "downloads": "50+",
+    "tags": [
+      "カジュアル",
+      "じゃんけん",
+      "ゲーム",
+      "Android"
+    ],
+    "highlights": [
+      "昔からの定番遊びであるじゃんけんをコンピューターとして\nメダルを貯めていく、駄菓子屋にあったようなゲ",
+      "ワンタップで簡単判定",
+      "シンプルで爽快な対戦"
+    ],
+    "description": "昔からの定番遊びである「じゃんけん」をコンピューターとして\r<br>メダルを貯めていく、駄菓子屋にあったようなゲームを再現しています。\r<br>是非童心に返って遊んでみてください。\r<br>\r<br>まずはメダルを投入します。　　　　　\r<br>５枚まで投入可能です。　　　　　　　\r<br>勝利時にルーレットが回るので、数字が大きい場所で止めると、\r<br>投入した枚数ｘルーレットの数字でメダルが返ってきます。\r<br>\r<br>【更新履歴】\r<br>メダル枚数をネットランキングで競えるようになりました！\r<br>英語圏では説明とタイトルが英語になるようにしました。\r<br>いくつかの画像を綺麗にしました。\r<br>効果音をいくつか入れました。\r<br>高解像度端末への対応修正\r<br>広告会社の変更",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/168zajLM57sFAIy5VrWIhi3PEM78BxMFz23lq0_UssqGaXcwq_M98Rq__-AISy0OEkMuKlSYEU7qm7O77XLYnA",
+      "https://play-lh.googleusercontent.com/znFTUkfm_XXsaALNg2b55Rhd-aF2_GO67Jz1nEOfkNKZd4JcgRmKeA3psTm1OMhhlhhV_7E-jOL-pBMNDXAdRno",
+      "https://play-lh.googleusercontent.com/ckRqngJ6keXUqr-8coNhRVprqwhWR9zpZz4UKpZSl-dM4WBqgqtcsNS1LmNfFXkOOgJGayq21aS1SMhk_HelLtU",
+      "https://play-lh.googleusercontent.com/pB9hyIzweJlEZLkUunpkOign0fTE6RnaZLeSwkFPtbymN5-tbTkXexGh77Lr0hk7enPgwSYmCqHfuxq3DtkTLHQ"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.etc.janken_y",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.etc.janken_y"
+  },
+  {
+    "id": "buunyan.tool.countdownwidget",
+    "title": "Moment Days",
+    "catchphrase": "⏳ 大切な記念日や予定までの残り日数を美しくカウントダウン！",
+    "category": "tool",
+    "category_label": "便利ツール・日課",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/96gyWyX87lw2Uqy98K-Yr_JMTMg6wheWMxVXD8W-lGRIfj78FjxOXrvXTs5lGG868M1el75_-QYrJGo_j2KhOw",
+    "rating": "4.0",
+    "downloads": "5+",
+    "tags": [
+      "ライフスタイル",
+      "ウィジェット",
+      "記念日",
+      "Android"
+    ],
+    "highlights": [
+      "美しいダイナミック背景切り替え",
+      "多彩なホーム画面ウィジェット対応",
+      "カウントダウン＆カウントアップ両対応"
+    ],
+    "description": "「Moment Days」は、あなたの大切な記念日や予定を美しく彩るカウントダウンアプリです。\r<br>\r<br>誕生日、結婚記念日、試験日、旅行の予定……。 あの日からの経過日数や、あの日までの残り日数を、自分好みのデザインでホーム画面に表示しましょう。\r<br>\r<br>【主な特徴】\r<br>\r<br>多彩なカウント機能: 残り日数（カウントダウン）と経過日数（カウントアップ）の両方に対応。\r<br>背景画像のランダム表示: 1つのイベントに最大5枚の画像を登録可能。ウィジェット上で画像が時間経過で切り替わり、いつでも新鮮な気分に。\r<br>高度なカスタマイズ: 背景色、文字色、フォントサイズ、アイコンの有無を自由自在に変更可能。リアルタイムプレビューで確認しながら自分だけのデザインを作れます。\r<br>多彩なウィジェットサイズ: 1x1、2x2、4x2のサイズに対応。ホーム画面のレイアウトに合わせて最適なサイズを選べます。\r<br>スマートテンプレート: カップル、テスト、誕生日、ダイエット、禁煙など、目的に合わせたテンプレートで簡単に作成。\r<br>10ヶ国語に対応: 日本語、",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/76u2Q0VIxehkL-fMf799IeAGunWACy0ZbSR422LuqqdD5JuM-_EKW5X09vw3WcNoRGtON-w_OTf9ooEEzsN4zw",
+      "https://play-lh.googleusercontent.com/yl7SwvIuAmDb9Sx2ssplPoPIqJj5LuOBJDlqzT9bv6ETpUw_gaa_3lOIJVS_2LQbStce8LSv0z-d6vXySvR4WA",
+      "https://play-lh.googleusercontent.com/rYz17xgKG_hAkh-qqBsTkOvCe0ZjcUr32NCDTRt4MApghChk9HtyNFAEJcJsmy09x9wD8B6GJ5W4jFC4Djf9TUs",
+      "https://play-lh.googleusercontent.com/9yfYltCS-qfqsk-ifcCoZtY5xNEb2lsDSiy66rf-SZjo_6rto7zJngiqXAmnM7khtFMtTmg0plLY_fYg4hr6"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.countdownwidget",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.countdownwidget"
+  },
+  {
+    "id": "buunyan.game.stgx",
+    "title": "Project ST-GX",
+    "catchphrase": "🚀 爽快本格2Dスペースシューティングゲーム",
+    "category": "casual",
+    "category_label": "ゲーム・息抜き",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/NjORJUZ9pVwTTBQG1xSQboTBen9aGKeXJxuTQsHsrH9lYxGsvWfSneVIk1B7lgV9mc-yNb3b_KUw1d4rNvI-OKU",
+    "rating": "4.0",
+    "downloads": "10+",
+    "tags": [
+      "アーケード",
+      "Android",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "ワイヤーフレームで描かれた3D空間を駆け抜ける、レトロモダンな本格STG。",
+      "洗練された操作性とデザイン",
+      "完全無料・軽快動作"
+    ],
+    "description": "「Project ST-GX」は、80年代のアーケードゲームを彷彿とさせるワイヤーフレーム・グラフィックスと、現代のスピード感を融合させた3Dシューティングゲームです。\r<br>\r<br>漆黒の宇宙空間に浮かび上がる、鮮烈なネオンカラーのライン。 シンプルながらも奥深いスコアアタック。 迫りくる敵の群れを潜り抜け、最強のパイロットを目指せ。\r<br>\r<br>【特徴】\r<br>・懐かしくも新しいワイヤーフレーム・3Dグラフィックス\r<br>・直感的な操作で楽しめるハイスピードな戦闘\r<br>・戦略的なパワーアップとスキル管理",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/yCYSWdgLM43bejYmkQOdVysuFFepkQqIV2o7uwrJq4fCptiLUJV-RlA3oAz5Hx6eEGOCeoBgzQRRlvlqviNeYQ",
+      "https://play-lh.googleusercontent.com/WTuRH7NTG-7_cPTJvfoajF4tQs3r3enlYXdxf4neyUgwVODg-Oa0aZZ0u6oXp7TqNHXnhOLoUHYsVlU8OgJJ6w",
+      "https://play-lh.googleusercontent.com/R_Kow7C7NHkbT1SkPMg7TWSaYySVuUww_1iUOm-KHlS0zfTPd7ceK1kDX37reUpjgiJ48kt2GfjYH7biT_2H",
+      "https://play-lh.googleusercontent.com/ix5O7qNUpNe1Z2p0cFEX7YVn-ojCspHrQ9toizpBldX9obgJObWRFF-WtfKCnEE_hTbhuQ7CfT507D5ze_ZBjPg"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.game.stgx",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.game.stgx"
+  },
+  {
+    "id": "buunyan.pzl.kurukuru_y",
+    "title": "くるくるｷｬﾝﾃﾞｨ",
+    "catchphrase": "🍬 キャンディを回して揃える爽快パズル",
+    "category": "puzzle",
+    "category_label": "パズル・脳トレ",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/smV0cxFG98wTfsDmuxvy7I2W4c6yc-xW5OM-CCMPnPwlb5HOvgyAqp_34c_89YeUdIWQAVJ6X8Z9rewgb7kb8Q",
+    "rating": "4.0",
+    "downloads": "10+",
+    "tags": [
+      "アーケード",
+      "Android",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "ハロウィンをモチーフにした可愛い絵柄のくるくるパズル♪\nトロフィー機能が付いていてやり込めます。",
+      "洗練された操作性とデザイン",
+      "完全無料・軽快動作"
+    ],
+    "description": "ハロウィンをモチーフにした可愛い絵柄のくるくるパズル♪\r<br>トロフィー機能が付いていてやり込めます。\r<br>\r<br>有料版には広告の表示がありません\r<br>\r<br>【更新履歴】\r<br>バグ修正\r<br>Android2.1に対応",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/4NKKCd1RdHG_j6j-V4H_hBLnJ7YtBmdAedDeSddjrqyvjMLtjOiP_G94dfiDFb0RVlS-f2LSnaZUBMAARYhtoQ",
+      "https://play-lh.googleusercontent.com/ty5AycPKhP5wvRz14QTtDWJQTefYkjb-_IbspQVbHfGCHEhXMqBbMMy5DHGNB3VKXUzak_5MlcZClEq_gYFtbg"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.pzl.kurukuru_y",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.pzl.kurukuru_y"
+  },
+  {
+    "id": "buunyan.game.blockline",
+    "title": "Block Line",
+    "catchphrase": "🧱 ブロックを一列に並べて消すラインパズル",
+    "category": "puzzle",
+    "category_label": "パズル・脳トレ",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/Pb0pp1unBfZKCr6D-FmJQ9euXExLKfDrkUtRw5qwUEF6fg0Me3rWDeFd6FiwnybbKcmAlLMA0GYNCkAkSG6Mkw",
+    "rating": "4.0",
+    "downloads": "10+",
+    "tags": [
+      "パズル",
+      "Android",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "シンプルで中毒性の高いブロックパズル！ラインを揃えて消し、ハイスコアを狙おう。世界中のプレイヤーと競",
+      "洗練された操作性とデザイン",
+      "完全無料・軽快動作"
+    ],
+    "description": "「Block Line」は、誰でも手軽に楽しめる、シンプルかつ奥深いブロックパズルゲームです。\r<br>\r<br>【遊び方】\r<br>\r<br>画面下の3つのブロックを8x8のボード上の好きな場所に配置しましょう。\r<br>縦または横のラインが隙間なく埋まると、そのラインのブロックが消えてスコアが加算されます。\r<br>一度に複数のラインを消すとボーナススコアを獲得！\r<br>ブロックを置ける場所がなくなるとゲームオーバーです。\r<br>【特徴】\r<br>\r<br>時間制限なし: 自分のペースでじっくり戦略を練ることができます。\r<br>ネットランキング機能: 世界中のプレイヤーとスコアを競い合い、トップランカーを目指しましょう！\r<br>カスタマイズ: 自分の名前やアイコンを設定して、お気に入りのスタイルでプレイ。\r<br>テーマ設定: ライトモードとダークモード、お好みに合わせてデザインを切り替え可能。\r<br>10ヶ国語対応: 日本語、英語をはじめ、多様な言語（中国語、ドイツ語、フランス語、スペイン語など）に対応。\r<br>リトライ機能: 広告を視聴することで、一度だけゲームを継",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/jLh-_59nchTlnnBeoKIRSDqCacQVIMdSWcVA_qhd2A-BKUkGgyIqypG6oTC2I8ZUkiJyN_hEWnSpy28Y_xxbDQ",
+      "https://play-lh.googleusercontent.com/QBl9sEbMBSJxVwJaI9efVc6HcKjcXK2PniLVUFA-Y0WQX91ZtjL5e4RKeNbUKOa4OO4ik3em23Pl-7MOUQSmTQ",
+      "https://play-lh.googleusercontent.com/HOcC9AoBp9Me93YSrSly7iUr3POg_amaHVhOFpbnLhqDMwNadvI-HOeJPPoDsEQmuxv6ttzLTZLfpeF67ojiBw",
+      "https://play-lh.googleusercontent.com/Hffclimt_ees3d1kP_FGMnuABD-2vm6WPZLHShetj0dGmarrFUPoauCZStavBJj39V3GXPhY71GJ_J4LkCfSy2s"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.game.blockline",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.game.blockline"
+  },
+  {
+    "id": "buunyan.game.jquantsquiz",
+    "title": "株価ヨソ王",
+    "catchphrase": "📈 株価チャートの動きを予測する投資クイズ",
+    "category": "tool",
+    "category_label": "便利ツール・日課",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/JBv9L2dFqIG10iGSRhdni2GOtxhVxXnElX5OTmC9VqpB9_Tr_ldNGDrE6G3vL7Hv5e79CyU-Mv183XtF79uINw",
+    "rating": "4.0",
+    "downloads": "5+",
+    "tags": [
+      "パズル",
+      "Android",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "実際の株価データで翌日の値動きを予想！チャートを読み解き、連勝記録に挑戦する本格株価クイズゲーム。",
+      "洗練された操作性とデザイン",
+      "完全無料・軽快動作"
+    ],
+    "description": "「株価ヨソ王」へようこそ！ 実際の市場データを使用した、スリリングな株価予想クイズアプリが登場！\r<br>\r<br>あなたはチャートの動きから未来を読み解くことができますか？ 「株価ヨソ王」は、過去の実際の株価チャートを見て、その翌日の終値が「上がる」か「下がる」かを当てるシンプルなクイズゲームです。\r<br>\r<br>【ゲームの特徴】\r<br>\r<br>リアルな市場データ: J-Quants APIを通じて取得した、実際の日本株のヒストリカルデータを使用。リアリティ溢れる体験が可能です。\r<br>10日間のチャート: 過去2週間（10営業日）の値動きを表示。トレンドを読み取り、直感と分析力で勝負！\r<br>連勝に挑め！: 正解すると連勝（STREAK）がカウントされます。どこまで記録を伸ばせるか、あなたの相場観が試されます。\r<br>全国ランキング: 全国のユーザーと最高連勝記録を競い合う「ネットランキング」を搭載。トッププレイヤーの座を目指しましょう！\r<br>実績システム: 特定の条件をクリアしてバッジを獲得。やりこみ要素も満載です。\r<br>\r<br>【こんな方におすすめ】\r<",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/iDIb9sHtS4vQNJqwurVVOxRKVdX5nuVFU_YmyM6V99LvYKlyoCCPDPdkw8y5OoSzaHWroH9XAQS1vulCZVXKN3c",
+      "https://play-lh.googleusercontent.com/WPWuB_8N5_IlaMxR9wvgDf_POwI2aRN9tVErrUOj8b9_h8cbYzsMAlhR085Px48rJ5dn1VXLLNFCAdFBk0jhAuo",
+      "https://play-lh.googleusercontent.com/7k_GOtT7XBCwOcVL-lGqfJgo4ku1-EUbRgEXkro5guwTwHOQvOfaW2dSH2C8da04-Okew99HjcM7bAYatzm-TA",
+      "https://play-lh.googleusercontent.com/Hf71FkJu5vgowvvTWaofYmyf3Ktbsu1LC9Ky08l0l7TbA6M7JjqP_TFchdqBVC53rWXiXvUaEgtwAtDTIRIsFwg"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.game.jquantsquiz",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.game.jquantsquiz"
+  },
+  {
+    "id": "buunyan.game.shakeshake",
+    "title": "SHAKE!SHAKE!（シェイク！シェイク！）",
+    "catchphrase": "📱 スマホを振って楽しむ体感アクションゲーム",
+    "category": "casual",
+    "category_label": "ゲーム・息抜き",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/M76uEkweS8PTlWlqg1-gMICFnWaQUSiAjgkaX_MGOLbctDAFTNW8ATbjXDmvafpniZamdqV4uOKlutwJGO_z-aI",
+    "rating": "4.0",
+    "downloads": "100+",
+    "tags": [
+      "スポーツ",
+      "Android",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "10秒間の限界突破！スマホを振って世界を揺らせ！",
+      "洗練された操作性とデザイン",
+      "完全無料・軽快動作"
+    ],
+    "description": "「SHAKE!SHAKE!」は、誰でもどこでも楽しめる、究極にシンプルな「スマホ振り」アクションゲームです。 ルールはたった一つ。制限時間内にスマホを全力で振るだけ！\r<br>\r<br>日頃のストレスを力に変えて、腕がパンパンになるまで振りまくれ！君の振りの鋭さが、世界ランキングを塗り替える。\r<br>\r<br>主な特徴\r<br>3つの計測モード: 瞬発力の「10秒」、持久力も問われる「30秒」、そして自分との戦い「60秒」。各モードで最高記録を目指せ！\r<br>リアルタイム・ネットランキング: 全国のライバルたちとスコアを競い合おう。君は伝説のシェイカーになれるか？\r<br>やり込み要素満載の実績システム: 合計シェイク回数や驚異的なスコアなど、様々な称号をアンロックしよう！\r<br>洗練されたiOS風デザイン: シンプルで美しいUI。ライトモード・ダークモードにも完全対応し、どんな環境でも快適にプレイ可能。\r<br>ニックネーム登録: 自分だけの名前でランキングに刻み込め！\r<br>こんな人におすすめ！\r<br>短時間でスカッとしたい方\r<br>自分の限界に挑戦したいストイックな方",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/wREbkvSThvgCoivFyw923MS0BNL8hwcba8uwnUelv0ya3TkxNyGxCXslR7cCRZQVt-XYK9GL28kmTqN8bIfZ",
+      "https://play-lh.googleusercontent.com/P-QegYkieEK-Qb3MQ4ULdZOD_lo5XMj6KnxHC7ym3P0qvhdCkbPHj103JWTutcBvJSQMOgSPaSrvGk3Hs7GR7Q",
+      "https://play-lh.googleusercontent.com/gGC29LCrTCRpyC_dmbqf1q5ofMz_ZVPF_Zy4lR7INTrg35vpJ5oyBj6y_88Iv-P2bIJORCwnyuPkzvRcLdXBADM",
+      "https://play-lh.googleusercontent.com/oP8bsAjx5soPz6e3T8AOvG4ONS-IHTjK4tlIlzqkTJNnb_wfB0XnWcb_nurLbPlDTlNuJPzbRojmHEP2_1iv"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.game.shakeshake",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.game.shakeshake"
+  },
+  {
+    "id": "buunyan.tool.voicetoken",
+    "title": "Voice Token",
+    "catchphrase": "🎙️ 音声をトークン化・テキスト変換する便利ツール",
+    "category": "tool",
+    "category_label": "便利ツール・日課",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/POPfH9IR8O1F9sZpGT-BMvdD5h2bNeIPJ3KpqztBCPUFWceEhUVcJ9BqAaUfR8eLfOZahrqAb7ss_gceNMYrCgA",
+    "rating": "4.0",
+    "downloads": "10+",
+    "tags": [
+      "仕事効率化",
+      "Android",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "録音してAIで文字起こし！要約も一瞬。ポイ活感覚で使えるAIボイスレコーダー。",
+      "洗練された操作性とデザイン",
+      "完全無料・軽快動作"
+    ],
+    "description": "「Voice Token（ボイストークン）」は、あなたの「声」を価値ある「テキスト」に変える、新世代のAIボイスレコーダーです。 会議の議事録、講義のメモ、ふと思いついたアイデア。録音するだけで、最新のAI（Gemini）が正確に文字起こしを行います。\r<br>\r<br>最大の特徴は、独自の「ポイントシステム」です。 動画広告の視聴やログインボーナスでポイントを貯めることができ、貯まったポイントを使って無料でAI文字起こしを実行できます。高価な文字起こしサービスをためらっていた方も、ポイ活感覚で気軽にお使いいただけます。\r<br>\r<br>主な機能:\r<br>\r<br>高機能録音: 最大1時間の長時間録音に対応。バックグラウンド録音やリアルタイム波形表示で、録音状況を一目で確認できます。\r<br>高精度AI文字起こし: Googleの最新AI「Gemini」を搭載。話し手を高い精度で読み取り、素早くテキスト化します。\r<br>要約・タスク抽出: 文字起こし結果から、瞬時に「要約」や「ネクストアクション」を抽出。振り返りの時間を大幅に短縮します。\r<br>ポイ活で無料利用: 広告視聴など",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/0zKUgzGmWoJGZn1-tzx01jx4XBgFfpeLirtSj_3uIH4a_6nhE7cn3xxvno0v0Y5vhoSJMrcWYbFeMFH3FOvG",
+      "https://play-lh.googleusercontent.com/r3U-oSerXWFfKm2bnzXf9iJiXGPRRQVFQehzB_LOk2L2Z0sTtMp3dA-ntfIpczmHfoSLA8OMes2WdTEbaEhuAv8",
+      "https://play-lh.googleusercontent.com/b0lOfu0JdOzs6voFHW2a-Lms6-c-YNbXaGbXc9sRyIk3WmH8agbhDWEu79w8LsV0FkQJO69Lzx0ZSnQCgIe-T2o",
+      "https://play-lh.googleusercontent.com/wD1_avGOcl8Omq76LEk6GbbIMgYf9qGZJpYQTA0W0YhRvlOtHzNV82lvKgjwRZJ4cVBOAKEzdCiaRpi_dg-dXQ"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.voicetoken",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.voicetoken"
+  },
+  {
+    "id": "buunyan.tool.aifacemorpher",
+    "title": "AI Face Morpher",
+    "catchphrase": "👤 AIで顔写真をモーフィング・変形するクリエイティブアプリ",
+    "category": "tool",
+    "category_label": "便利ツール・日課",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/ucL6aqZcR0fWcIrf3AwC_G2hkNjM4WeE8IueFr5Y70XTZmURRc2Kx6iztkpzQnFKf5Z2Tr4Mr-bgrUmcMQxr",
+    "rating": "4.0",
+    "downloads": "100+",
+    "tags": [
+      "写真",
+      "Android",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "2つの顔をAIで滑らかに合成！驚きのモーフィング体験。静止画、GIF、動画で保存・共有が可能。",
+      "洗練された操作性とデザイン",
+      "完全無料・軽快動作"
+    ],
+    "description": "「もしも、自分とあの人の顔を合わせたら？」 AI Face Morpherは、最新のAI技術（顔認識）を使用して、2つの顔を驚くほど滑らかに合成するモーフィングアプリです。\r<br>\r<br>家族や友達、あるいは自分の子供の頃の画像を使って、面白い変化を楽しんでみませんか？\r<br>\r<br>【主な機能】\r<br>\r<br>高精度モーフィング: AIが顔のパーツを正確に捉え、2つの画像を継ぎ目なくブレンドします。\r<br>「子供化」シミュレーション: AIの力で、顔を幼く（子供のように）変化させる特殊なフィルタ機能を搭載。\r<br>多彩な保存形式:\r<br>静止画: 絶妙なバランスで混ざり合った瞬間を写真として保存。\r<br>GIFアニメーション: AからBへ、繰り返し変化するループアニメ。\r<br>MP4動画: 滑らかな変化を動画として保存し、SNS投稿に最適。\r<br>簡単シェア: 作成した画像や動画を、X (旧Twitter)、Instagram、LINE、FacebookなどのSNSへすぐに共有できます。\r<br>多言語対応: 日本語、英語、中国語をはじめ、10ヶ国語以上をサポ",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/30gZhe6q61XQ3oxft3rgLUGIlKAghk2VmDLBz3tkPQzHo5juAR6-o2LrztGGSxeW2Q0_z0j3skKl635pJhVh0Q",
+      "https://play-lh.googleusercontent.com/SqJ-fnjcEpdGAxrb3PQ7z70o6-ZUiIrx6R-mMUF5Gcz2gFjWR1vWdYQPQqh251-2AFsqARvSRHyoJUaCamNyaQ",
+      "https://play-lh.googleusercontent.com/tfri9XYt6U3NH26i5SQ40ZwtW54ug5UlhwWPmtjG1STGeqHY3ifDvTvoK6_XLRsu9ZmOktcz3R2sia-bQ64ofnU",
+      "https://play-lh.googleusercontent.com/FH2UMePbOwvoqfT1GMne5hUPJT_pb-cuL9LH1ixH_pWEbWIC6SKLt381D1Nr_BBe-H0QQ7uFMDfkxOdwygEV"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.aifacemorpher",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.aifacemorpher"
+  },
+  {
+    "id": "buunyan.tool.pricecompare",
+    "title": "どっちが安い？",
+    "catchphrase": "🛒 容量と価格を入力して最安値を即判定！",
+    "category": "tool",
+    "category_label": "便利ツール・日課",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/Y7MavZiKWMZgfeZYiqyOkXtRQoiqVhjFCMIa4Jz-AD_naAP7JKGIpNiBPxEWESiIH52NwJB-EqfcomGVb3a8",
+    "rating": "4.0",
+    "downloads": "10+",
+    "tags": [
+      "ショッピング",
+      "Android",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "【どっちが安い？】一瞬でわかる価格比較！シンプル操作で底値、割引、ポイント計算も。",
+      "洗練された操作性とデザイン",
+      "完全無料・軽快動作"
+    ],
+    "description": "「アプリの詳細」セクションに使用すると、ユーザーに特徴が伝わりやすくなります。\r<br>\r<br>【どっちが安い？ - シンプル・爆速・価格比較アプリ】\r<br>\r<br>スーパーでの買い物中、「100g入りの通常パックと、150g入りの詰め替え用、結局どっちが安いの？」と迷ったことはありませんか？ このアプリは、そんな日々の小さな悩みを一瞬で解決する、シンプルさにこだわった価格比較・最安値計算ツールです。\r<br>\r<br>■ 「どっちが安い？」の主な特徴\r<br>\r<br>かんたん爆速操作: 重さ(g)・個数・価格を入力するだけで、どちらがお得か即座に判定。\r<br>あらゆる単位に対応: グラム(g)、ミリリットル(ml)、メートル(m)、個数、枚数など、あらゆる単位の比較が可能。\r<br>ポイント・割引計算: ポイント還元や「30%OFF」などの割引、税込・税抜の混在計算もバッチリ対応。\r<br>一目でわかる結果: お得な方が光ってお知らせ！ハイライト機能で、どちらを買うべきか迷わせません。\r<br>デザインへのこだわり: 夜の買い物でも目に優しいダークモードや、洗練されたモダン",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/oxZjLEHVGTTMHvxWEkCECTM15WFcBJ8dQG_hsJuamDSu0RuF4amRXp_76g0i12_bICjiSq6NzMu5od7x0h1Qtg",
+      "https://play-lh.googleusercontent.com/xmuVy9Eh-fJcm9wCfO1pZH4Xac5byMGpIiFVP8QE_tXdwZ72u6pIuGtEDWHn9-KWCKkn855if1DnQKTikKJNqg",
+      "https://play-lh.googleusercontent.com/RPQ7caXtkbEMSFpOIGzLKmLz8Dl4H-U44K1u5WclpLUUJnP6ns3GcxUo4BGe7rP-RP0huB2w_p_w4P2SGt3t",
+      "https://play-lh.googleusercontent.com/fCxJMD0tI1UL2ARv1i4eqO68IlieQH0QrbnLYu3NrGEm9q-St5Y-pOVUf6m2snZJm9QI09wCycRBzKjNEit3uQ"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.pricecompare",
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.pricecompare"
+  }
+]

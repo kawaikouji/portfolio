@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs & temp
+*.log
+scratch/
+.system_generated/

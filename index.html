@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="ja" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>bu-nyan Apps | 旅・探求・日常をもっと豊かにするスマートフォンアプリ</title>
+  
+  <meta name="description" content="個人アプリ開発者「bu-nyan」の自作Androidアプリ紹介ポータル。道の駅ナビ、ダムカードナビ、一ノ宮ナビ、名水百選ナビ、モザイク博物館、ドレミボイス、スマートビンゴなど、旅や学び・日常を彩るこだわりのアプリをお届けします。">
+  <meta property="og:title" content="bu-nyan Apps | 旅・探求・日常をもっと豊かにするスマートフォンアプリ">
+  <meta property="og:description" content="全国の道の駅・ダム・神社・名水めぐりから、広告なし読譜トレーニング、アートクイズ、イベントビンゴまで。Google Playで好評配信中！">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://play.google.com/store/apps/dev?id=6874100708327409187">
+  <meta property="og:image" content="https://play-lh.googleusercontent.com/YuWvyB-YcIfukoYptSTqw-xYxJJSej_DkqX6pO-58HqmibF_Umu9F5chTSyTAi7z1Q">
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=BIZ+UDPGothic:wght@400;700&display=swap" rel="stylesheet">
+  
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" type="image/png" href="https://play-lh.googleusercontent.com/mvMrSdl5O2AWYB9HBFTACbnUG9xSqRo53qycbR4Kdo2p32-NAhSUKZrESoA-Y6un6zS4T5tN6q01bsDi_Afm-g=s128">
+</head>
+<body>
+
+  <!-- Site Header -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="#" class="brand-logo">
+        <div class="brand-icon-wrapper">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="5" y="2" width="14" height="20" rx="3" ry="3"></rect>
+            <line x1="12" y1="18" x2="12.01" y2="18"></line>
+          </svg>
+        </div>
+        <div>
+          <span class="brand-text">bu-nyan Apps</span>
+          <span class="brand-sub">Google Play Developer</span>
+        </div>
+      </a>
+
+      <div class="header-actions">
+        <button class="theme-toggle-btn" id="themeToggleBtn" aria-label="テーマ切り替え" title="ライトモードに切り替え">
+          <!-- Icon injected by JS -->
+        </button>
+
+        <a href="https://play.google.com/store/apps/dev?id=6874100708327409187" target="_blank" rel="noopener noreferrer" class="btn-store-nav">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M3.609 1.814L13.793 12 3.61 22.186c-.347-.28-.56-.7-.56-1.186V3c0-.486.213-.906.56-1.186zM15.207 13.414l2.422 2.422-11.45 6.44 9.028-8.862zm0-2.828L6.179 1.724l11.45 6.44-2.422 2.422zm1.414 1.414l3.195-1.797c.725-.408.725-1.077 0-1.485L16.621 12l3.195 1.797c.725.408.725 1.077 0 1.485L16.621 12z"/>
+          </svg>
+          <span>Google Play ストア</span>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero-section">
+    <div class="container">
+      <div class="hero-badge">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+          <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+        </svg>
+        <span>bu-nyan 自作アプリコレクション</span>
+      </div>
+
+      <h1 class="hero-title">
+        <span class="title-line">旅・探求・日常を彩る、</span>
+        <span class="text-gradient title-line">心地よい実用アプリたち</span>
+      </h1>
+
+      <p class="hero-description">
+        全国の「道の駅」「ダム」「神社」「名水」をめぐるドライブ・スタンプ帳から、<br class="pc-only">
+        完全広告なしの音声読譜トレーニング、国宝美術クイズ、パーティーを彩るペーパーレスビンゴまで。<br class="pc-only">
+        「本当に使いたいもの」を形にしたこだわりの作品をお届けします。
+      </p>
+
+      <div class="hero-cta-group">
+        <a href="#showcase" class="btn-primary-hero">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="12" r="10"></circle>
+            <polyline points="8 12 12 16 16 12"></polyline>
+            <line x1="12" y1="8" x2="12" y2="16"></line>
+          </svg>
+          アプリ一覧を見る
+        </a>
+        <a href="https://play.google.com/store/apps/dev?id=6874100708327409187" target="_blank" rel="noopener noreferrer" class="btn-secondary-hero">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M3.609 1.814L13.793 12 3.61 22.186c-.347-.28-.56-.7-.56-1.186V3c0-.486.213-.906.56-1.186zM15.207 13.414l2.422 2.422-11.45 6.44 9.028-8.862zm0-2.828L6.179 1.724l11.45 6.44-2.422 2.422zm1.414 1.414l3.195-1.797c.725-.408.725-1.077 0-1.485L16.621 12l3.195 1.797c.725.408.725 1.077 0 1.485L16.621 12z"/>
+          </svg>
+          Google Play で全作品をチェック
+        </a>
+      </div>
+
+      <!-- Stats Ribbon -->
+      <div class="stats-ribbon">
+        <div class="stat-item">
+          <span class="stat-number">96</span>
+          <span class="stat-label">公開アプリタイトル</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-number">3,000+</span>
+          <span class="stat-label">収録スポット数（城/山/道の駅/滝等）</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-number">100%</span>
+          <span class="stat-label">使いやすさ重視の独自開発</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-number">★4.5+</span>
+          <span class="stat-label">ユーザーからの高評価獲得</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Filter Navigation Section -->
+  <nav class="filter-section" id="showcase">
+    <div class="container">
+      <div class="filter-tabs">
+        <button class="filter-tab active" data-category="all">すべて表示</button>
+        <button class="filter-tab" data-category="travel">🚙 旅・ドライブ・巡礼</button>
+        <button class="filter-tab" data-category="education">🎨 学習・知育・音楽</button>
+        <button class="filter-tab" data-category="game">🧩 パズル・ゲーム</button>
+        <button class="filter-tab" data-category="tool">⚡ 便利ツール・イベント</button>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Apps Showcase Grid Section -->
+  <section class="showcase-section">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="section-title">自作アプリ コレクション</h2>
+        <span class="section-count" id="appCount">7 個のアプリを表示中</span>
+      </div>
+
+      <div class="apps-grid" id="appsGrid">
+        <!-- Rendered by JavaScript -->
+      </div>
+    </div>
+  </section>
+
+  <!-- About Developer Section -->
+  <section class="about-section">
+    <div class="container">
+      <div class="about-card">
+        <div class="about-avatar-wrap">
+          <div class="about-avatar">
+            <svg viewBox="0 0 24 24" fill="currentColor">
+              <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 3c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3zm0 14.2c-2.5 0-4.71-1.28-6-3.22.03-1.99 4-3.08 6-3.08 1.99 0 5.97 1.09 6 3.08-1.29 1.94-3.5 3.22-6 3.22z"/>
+            </svg>
+          </div>
+          <h3 class="about-dev-name">bu-nyan</h3>
+          <p class="about-dev-role">Android / Flutter アプリ個人開発者</p>
+        </div>
+
+        <div>
+          <h2 class="about-heading">「旅先や現場で、本当に役立つアプリを」</h2>
+          <p class="about-text">
+            日本全国のドライブ旅行や車中泊、ダム巡り、神社参拝を楽しむ中で、「もっとシンプルに、現在地からすぐ目的の施設が見つかるアプリがあればいいのに」「無駄な通信や過剰な広告に邪魔されずに、サクサク記録したい」という個人的な強い願いからアプリ開発をスタートしました。
+          </p>
+          <p class="about-text">
+            さらに、マイクを使った直感的な読譜トレーニングアプリや、公式オープンデータ（ジャパンサーチ等）を活用した美術クイズなど、知的好奇心を刺激するアプリにも挑戦しています。
+          </p>
+
+          <div class="features-list">
+            <div class="feature-box">
+              <div class="feature-box-title">
+                <span style="color: var(--accent-emerald);">📍</span>
+                <span>現場目線のオフライン・GPS設計</span>
+              </div>
+              <p class="feature-box-desc">電波の届きにくい山間部や旅先でもスムーズに動作する軽量・安心設計を追求しています。</p>
+            </div>
+
+            <div class="feature-box">
+              <div class="feature-box-title">
+                <span style="color: var(--primary-light);">🚫</span>
+                <span>クリーンなユーザー体験</span>
+              </div>
+              <p class="feature-box-desc">学習や操作の集中を妨げないクリーンなUI。一部アプリでは「完全広告なし」を実現しています。</p>
+            </div>
+
+            <div class="feature-box">
+              <div class="feature-box-title">
+                <span style="color: var(--accent-amber);">🏛️</span>
+                <span>公式オープンデータの活用</span>
+              </div>
+              <p class="feature-box-desc">環境省や国立国会図書館ジャパンサーチなどの公式データを活用し、高精度かつ豊かな情報を提供します。</p>
+            </div>
+
+            <div class="feature-box">
+              <div class="feature-box-title">
+                <span style="color: var(--accent-cyan);">✨</span>
+                <span>細部へのこだわり</span>
+              </div>
+              <p class="feature-box-desc">心地よいバイブレーション触覚フィードバックや滑らかなアニメーションで使う楽しさを演出します。</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Site Footer -->
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div class="brand-logo">
+        <div class="brand-icon-wrapper" style="width: 32px; height: 32px;">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="width: 18px; height: 18px;">
+            <rect x="5" y="2" width="14" height="20" rx="3" ry="3"></rect>
+            <line x1="12" y1="18" x2="12.01" y2="18"></line>
+          </svg>
+        </div>
+        <span class="brand-text">bu-nyan Apps</span>
+      </div>
+
+      <nav class="footer-nav">
+        <a href="#showcase">アプリ一覧</a>
+        <a href="https://play.google.com/store/apps/dev?id=6874100708327409187" target="_blank" rel="noopener noreferrer">Google Play デベロッパー</a>
+        <a href="https://roadstation-17ca6.web.app/" target="_blank" rel="noopener noreferrer">道の駅ナビ 公式サポート</a>
+      </nav>
+
+      <p class="footer-copy">
+        &copy; 2026 bu-nyan. All rights reserved.<br>
+        Google Play および Google Play ロゴは、Google LLC の商標です。
+      </p>
+    </div>
+  </footer>
+
+  <!-- App Detail Modal -->
+  <div class="modal-backdrop" id="appModal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <div class="modal-content">
+      <button class="modal-close-btn" id="modalCloseBtn" aria-label="閉じる">&times;</button>
+      
+      <div class="modal-header">
+        <img src="" alt="" id="modalIcon" class="modal-icon">
+        <div class="modal-title-group">
+          <span class="card-badge" id="modalCategory"></span>
+          <h2 id="modalTitle"></h2>
+          <p id="modalCatchphrase" style="color: var(--text-muted); font-size: 0.95rem; margin-top: 4px;"></p>
+        </div>
+      </div>
+
+      <div class="modal-body-section">
+        <h4 class="modal-section-title">
+          <span>🌟</span>
+          <span>主な機能・特徴</span>
+        </h4>
+        <ul class="app-highlights" id="modalHighlights">
+          <!-- Injected by JS -->
+        </ul>
+      </div>
+
+      <div class="modal-gallery">
+        <h4 class="modal-gallery-title">📸 スクリーンショット（クリックで原寸表示）</h4>
+        <div class="modal-screens-carousel" id="modalScreens">
+          <!-- Injected by JS -->
+        </div>
+      </div>
+
+      <div class="modal-body-section">
+        <h4 class="modal-section-title">
+          <span>📖</span>
+          <span>アプリ詳細説明</span>
+        </h4>
+        <div class="modal-desc-text" id="modalDescription">
+          <!-- Injected by JS -->
+        </div>
+      </div>
+
+      <div class="modal-footer">
+        <a href="#" target="_blank" rel="noopener noreferrer" id="modalPlayBtn" class="btn-play-store" style="padding: 12px 28px; font-size: 1rem;">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M3.609 1.814L13.793 12 3.61 22.186c-.347-.28-.56-.7-.56-1.186V3c0-.486.213-.906.56-1.186zM15.207 13.414l2.422 2.422-11.45 6.44 9.028-8.862zm0-2.828L6.179 1.724l11.45 6.44-2.422 2.422zm1.414 1.414l3.195-1.797c.725-.408.725-1.077 0-1.485L16.621 12l3.195 1.797c.725.408.725 1.077 0 1.485L16.621 12z"/>
+          </svg>
+          Google Play でインストール
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="assets/data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
