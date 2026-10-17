@@ -2131,20 +2131,22 @@
   {
     "id": "com.tool.fieldlink",
     "title": "FieldLink (フィールドリンク)",
-    "catchphrase": "💡 ラインを繋いで光を灯す爽快パズル",
-    "category": "puzzle",
-    "category_label": "パズル・脳トレ",
+    "catchphrase": "現場の画面を会議室に転送",
+    "category": "tool",
+    "category_label": "便利ツール・日課",
     "badge": "NEW",
     "icon": "https://play-lh.googleusercontent.com/l3JxdOtyJm9YJuOQ0RBtOuuL15PRZpvTiWD6NKqAAEmkgOkr9An1o1-3B4j2avIXGFhU8VsMdG_mTDJbGoMcytg",
     "rating": "4.0",
     "downloads": "5+",
     "tags": [
       "ビジネス",
+      "リモートカメラ",
+      "便利ツール",
       "Android",
       "bu-nyan"
     ],
     "highlights": [
-      "スマホ2台で、現場を繋ぐ。遠隔指示をよりスマートに。",
+      "現場の映像をリアルタイムに会議室へ共有",
       "シンプルで直感的な操作性",
       "完全無料・軽快動作"
     ],
@@ -2310,36 +2312,6 @@
     ],
     "play_url": "https://play.google.com/store/apps/details?id=buunyan.pzl.touchnumber",
     "url": "https://play.google.com/store/apps/details?id=buunyan.pzl.touchnumber"
-  },
-  {
-    "id": "com.jsrtknt.gunma71th",
-    "title": "第71回関東支部研究発表大会",
-    "catchphrase": "📋 学会・研究発表大会スケジュール＆抄録ナビ",
-    "category": "tool",
-    "category_label": "便利ツール・日課",
-    "badge": "NEW",
-    "icon": "https://play-lh.googleusercontent.com/kG34pl-Mknndm_M4IfMdZUpRctrg_qUqLY_PGrf1QoxRSWsg_lISzikichXa-590diBu2FBuDoUzYDpFWBH_qA",
-    "rating": "4.0",
-    "downloads": "50+",
-    "tags": [
-      "教育",
-      "Android",
-      "bu-nyan"
-    ],
-    "highlights": [
-      "JSRT 第71回関東支部研究発表大会 公式抄録閲覧アプリ",
-      "シンプルで直感的な操作性",
-      "完全無料・軽快動作"
-    ],
-    "description": "JSRT 第71回関東支部研究発表大会 公式抄録閲覧アプリです．\r<br>オフラインで日程表や抄録の閲覧が行えます．\r<br>（抄録本文の閲覧には閲覧パスワードが必要です．）\r<br>便利な機能として，演者や発表タイトルのキーワード検索が行えます．",
-    "screenshots": [
-      "https://play-lh.googleusercontent.com/sozOlOIBbT7uCsOhG92cqGPkhOcGwKn4FgFO_kZulxZ2GekKXp-gFoDlkKtmJHSZoaMQb6UKJUYWBmstAtlaCg",
-      "https://play-lh.googleusercontent.com/Yhg6-dy3jvj1ohHTkRQbhy7wmJxVFsIOvdb12RYbYZKjrvwPTHpNID5zPx43Irg4KbxsAE0Olf4ZiqM367SC6A",
-      "https://play-lh.googleusercontent.com/XoPcwb2nOl31mILqUWnh4hP-36r1UjLmDnnAgXgyE4YRcZv8_2sZwYIeypd5TxygXeKdzYsk7yL3SlImB3O0zw",
-      "https://play-lh.googleusercontent.com/CxBRn4V2AUhu5agmCe8F34GsdB6Y5LjrFrI-_DqEam0-Rh9za0X3bwdeISSdcpkMpL1gx_fV2bxIpYi9RTRZgw"
-    ],
-    "play_url": "https://play.google.com/store/apps/details?id=com.jsrtknt.gunma71th",
-    "url": "https://play.google.com/store/apps/details?id=com.jsrtknt.gunma71th"
   },
   {
     "id": "constitution.tool.buunyan.constitution",
