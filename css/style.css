@@ -1037,6 +1037,8 @@ button {
   .modal-screens-carousel img {
     height: 240px;
   }
+}
+
 /* Work Request / Contact Styles */
 .top-notice-banner {
   background: linear-gradient(90deg, #1e1b4b, #312e81, #1e1b4b);
