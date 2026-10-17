@@ -234,16 +234,22 @@ document.addEventListener('DOMContentLoaded', () => {
   let currentLightboxIndex = 0;
 
   function openLightbox(appId, index = 0) {
-    const app = appsData.find(a => a.id === appId);
+    if (!appId) return;
+    const app = appsData.find(a => String(a.id) === String(appId));
     if (!app || !app.screenshots || app.screenshots.length === 0) return;
 
     currentLightboxApp = app;
-    currentLightboxIndex = index;
+    currentLightboxIndex = parseInt(index, 10) || 0;
     updateLightboxContent();
 
-    lightboxBackdrop.classList.add('open');
+    if (lightboxBackdrop) {
+      lightboxBackdrop.classList.add('open');
+    }
     document.body.style.overflow = 'hidden';
   }
+
+  // Expose globally for inline onclick or external calls
+  window.openLightbox = openLightbox;
 
   function updateLightboxContent() {
     if (!currentLightboxApp || !currentLightboxApp.screenshots) return;
@@ -253,23 +259,29 @@ document.addEventListener('DOMContentLoaded', () => {
     if (currentLightboxIndex < 0) currentLightboxIndex = screens.length - 1;
     if (currentLightboxIndex >= screens.length) currentLightboxIndex = 0;
 
-    lightboxImg.src = screens[currentLightboxIndex];
-    lightboxCaption.textContent = `${currentLightboxApp.title} (${currentLightboxIndex + 1} / ${screens.length})`;
+    if (lightboxImg) {
+      lightboxImg.src = screens[currentLightboxIndex];
+    }
+    if (lightboxCaption) {
+      lightboxCaption.textContent = `${currentLightboxApp.title} (${currentLightboxIndex + 1} / ${screens.length})`;
+    }
 
     // Hide or dim arrows if only 1 image
     if (screens.length <= 1) {
-      lightboxPrevBtn.style.display = 'none';
-      lightboxNextBtn.style.display = 'none';
+      if (lightboxPrevBtn) lightboxPrevBtn.style.display = 'none';
+      if (lightboxNextBtn) lightboxNextBtn.style.display = 'none';
     } else {
-      lightboxPrevBtn.style.display = 'flex';
-      lightboxNextBtn.style.display = 'flex';
+      if (lightboxPrevBtn) lightboxPrevBtn.style.display = 'flex';
+      if (lightboxNextBtn) lightboxNextBtn.style.display = 'flex';
     }
   }
 
   function closeLightbox() {
-    lightboxBackdrop.classList.remove('open');
+    if (lightboxBackdrop) {
+      lightboxBackdrop.classList.remove('open');
+    }
     // If main modal is not open, restore scroll
-    if (!modalBackdrop.classList.contains('open')) {
+    if (!modalBackdrop || !modalBackdrop.classList.contains('open')) {
       document.body.style.overflow = '';
     }
     currentLightboxApp = null;
@@ -295,12 +307,26 @@ document.addEventListener('DOMContentLoaded', () => {
 
   if (lightboxBackdrop) {
     lightboxBackdrop.addEventListener('click', (e) => {
-      // Close on background click
+      // Close on background click (excluding img or nav buttons)
       if (e.target === lightboxBackdrop || e.target.classList.contains('lightbox-image-container')) {
         closeLightbox();
       }
     });
   }
+
+  // Document-level event delegation for all screenshot clicks
+  document.addEventListener('click', (e) => {
+    const targetThumb = e.target.closest('.screen-thumb, #modalScreens img, img[data-app-id]');
+    if (targetThumb) {
+      e.preventDefault();
+      e.stopPropagation();
+      const appId = targetThumb.getAttribute('data-app-id');
+      const index = parseInt(targetThumb.getAttribute('data-index'), 10) || 0;
+      if (appId) {
+        openLightbox(appId, index);
+      }
+    }
+  });
 
   function closeModal() {
     modalBackdrop.classList.remove('open');
