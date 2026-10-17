@@ -32,7 +32,8 @@ window.APPS_DATA = [
       "現在地から一番近いスポットを即座にリストアップ"
     ],
     "badge": "人気No.1",
-    "url": "https://play.google.com/store/apps/details?id=com.buunyan.road_station&hl=ja"
+    "url": "https://play.google.com/store/apps/details?id=com.buunyan.road_station&hl=ja",
+    "ios_url": "https://apps.apple.com/jp/app/%E9%81%93%E3%81%AE%E9%A7%85%E3%83%8A%E3%83%93-%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E6%97%85%E3%82%92%E3%82%82%E3%81%A3%E3%81%A8%E6%A5%BD%E3%81%97%E3%81%8F/id6648780363"
   },
   {
     "id": "com.buunyan.dam_navi",
@@ -439,7 +440,8 @@ window.APPS_DATA = [
       "自分で撮影した城郭の写真やメモを残せる訪問日記機能"
     ],
     "badge": "名城ファン必携",
-    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.castle100&hl=ja"
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.castle100&hl=ja",
+    "ios_url": "https://apps.apple.com/jp/app/100%E5%90%8D%E5%9F%8E%E3%83%8A%E3%83%93-%E6%97%A5%E6%9C%AC%E7%99%BE%E5%90%8D%E5%9F%8E%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E5%B8%B3/id6762124280"
   },
   {
     "id": "buunyan.tool.mountaion100",
@@ -604,7 +606,8 @@ window.APPS_DATA = [
       "通信が不安定な非常時にも配慮した軽量＆見やすい高視認性UI"
     ],
     "badge": "防災必携",
-    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.gotohome&hl=ja"
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.gotohome&hl=ja",
+    "ios_url": "https://apps.apple.com/jp/app/%E3%81%8A%E3%81%86%E3%81%A1%E3%81%AB%E5%B8%B0%E3%82%8D%E3%81%86/id6727000111"
   },
   {
     "id": "buunyan.tool.radio",
@@ -802,7 +805,8 @@ window.APPS_DATA = [
       "子どもから大人、旅行好き・雑学好きまで幅広く楽しめる"
     ],
     "badge": "地理・知育",
-    "url": "https://play.google.com/store/apps/details?id=buunyan.quiz.nationalflags&hl=ja"
+    "url": "https://play.google.com/store/apps/details?id=buunyan.quiz.nationalflags&hl=ja",
+    "ios_url": "https://apps.apple.com/jp/app/%E5%9B%BD%E6%97%97%E3%82%AF%E3%82%A4%E3%82%BA-%E4%BD%95%E5%95%8F%E6%AD%A3%E8%A7%A3%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%8B/id6633437585"
   },
   {
     "id": "buunyan.sports.darts",
@@ -866,7 +870,8 @@ window.APPS_DATA = [
       "余計な演出がなく思考に没頭できるクリーンなデザイン"
     ],
     "badge": "新感覚パズル",
-    "url": "https://play.google.com/store/apps/details?id=buunyan.pzl.number&hl=ja"
+    "url": "https://play.google.com/store/apps/details?id=buunyan.pzl.number&hl=ja",
+    "ios_url": "https://apps.apple.com/jp/app/numberset/id6642684030"
   },
   {
     "id": "buunyan.game.solitaire",
@@ -1000,7 +1005,8 @@ window.APPS_DATA = [
     "catchphrase": "懐かしの駄菓子屋メダルじゃんけん！CPU対戦でフィーバーを目指せ！",
     "play_url": "https://play.google.com/store/apps/details?id=buunyan.etc.janken",
     "url": "https://play.google.com/store/apps/details?id=buunyan.etc.janken",
-    "badge": "ゲーム・パズル"
+    "badge": "ゲーム・パズル",
+    "ios_url": "https://apps.apple.com/jp/app/%E3%81%98%E3%82%83%E3%82%93%E3%81%91%E3%82%93%E3%83%9D%E3%83%B3/id6618151541"
   },
   {
     "id": "buunyan.tool.mangekyou",
@@ -1062,7 +1068,8 @@ window.APPS_DATA = [
       "https://play-lh.googleusercontent.com/CNjE5j9XawVvV7X0rMuPexaCiVe8fcdP0C9P6lluox06v-U-LZE29Fl47H4Kwkkj9TJr-4z94nNhY-2Y_Qh4tA"
     ],
     "play_url": "https://play.google.com/store/apps/details?id=postsearch.buunyan.com.postsearch&hl=ja",
-    "url": "https://play.google.com/store/apps/details?id=postsearch.buunyan.com.postsearch&hl=ja"
+    "url": "https://play.google.com/store/apps/details?id=postsearch.buunyan.com.postsearch&hl=ja",
+    "ios_url": "https://apps.apple.com/jp/app/%E9%83%B5%E4%BE%BF%E6%A4%9C%E7%B4%A2/id6463494553"
   },
   {
     "id": "com.tool.buunyan.ejdic",
@@ -1094,7 +1101,8 @@ window.APPS_DATA = [
       "https://play-lh.googleusercontent.com/CSCdZGWcdV4NMNbgbb0Yb4yOX3oWgMcyiaJZtFUra1t_6hchG83Dli6XlL34iylh2_GEQtwoF1DFIUOutneFHg"
     ],
     "play_url": "https://play.google.com/store/apps/details?id=com.tool.buunyan.ejdic&hl=ja",
-    "url": "https://play.google.com/store/apps/details?id=com.tool.buunyan.ejdic&hl=ja"
+    "url": "https://play.google.com/store/apps/details?id=com.tool.buunyan.ejdic&hl=ja",
+    "ios_url": "https://apps.apple.com/jp/app/%E8%8B%B1%E5%92%8C%E8%BE%9E%E5%85%B8/id6670284208"
   },
   {
     "id": "buunyan.tool.chime",
@@ -1124,7 +1132,8 @@ window.APPS_DATA = [
       "https://play-lh.googleusercontent.com/D8vAc-WwtZz11ygDEefFXBoX-51JpRs6E40XwhhUilMuPutv6AYWDrVh5oWeOC5qagzhtOOI3EukkvY5jyf3iw"
     ],
     "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.chime&hl=ja",
-    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.chime&hl=ja"
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.chime&hl=ja",
+    "ios_url": "https://apps.apple.com/jp/app/%E3%83%81%E3%83%A3%E3%82%A4%E3%83%A0-%E6%87%90%E3%81%8B%E3%81%97%E3%81%AE%E3%81%82%E3%81%AE%E9%9F%B3/id6746429529"
   },
   {
     "id": "buunyan.tool.point2point",
@@ -1156,7 +1165,8 @@ window.APPS_DATA = [
       "https://play-lh.googleusercontent.com/Xl2MfAidWpc_DlF6Pzo2g8lNGgh1WN-Gs7Ijs_2hLFGcqs_w0dWDJLZkjtC-2uNNJ_BzrRu2gTADq1R925cB"
     ],
     "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.point2point&hl=ja",
-    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.point2point&hl=ja"
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.point2point&hl=ja",
+    "ios_url": "https://apps.apple.com/jp/app/%E8%B7%9D%E9%9B%A2%E6%B8%AC%E5%AE%9A-%E9%9D%A2%E7%A9%8D%E3%82%82%E5%8F%AF/id6756536798"
   },
   {
     "id": "buunyan.tool.escapecall",
@@ -1405,7 +1415,8 @@ window.APPS_DATA = [
       "https://play-lh.googleusercontent.com/rSB5DLPjg0xBE772UeLQ5K3OCeZbQOaOAId_oLuHHhMU0Vc4Y9se1suXjm0lla_0chlnPCNvTdplPSU0ItIOImA"
     ],
     "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.kanken&hl=ja",
-    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.kanken&hl=ja"
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.kanken&hl=ja",
+    "ios_url": "https://apps.apple.com/jp/app/%E6%BC%A2%E6%A4%9C%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC/id6759438236"
   },
   {
     "id": "buunyan.etc.makejanken",
@@ -1471,7 +1482,8 @@ window.APPS_DATA = [
       "https://play-lh.googleusercontent.com/OMQ42tLC7deVpgsWw1hMnXOv3OIGrMp3YJo5hN5Qv4WAlhj9Ht2OQTnxo32KiW6zyQw_09sJaZLaxI70-z8scw"
     ],
     "play_url": "https://play.google.com/store/apps/details?id=com.pzl.sisen&hl=ja",
-    "url": "https://play.google.com/store/apps/details?id=com.pzl.sisen&hl=ja"
+    "url": "https://play.google.com/store/apps/details?id=com.pzl.sisen&hl=ja",
+    "ios_url": "https://apps.apple.com/jp/app/%E3%83%91%E3%82%BA%E3%83%AB%E5%9B%9B%E5%B7%9D%E7%9C%81/id6624296162"
   },
   {
     "id": "buunyan.stg.janken_stg",
@@ -1745,7 +1757,8 @@ window.APPS_DATA = [
       "https://play-lh.googleusercontent.com/9JWJffi7FIcT4p9tzDFW4irQqgMh1C4koFL_1BPefWdsLCYg0h649dlvce8pQTHM0qPB93GFMqJ85xqfMNAAZU0"
     ],
     "play_url": "https://play.google.com/store/apps/details?id=com.tool.geolog&hl=ja",
-    "url": "https://play.google.com/store/apps/details?id=com.tool.geolog&hl=ja"
+    "url": "https://play.google.com/store/apps/details?id=com.tool.geolog&hl=ja",
+    "ios_url": "https://apps.apple.com/jp/app/geolog-photo-location/id6754577792"
   },
   {
     "id": "buunyan.wellness.healthcare",
@@ -1899,7 +1912,8 @@ window.APPS_DATA = [
       "https://play-lh.googleusercontent.com/LyrcXd60KjEsZtyVrzd4pMasPUBKhmNNb14NdklQ9hx2inMSD0NbmOqvriqcuxW0811APfKh4uMmMDXTU4lEcQ"
     ],
     "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.dic4&hl=ja",
-    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.dic4&hl=ja"
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.dic4&hl=ja",
+    "ios_url": "https://apps.apple.com/jp/app/%E5%9B%9B%E5%AD%97%E7%86%9F%E8%AA%9E%E8%BE%9E%E5%85%B8-%E3%82%AA%E3%83%95%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%A7%E3%82%82%E5%88%A9%E7%94%A8%E5%8F%AF%E8%83%BD/id6624305844"
   },
   {
     "id": "buunyan.tool.qrreader",
@@ -2112,7 +2126,8 @@ window.APPS_DATA = [
       "https://play-lh.googleusercontent.com/PWfycohNoATaiglpTNx1Ey1JUvOtCOxM1wrFYz4se3GqXEKOmNcDW_SITJx2M3svqzc4rBy0rXu4MskJKD3y"
     ],
     "play_url": "https://play.google.com/store/apps/details?id=com.buunyan.camera_barcode",
-    "url": "https://play.google.com/store/apps/details?id=com.buunyan.camera_barcode"
+    "url": "https://play.google.com/store/apps/details?id=com.buunyan.camera_barcode",
+    "ios_url": "https://apps.apple.com/jp/app/%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%83%81/id6624300548"
   },
   {
     "id": "com.tool.fieldlink",
@@ -2142,7 +2157,8 @@ window.APPS_DATA = [
       "https://play-lh.googleusercontent.com/kS3cOIEDGPqYXbNP6MsZZB6FaDCpqwgIzP_jR5KFDDv0_IGeDYQfNsiNdMnNIn6c1yvmrLiAhcOp490ot3HD_A"
     ],
     "play_url": "https://play.google.com/store/apps/details?id=com.tool.fieldlink",
-    "url": "https://play.google.com/store/apps/details?id=com.tool.fieldlink"
+    "url": "https://play.google.com/store/apps/details?id=com.tool.fieldlink",
+    "ios_url": "https://apps.apple.com/jp/app/fieldlink-remote-camera/id6758203282"
   },
   {
     "id": "buunyan.pzl.swapblock",
@@ -2231,7 +2247,8 @@ window.APPS_DATA = [
       "https://play-lh.googleusercontent.com/d42jdyzLT1vqbg0XC4SgpbnSFTO9GkyAja0nVsIYP1cFy9nZNZrbHw2NLi6l2lR2eXV52_CEeSJnsPWfrdlw"
     ],
     "play_url": "https://play.google.com/store/apps/details?id=buunyan.game.jelly",
-    "url": "https://play.google.com/store/apps/details?id=buunyan.game.jelly"
+    "url": "https://play.google.com/store/apps/details?id=buunyan.game.jelly",
+    "ios_url": "https://apps.apple.com/jp/app/%E3%81%8F%E3%81%A3%E3%81%A4%E3%81%91%E3%82%BC%E3%83%AA%E3%83%BC/id6755774165"
   },
   {
     "id": "buunyan.game.jigsawpuzzle",
@@ -2262,7 +2279,8 @@ window.APPS_DATA = [
       "https://play-lh.googleusercontent.com/QcHsBz6sDccbqrYD1eb82hh1b1h5eFflLfaSqHT1lPfs0quzseAAKsYj46mLsihTftlEHVlO7mrbFLtTfltVZw"
     ],
     "play_url": "https://play.google.com/store/apps/details?id=buunyan.game.jigsawpuzzle",
-    "url": "https://play.google.com/store/apps/details?id=buunyan.game.jigsawpuzzle"
+    "url": "https://play.google.com/store/apps/details?id=buunyan.game.jigsawpuzzle",
+    "ios_url": "https://apps.apple.com/jp/app/%E7%84%A1%E9%99%90%E3%82%B8%E3%82%B0%E3%82%BD%E3%83%BC%E3%83%91%E3%82%BA%E3%83%AB-%E6%AF%8E%E6%97%A5%E3%83%91%E3%82%BA%E3%83%AB/id6758592356"
   },
   {
     "id": "buunyan.pzl.touchnumber",
@@ -2949,7 +2967,8 @@ window.APPS_DATA = [
       "https://play-lh.googleusercontent.com/wD1_avGOcl8Omq76LEk6GbbIMgYf9qGZJpYQTA0W0YhRvlOtHzNV82lvKgjwRZJ4cVBOAKEzdCiaRpi_dg-dXQ"
     ],
     "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.voicetoken",
-    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.voicetoken"
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.voicetoken",
+    "ios_url": "https://apps.apple.com/jp/app/voice-token/id6757943770"
   },
   {
     "id": "buunyan.tool.aifacemorpher",
@@ -2979,7 +2998,8 @@ window.APPS_DATA = [
       "https://play-lh.googleusercontent.com/FH2UMePbOwvoqfT1GMne5hUPJT_pb-cuL9LH1ixH_pWEbWIC6SKLt381D1Nr_BBe-H0QQ7uFMDfkxOdwygEV"
     ],
     "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.aifacemorpher",
-    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.aifacemorpher"
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.aifacemorpher",
+    "ios_url": "https://apps.apple.com/jp/app/ai-face-morpher/id6757918621"
   },
   {
     "id": "buunyan.tool.pricecompare",
@@ -3009,7 +3029,8 @@ window.APPS_DATA = [
       "https://play-lh.googleusercontent.com/fCxJMD0tI1UL2ARv1i4eqO68IlieQH0QrbnLYu3NrGEm9q-St5Y-pOVUf6m2snZJm9QI09wCycRBzKjNEit3uQ"
     ],
     "play_url": "https://play.google.com/store/apps/details?id=buunyan.tool.pricecompare",
-    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.pricecompare"
+    "url": "https://play.google.com/store/apps/details?id=buunyan.tool.pricecompare",
+    "ios_url": "https://apps.apple.com/jp/app/which-price/id6804093168"
   }
 ];
 window.BUNYAN_APPS = window.APPS_DATA;

@@ -621,6 +621,68 @@ button {
   box-shadow: 0 6px 16px var(--primary-glow);
 }
 
+.btn-app-store {
+  flex: 1.2;
+  padding: 10px 14px;
+  border-radius: var(--radius-md);
+  background: linear-gradient(135deg, #1e293b, #0f172a);
+  color: #fff;
+  font-size: 0.88rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+  transition: var(--transition);
+}
+
+.btn-app-store:hover {
+  background: linear-gradient(135deg, #334155, #1e293b);
+  border-color: rgba(255, 255, 255, 0.4);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.35);
+}
+
+.platform-badges {
+  display: inline-flex;
+  gap: 4px;
+  align-items: center;
+}
+
+.platform-pill {
+  font-size: 0.7rem;
+  font-weight: 700;
+  padding: 2px 7px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.platform-pill.android {
+  background: rgba(16, 185, 129, 0.15);
+  color: var(--accent-emerald);
+}
+
+.platform-pill.ios {
+  background: rgba(56, 189, 248, 0.15);
+  color: var(--accent-cyan);
+}
+
+.card-store-buttons {
+  display: flex;
+  gap: 6px;
+  flex: 1.4;
+}
+
+.card-store-buttons .btn-play-store,
+.card-store-buttons .btn-app-store {
+  flex: 1;
+  padding: 8px 10px;
+  font-size: 0.8rem;
+}
+
 /* About Developer Section */
 .about-section {
   padding: 80px 0;
