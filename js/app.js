@@ -51,8 +51,8 @@ document.addEventListener('DOMContentLoaded', () => {
       // Mini Screens (top 4)
       const screensHtml = (app.screenshots || [])
         .slice(0, 4)
-        .map(src => `
-          <img src="${src}" alt="${escapeHtml(app.title)} スクリーンショット" class="screen-thumb" loading="lazy">
+        .map((src, idx) => `
+          <img src="${src}" alt="${escapeHtml(app.title)} スクリーンショット" class="screen-thumb" loading="lazy" style="cursor: zoom-in;" data-app-id="${app.id}" data-index="${idx}" title="クリックして拡大表示">
         `).join('');
 
       // Platform pills
@@ -134,13 +134,23 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
-  // 3. Card Events for Modal
+  // 3. Card Events for Modal & Lightbox
   function attachCardEvents() {
     const detailButtons = document.querySelectorAll('.btn-open-modal');
     detailButtons.forEach(btn => {
       btn.addEventListener('click', (e) => {
         const appId = btn.dataset.appId;
         openModal(appId);
+      });
+    });
+
+    const cardThumbs = document.querySelectorAll('.screen-thumb');
+    cardThumbs.forEach(thumb => {
+      thumb.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const appId = thumb.dataset.appId;
+        const index = parseInt(thumb.dataset.index, 10) || 0;
+        openLightbox(appId, index);
       });
     });
   }
@@ -186,9 +196,19 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Gallery in Modal
     const modalGallery = document.getElementById('modalScreens');
-    modalGallery.innerHTML = (app.screenshots || []).map(src => `
-      <img src="${src}" alt="スクリーンショット" loading="lazy" onclick="window.open('${src}', '_blank')">
+    const screenshots = app.screenshots || [];
+    modalGallery.innerHTML = screenshots.map((src, idx) => `
+      <img src="${src}" alt="${escapeHtml(app.title)} スクリーンショット" loading="lazy" style="cursor: zoom-in;" data-app-id="${app.id}" data-index="${idx}">
     `).join('');
+
+    // Attach click events on modal gallery images to open lightbox
+    modalGallery.querySelectorAll('img').forEach(img => {
+      img.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const index = parseInt(img.dataset.index, 10) || 0;
+        openLightbox(app.id, index);
+      });
+    });
 
     // Description in Modal
     const modalDesc = document.getElementById('modalDescription');
@@ -200,6 +220,86 @@ document.addEventListener('DOMContentLoaded', () => {
     
     // Update hash without jumping
     history.replaceState(null, '', `#${appId}`);
+  }
+
+  // 4.5. Lightbox Modal Functions (Image Zoom & Carousel)
+  const lightboxBackdrop = document.getElementById('imageLightbox');
+  const lightboxImg = document.getElementById('lightboxImg');
+  const lightboxCaption = document.getElementById('lightboxCaption');
+  const lightboxCloseBtn = document.getElementById('lightboxCloseBtn');
+  const lightboxPrevBtn = document.getElementById('lightboxPrevBtn');
+  const lightboxNextBtn = document.getElementById('lightboxNextBtn');
+
+  let currentLightboxApp = null;
+  let currentLightboxIndex = 0;
+
+  function openLightbox(appId, index = 0) {
+    const app = appsData.find(a => a.id === appId);
+    if (!app || !app.screenshots || app.screenshots.length === 0) return;
+
+    currentLightboxApp = app;
+    currentLightboxIndex = index;
+    updateLightboxContent();
+
+    lightboxBackdrop.classList.add('open');
+    document.body.style.overflow = 'hidden';
+  }
+
+  function updateLightboxContent() {
+    if (!currentLightboxApp || !currentLightboxApp.screenshots) return;
+    const screens = currentLightboxApp.screenshots;
+    if (screens.length === 0) return;
+
+    if (currentLightboxIndex < 0) currentLightboxIndex = screens.length - 1;
+    if (currentLightboxIndex >= screens.length) currentLightboxIndex = 0;
+
+    lightboxImg.src = screens[currentLightboxIndex];
+    lightboxCaption.textContent = `${currentLightboxApp.title} (${currentLightboxIndex + 1} / ${screens.length})`;
+
+    // Hide or dim arrows if only 1 image
+    if (screens.length <= 1) {
+      lightboxPrevBtn.style.display = 'none';
+      lightboxNextBtn.style.display = 'none';
+    } else {
+      lightboxPrevBtn.style.display = 'flex';
+      lightboxNextBtn.style.display = 'flex';
+    }
+  }
+
+  function closeLightbox() {
+    lightboxBackdrop.classList.remove('open');
+    // If main modal is not open, restore scroll
+    if (!modalBackdrop.classList.contains('open')) {
+      document.body.style.overflow = '';
+    }
+    currentLightboxApp = null;
+  }
+
+  function prevLightboxImage(e) {
+    if (e) e.stopPropagation();
+    if (!currentLightboxApp) return;
+    currentLightboxIndex--;
+    updateLightboxContent();
+  }
+
+  function nextLightboxImage(e) {
+    if (e) e.stopPropagation();
+    if (!currentLightboxApp) return;
+    currentLightboxIndex++;
+    updateLightboxContent();
+  }
+
+  if (lightboxCloseBtn) lightboxCloseBtn.addEventListener('click', closeLightbox);
+  if (lightboxPrevBtn) lightboxPrevBtn.addEventListener('click', prevLightboxImage);
+  if (lightboxNextBtn) lightboxNextBtn.addEventListener('click', nextLightboxImage);
+
+  if (lightboxBackdrop) {
+    lightboxBackdrop.addEventListener('click', (e) => {
+      // Close on background click
+      if (e.target === lightboxBackdrop || e.target.classList.contains('lightbox-image-container')) {
+        closeLightbox();
+      }
+    });
   }
 
   function closeModal() {
@@ -220,6 +320,18 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   document.addEventListener('keydown', (e) => {
+    // If Lightbox is open, handle keyboard
+    if (lightboxBackdrop && lightboxBackdrop.classList.contains('open')) {
+      if (e.key === 'Escape') {
+        closeLightbox();
+      } else if (e.key === 'ArrowLeft') {
+        prevLightboxImage();
+      } else if (e.key === 'ArrowRight') {
+        nextLightboxImage();
+      }
+      return;
+    }
+
     if (e.key === 'Escape' && modalBackdrop.classList.contains('open')) {
       closeModal();
     }

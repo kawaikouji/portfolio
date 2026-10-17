@@ -324,6 +324,27 @@
     </div>
   </div>
 
+  <!-- Image Lightbox Modal for Screenshots -->
+  <div class="lightbox-backdrop" id="imageLightbox" role="dialog" aria-modal="true" aria-label="画像拡大ビュー">
+    <button class="lightbox-close-btn" id="lightboxCloseBtn" aria-label="閉じる">&times;</button>
+    <button class="lightbox-nav-btn lightbox-prev-btn" id="lightboxPrevBtn" aria-label="前の画像">
+      <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+        <polyline points="15 18 9 12 15 6"></polyline>
+      </svg>
+    </button>
+    
+    <div class="lightbox-image-container">
+      <img src="" alt="拡大スクリーンショット" id="lightboxImg" class="lightbox-img">
+      <div class="lightbox-caption" id="lightboxCaption">1 / 1</div>
+    </div>
+
+    <button class="lightbox-nav-btn lightbox-next-btn" id="lightboxNextBtn" aria-label="次の画像">
+      <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+        <polyline points="9 18 15 12 9 6"></polyline>
+      </svg>
+    </button>
+  </div>
+
   <!-- Scripts -->
   <script src="assets/data.js"></script>
   <script src="js/app.js"></script>
