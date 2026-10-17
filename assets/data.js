@@ -2466,7 +2466,7 @@ window.APPS_DATA = [
   {
     "id": "buunyan.pzl.nyanpara_pzl15",
     "title": "にゃんぱらり15パズル",
-    "catchphrase": "🐱 かわいい猫の15スライドパズル",
+    "catchphrase": "にゃんぱらりさんの漫画を15パズルにしました！",
     "category": "puzzle",
     "category_label": "パズル・脳トレ",
     "badge": "NEW",
