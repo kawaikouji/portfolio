@@ -1085,10 +1085,44 @@ button {
   transition: var(--transition);
 }
 
-.btn-contact-link:hover {
-  background: #fbbf24;
-  color: #000;
+.btn-contact-link-sub {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  background: rgba(255, 255, 255, 0.15);
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 0.8rem;
+  padding: 4px 12px;
+  border-radius: var(--radius-full);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  transition: var(--transition);
+}
+
+.btn-contact-link-sub:hover {
+  background: rgba(255, 255, 255, 0.3);
+  color: #fff;
   transform: translateY(-1px);
+}
+
+.btn-header-inquiry {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 14px;
+  border-radius: var(--radius-full);
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--text-main);
+  border: 1px solid var(--border-highlight);
+  font-size: 0.85rem;
+  font-weight: 600;
+  transition: var(--transition);
+}
+
+.btn-header-inquiry:hover {
+  background: rgba(255, 255, 255, 0.18);
+  border-color: var(--primary-light);
+  transform: translateY(-2px);
 }
 
 .btn-header-contact {
@@ -1169,11 +1203,33 @@ button {
   box-shadow: 0 6px 18px rgba(245, 158, 11, 0.5);
 }
 
+.btn-about-inquiry {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--text-main);
+  border: 1px solid var(--border-highlight);
+  font-size: 0.95rem;
+  font-weight: 700;
+  padding: 12px 24px;
+  border-radius: var(--radius-full);
+  transition: var(--transition);
+}
+
+.btn-about-inquiry:hover {
+  background: rgba(255, 255, 255, 0.16);
+  border-color: var(--primary-light);
+  color: #ffffff;
+  transform: translateY(-2px);
+}
+
 @media (max-width: 640px) {
   .about-work-request-box {
     padding: 18px;
   }
-  .btn-about-contact {
+  .btn-about-contact,
+  .btn-about-inquiry {
     width: 100%;
     justify-content: center;
     padding: 12px 18px;
