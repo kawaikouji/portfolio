@@ -21,7 +21,12 @@ document.addEventListener('DOMContentLoaded', () => {
     
     const filtered = category === 'all' 
       ? appsData 
-      : appsData.filter(app => app.category === category);
+      : appsData.filter(app => {
+          if (category === 'game') {
+            return app.category === 'game' || app.category === 'puzzle' || app.category === 'casual';
+          }
+          return app.category === category;
+        });
     
     if (appCountEl) {
       appCountEl.textContent = `${filtered.length} 個のアプリを表示中`;
