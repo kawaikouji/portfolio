@@ -3037,5 +3037,40 @@ window.APPS_DATA = [
     ],
     "play_url": "https://play.google.com/store/apps/details?id=com.game.honeycomb_road",
     "url": "https://play.google.com/store/apps/details?id=com.game.honeycomb_road"
+  },
+  {
+    "id": "com.buunyan.simple_memo",
+    "title": "すぐメモ帳 - QR共有できるウィジェット付箋ノート",
+    "catchphrase": "📝 起動1秒ですぐ書ける！アカウント不要でQR共有できるウィジェット対応のシンプル掲示板メモ帳",
+    "category": "tool",
+    "category_label": "便利ツール・日課",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/mr8eVXkZtgwmEEkFjyOk_u1iG1OrTsTArY4eQavnNyO316_95mJHnfCtVd_6Cio2d6UJNtbSZP5GYvhpGCaS",
+    "rating": "4.8",
+    "downloads": "0+",
+    "tags": [
+      "メモ帳",
+      "Android",
+      "便利ツール",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "起動してすぐに書き始められる究極にシンプルなメモ帳",
+      "会員登録・ログイン不要！QRコードをかざすだけでリアルタイムにメモを共有（E2EE暗号化対応）",
+      "ホーム画面ウィジェット対応＆更新時の自動プッシュ通知・日時スタンプ機能搭載"
+    ],
+    "description": "起動してすぐに書き始められる、究極にシンプルなメモ帳アプリです。<br><br>さらに、「会員登録やログインは一切不要」で、QRコードをかざすだけで家族や友人とリアルタイムにメモを共有できるP2P共有・身内掲示板機能を搭載！<br>買い物リストの分担や、身内だけの連絡ボード、ホーム画面ウィジェットでの常時確認まで、毎日のメモがもっと便利になります。<br><br><br>🌟 「すぐメモ帳」のここがすごい！おすすめポイント<br><br>1. 会員登録・ログイン不要！QRコードをかざすだけで即共有<br>面倒なアカウント作成やメールアドレス登録は一切不要。メモ画面のQRコードを相手のカメラで読み取るだけで、一瞬でメモが共有されます。<br><br>2. 更新したら相手にも自動通知！身内掲示板として大活躍<br>誰かがメモを更新すると、共有相手全員にプッシュ通知が届き、リアルタイムに内容が同期されます。<br>・夫婦での「今日のお買い物リスト」<br>・家族間の「伝言板・やることメモ」<br>・サークルや身内同士の「連絡ノート」<br>ワンタップで「日時スタンプ（例: [11/01 10:30 父]）」を挿入できるクイックボタン付きで、掲示板のようなやり取りも快適です。<br><br>3. 安心・安全のエンドツーエンド暗号化（E2EE）<br>共有されるメモは端末間で高度に暗号化（AES-256）されます。サーバーにメモの平文が保存されることはないため、プライベートな内容も安心して共有できます。<br><br>4. 驚きの起動スピードと自動フォーカス<br>アプリを開いた瞬間にキーボードが立ち上がり、入力状態になります。起動して1秒ですぐ書き始められます。<br><br>5. 安心のリアルタイム自動保存<br>入力中にアプリを閉じても、テキストはリアルタイムで自動保存。「保存ボタン」を押し忘れて消えてしまう心配はありません。<br><br>6. ホーム画面ウィジェット連携<br>大事なメモや共有メモをホーム画面に付箋のように配置。ウィジェットをタップするだけで、そのメモの編集画面へダイレクトにジャンプできます。<br><br><br>🛠 主な便利機能<br>・QRコード共有＆リアルタイムプッシュ通知<br>・メモ容量インジケーター（最大1,000バイト）<br>・日時スタンプ挿入ボタン<br>・ドラッグ＆ドロップでの並び替え<br>・多言語対応（日本語、英語、中国語、ヒンディー語）<br>・テーマ切り替え（ダークモード / ライトモード / システム設定）<br>・自動クリーンアップ（空のメモは自動削除）<br><br><br>💡 こんな方におすすめ！<br>・家族やパートナーと「買い物メモ」や「やることリスト」を手軽に共有したい方<br>・ログインやアカウント登録なしで、すぐに使える共有メモを探している方<br>・思いついたアイデアやToDoをその場ですぐにメモしたい方<br>・ホーム画面にメモを貼り付けて、いつでも確認・編集したい方<br>・軽くて余計な機能のないシンプルなメモ帳が好きな方",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/fiUmY-xm3RKd54XI4WbIt0SY2i1zoUnlyDJ_8v38f2l8ynM56dpb2q3C-vibRcwI6nfKQK9IkvCjvBoePnOAAA",
+      "https://play-lh.googleusercontent.com/AaWjk6eKdLQwgKSTO5NEZvM2tq284ueC-JevlkdHxQvOobF042D6dls9K2NotFM9WRDrDYA_CoG0qW9WRf2FQg",
+      "https://play-lh.googleusercontent.com/yzVB1awf-tVgQtwUlZYx9UFQ8dzyTTMFPlgNSemqZJXsCpHBQ76mkNt0jgMic_nZQDWUK4B_SlEpPz1QosCDzw",
+      "https://play-lh.googleusercontent.com/Ycd_uu0BD1CciAUFDoaC2u_Gasf8nJLbZGCZDfoUt8VJbsYBON7Zh1eweQjXGfURJZMPaPpBkcri5_i3LQHR7EU",
+      "https://play-lh.googleusercontent.com/g6VCxJ2G0dgxU8m0PwN_RRObQaYVJ8Zc49OhBEcQBsXmxULV3w2shGAJmBsZ29sUzEOsJfeQnEJlDIWoH2bV1g",
+      "https://play-lh.googleusercontent.com/rQNvXsZ-CotJkNqQyeYmg2dhoDEAJ043O7o8geFCQH0xKkgL27HpkNMWvC4X2iP-omNs7H58wxzt16ZiSWe-",
+      "https://play-lh.googleusercontent.com/5un-0rTbbDXNTkRxP2gYzj4izP0viwOHCRxa36JxzX1k9c41rua2aXI9kIavQTJTlz3UY9SFEhE_blRFArKg2FI",
+      "https://play-lh.googleusercontent.com/cmfGRqHoT4_7ZF_lO9FzF_e5T5SPY6Wx_mRGeHxp8yLc4JF6vmC0L5yMhwSifBn3M0Vy8B6gT-ol-uMiCI9Qtw"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=com.buunyan.simple_memo",
+    "url": "https://play.google.com/store/apps/details?id=com.buunyan.simple_memo"
   }
 ];
