@@ -100,7 +100,8 @@ window.APPS_DATA = [
       "現在地からの距離順表示＆マップナビゲーション"
     ],
     "badge": "巡拝必携",
-    "url": "https://play.google.com/store/apps/details?id=com.buunyan.ichinomiya&hl=ja"
+    "url": "https://play.google.com/store/apps/details?id=com.buunyan.ichinomiya&hl=ja",
+    "ios_url": "https://apps.apple.com/jp/app/%E5%85%A8%E5%9B%BD%E4%B8%80%E5%AE%AE%E3%83%8A%E3%83%93/id6804285297"
   },
   {
     "id": "com.buunyan.water100",
