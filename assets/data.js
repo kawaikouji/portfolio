@@ -3234,5 +3234,40 @@ window.APPS_DATA = [
     ],
     "play_url": "https://play.google.com/store/apps/details?id=tool.clipimg.rembg&hl=ja&gl=jp",
     "url": "https://play.google.com/store/apps/details?id=tool.clipimg.rembg&hl=ja&gl=jp"
+  },
+  {
+    "id": "com.game.ageofdiscovery",
+    "title": "七つの海の羅針盤 -大航海時代RPG-",
+    "catchphrase": "16世紀大航海時代を旅する海洋冒険シミュレーションRPG！交易・海戦・未知の世界へ！",
+    "category": "game",
+    "category_label": "パズル・脳トレ",
+    "badge": "NEW",
+    "icon": "https://play-lh.googleusercontent.com/-8m5bdCx4r1_hLJ3T4JH6lgayziqzJK1DX-EU9vzA8OFWporIM2c3VwKdBX8ssrHW1bfmiOTy22eZz20kk8P",
+    "rating": "4.5",
+    "downloads": "0+",
+    "tags": [
+      "RPG",
+      "シミュレーション",
+      "大航海時代",
+      "bu-nyan"
+    ],
+    "highlights": [
+      "16世紀ヨーロッパ大航海時代を舞台に世界中の港を巡る本格海洋冒険シミュレーションRPG",
+      "名産品の交易で富を築き、未知なる秘境や古代遺跡・世界遺産を発見",
+      "リアルタイム艦隊戦や船長同士の一騎打ち、航海士スカウト＆帆船カスタマイズを搭載"
+    ],
+    "description": "『七つの海の羅針盤』は、16世紀のヨーロッパ大航海時代を舞台にした本格海洋冒険シミュレーションRPGです。<br><br>一隻の小さな帆船から始まり、世界中の港を巡る大航海へ旅立ちましょう！<br>交易による巨万の富の獲得、未知なる秘境や古代遺跡の発見、大海原で繰り広げられる緊迫のリアルタイム艦隊戦や船長同士の一騎打ち――すべてはあなたの羅針盤が指し示すままに。<br><br>【ゲームの特徴】<br>◆ 広大な世界を自由に航海<br>地中海、アフリカ、インド、アジア、そして未知の新大陸へ。実在の港町や世界遺産を訪れ、自分だけの航海録を記そう！<br><br>◆ 交易で巨万の富を築く<br>各地の名産品（香辛料、陶磁器、絹織物など）を安く仕入れ、高く売れる港町で売却！価格変動を見極めて一攫千金を狙おう。<br><br>◆ 迫真の艦隊戦＆白熱の一騎打ち<br>海賊や敵国艦隊との砲撃戦！船の砲門や装甲を強化し、接舷白兵戦や白熱のコマンド式一騎打ちで敵提督を討ち取れ！<br><br>◆ 航海士の登用と艦隊のカスタマイズ<br>酒場や港で個性あふれる航海士たちをスカウト。キャラベル、キャラック、ガレオンなど多彩な帆船を購入・改造し、最強の無敵艦隊を編成しよう！<br><br>◆ 未知なる発見物とクエスト<br>世界各地に眠る遺跡、動植物、財宝を探索・調査。提督としての名声を高め、自国の王室からの信任を勝ち取ろう！<br><br>さあ、羅針盤を手に取り、未知なる大海原へ舵を切れ！",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/ah1BkPV8tXVxrGCpFvDpshV2lVYItbMnvdkMnPz8sKJD7YgRygU122WzU3jUahGNOoEL4FZB8Ejj90r0wfeFWQ",
+      "https://play-lh.googleusercontent.com/YBXvZoFfZIT2yhfq1WLclCZhu6BUsuIswd11BM1jxVfi1vriECVCnZbH3XTXIk8I1eFPHPYwyNqgJmtwvh-XYRg",
+      "https://play-lh.googleusercontent.com/qh_y4HoLqE7alWjhvHySYT2yvpbWpLsMgDvquHrkwpfpPnOI-3WUV06kY79h1Svh4UbfqmG1-FcZ61BKPbq26A",
+      "https://play-lh.googleusercontent.com/XtECOC00gqWSqlPEcyge7XM1SwXikdz0foMEhyP2L8NVYFZC94oHD-s5KfB3qPpC-Zm3rKzIgPTCWlNvRfSUEl4",
+      "https://play-lh.googleusercontent.com/h9en7PPFFPg7yC12VnxJL1TDphyuNvfejrarYJZssNL9q2364url1BJeNiJ7-ou4YvwPV1oftEIe8zI_qhIK",
+      "https://play-lh.googleusercontent.com/COQaj7CuQJ_gCm2freyFL9_fIX1XRMV0C6CzLaUy0rvJJVU-jUCWJGzDwI9iwhiYsZCZG82pZ1kEANBQ2MNt",
+      "https://play-lh.googleusercontent.com/NeTEUFV8r9Mui0AqphBAwPRLaIkVeL-tNFX_pwQNFzo9wYdghR-uNAYLOU-U6DSI3kE-XyJGFYpBghkjRO69ifs",
+      "https://play-lh.googleusercontent.com/ZIyKglPeIYtPu6FRF3ui7Hrr5O-BBiv1aTBVCzERr2CnjBHJ0eCRTktq4VVMxOXW14ujuvx5FT2fWCAyQ71Xug"
+    ],
+    "play_url": "https://play.google.com/store/apps/details?id=com.game.ageofdiscovery&hl=ja&gl=jp",
+    "url": "https://play.google.com/store/apps/details?id=com.game.ageofdiscovery&hl=ja&gl=jp"
   }
 ];
